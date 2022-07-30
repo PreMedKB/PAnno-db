@@ -1,0 +1,60 @@
+{
+  "citations" : [ ],
+  "guideline" : {
+    "@id" : "https://pharmgkb.org/guidelineAnnotation/PA166104993",
+    "@context" : "https://api.pharmgkb.org/jsonld/guidelineAnnotation.jsonld",
+    "objCls" : "Guideline Annotation",
+    "id" : "PA166104993",
+    "name" : "Annotation of ACR Guideline for allopurinol and HLA-B",
+    "cancerGenome" : false,
+    "crossReferences" : [ ],
+    "guidelineGenes" : [ ],
+    "history" : [ {
+      "id" : 1183704559,
+      "date" : "2012-10-01T00:00:00-07:00",
+      "type" : "Create",
+      "version" : 0
+    }, {
+      "id" : 1451678187,
+      "date" : "2022-02-10T13:52:44.905-08:00",
+      "description" : "Added ACR as source",
+      "type" : "Update",
+      "version" : 0
+    } ],
+    "literature" : [ {"@id":"https://pharmgkb.org/literature/15065128","@context":"https://api.pharmgkb.org/jsonld/literature.jsonld","id":15065128,"title":"2012 American College of Rheumatology guidelines for management of gout. Part 1: systematic nonpharmacologic and pharmacologic therapeutic approaches to hyperuricemia.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3683400","crossReferences":[{"@id":"https://pharmgkb.org/crossReference/pmc/PMC3683400","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449278170,"resource":"PubMed Central","resourceId":"PMC3683400","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3683400"},{"@id":"https://pharmgkb.org/crossReference/pubMed/23024028","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449278169,"resource":"PubMed","resourceId":"23024028","_url":"https://www.ncbi.nlm.nih.gov/pubmed/23024028"},{"@id":"https://pharmgkb.org/crossReference/doi/10.1002/acr.21772","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1449278171,"resource":"DOI","resourceId":"10.1002/acr.21772","_url":"http://dx.doi.org/10.1002%2Facr.21772"}],"objCls":"Literature"} ],
+    "pediatric" : false,
+    "recommendation" : true,
+    "relatedAlleles" : [ ],
+    "relatedChemicals" : [ {
+      "@id" : "https://pharmgkb.org/chemical/PA448320",
+      "@context" : "https://api.pharmgkb.org/jsonld/chemical.jsonld",
+      "objCls" : "Chemical",
+      "id" : "PA448320",
+      "name" : "allopurinol",
+      "version" : 8
+    } ],
+    "relatedGenes" : [ {
+      "@id" : "https://pharmgkb.org/gene/PA35056",
+      "@context" : "https://api.pharmgkb.org/jsonld/gene.jsonld",
+      "objCls" : "Gene",
+      "id" : "PA35056",
+      "symbol" : "HLA-B",
+      "name" : "major histocompatibility complex, class I, B",
+      "version" : 40
+    } ],
+    "source" : "ACR",
+    "summaryMarkdown" : {
+      "id" : 1447982018,
+      "html" : "<p>HLA-B*58:01-positive individuals (those with the HLA-B*58:01 variant allele) should be prescribed an alternative drug to allopurinol.</p>\n",
+      "version" : 2
+    },
+    "terms" : [ ],
+    "textMarkdown" : {
+      "id" : 1447982017,
+      "html" : "<p>The <strong>American College of Rheumatology</strong> guidelines for the management of gout include the following statement about pharmacogenomic testing for HLA-B*58:01 and allopurinol:</p>\n<blockquote class=\"blockquote\">\n<p>Those with HLA-B*5801 and of Korean descent with stage 3 or worse CKD (HLA-B*5801 allele frequency ~12%), or of Han Chinese or Thai extraction irrespective of renal function (HLA-B*5801 allele frequency ~6-8%), have been highlighted in the literature as prime examples of subjects at high risk for AHS, marked by HLA-B*5801 hazard ratios of several hundred.  Such high-risk individuals were recommended to be prescribed an alternative to allopurinol if HLA-B*5801 positive.</p>\n</blockquote>\n<p>excerpted from <a href=\"https://api.pharmgkb.org/v1/download/file/attachment/GuidelinesHLABallopurinolACR.pdf\">2012 American College of Rheumatology Guidelines for the Management of Gout. Part1</a></p>\n",
+      "version" : 8
+    },
+    "userId" : "whaleyr",
+    "version" : 17
+  }
+}

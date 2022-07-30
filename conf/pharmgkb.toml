@@ -1,0 +1,303 @@
+[DEFAULT]
+database_name = 'PharmGKB'
+logfile = './log/PharmGKB.log'
+host = '127.0.0.1'
+port = 3306
+passwd = ''
+user = 'root'
+charset = 'utf8'
+local_infile = 1
+
+
+[RAW]
+# primary data
+genes = "./data/pharmgkb/raw_data/genes/genes.tsv"
+variants = "./data/pharmgkb/raw_data/variants/variants.tsv"
+drugs = "./data/pharmgkb/raw_data/drugs/drugs.tsv"
+chemicals = "./data/pharmgkb/raw_data/chemicals/chemicals.tsv"
+phenotypes = "./data/pharmgkb/raw_data/phenotypes/phenotypes.tsv"
+
+# clinical annotations
+clinical_annotations = "./data/pharmgkb/raw_data/clinicalAnnotations/clinical_annotations.tsv"
+clinical_ann_alleles = "./data/pharmgkb/raw_data/clinicalAnnotations/clinical_ann_alleles.tsv"
+clinical_ann_evidence = "./data/pharmgkb/raw_data/clinicalAnnotations/clinical_ann_evidence.tsv"
+
+# variant annotations
+study_parameters = './data/pharmgkb/raw_data/variantAnnotations/study_parameters.tsv'
+var_drug_ann = './data/pharmgkb/raw_data/variantAnnotations/var_drug_ann.tsv'
+var_fa_ann = './data/pharmgkb/raw_data/variantAnnotations/var_fa_ann.tsv'
+var_pheno_ann = './data/pharmgkb/raw_data/variantAnnotations/var_pheno_ann.tsv'
+
+# clinical variants
+clinical_variants = "./data/pharmgkb/raw_data/clinicalVariants/clinicalVariants.tsv"
+
+# guideline annotation
+guideline_path = './data/pharmgkb/raw_data/guidelineAnnotations.json'
+
+# fuscc chemotherapy manual
+fuscc_chemo = "./data/pharmgkb/raw_data/fuscc_chemotherapy_manual.txt"
+
+
+[TSV]
+Gene = "./data/pharmgkb/tables/PharmGKB.Gene"
+Variant = "./data/pharmgkb/tables/PharmGKB.Variant"
+VariantSynonyms = "./data/pharmgkb/tables/PharmGKB.VariantSynonyms"
+Haplotype = "./data/pharmgkb/tables/PharmGKB.Haplotype"
+GeneHasVariant = "./data/pharmgkb/tables/PharmGKB.GeneHasVariant"
+GeneHasHaplotype = "./data/pharmgkb/tables/PharmGKB.GeneHasHaplotype"
+Drug = "./data/pharmgkb/tables/PharmGKB.Drug"
+DrugSynonyms = "./data/pharmgkb/tables/PharmGKB.DrugSynonyms"
+Phenotype = "./data/pharmgkb/tables/PharmGKB.Phenotype"
+PhenotypeSynonyms = "./data/pharmgkb/tables/PharmGKB.PhenotypeSynonyms"
+
+Domain2Meta = "./data/pharmgkb/tables/PharmGKB.Domain2Meta"
+
+EvidenceTypeDic = "./data/pharmgkb/tables/PharmGKB.EvidenceTypeDic"
+VarAnn = "./data/pharmgkb/tables/PharmGKB.VarAnn"
+
+PhenotypeCategoryDic = "./data/pharmgkb/tables/PharmGKB.PhenotypeCategoryDic"
+ClinAnn = "./data/pharmgkb/tables/PharmGKB.ClinAnn"
+ClinAnnEvidence = "./data/pharmgkb/tables/PharmGKB.ClinAnnEvidence"
+ClinAnnHasEvidence = "./data/pharmgkb/tables/PharmGKB.ClinAnnHasEvidence"
+ClinAnnHasPhenotype = "./data/pharmgkb/tables/PharmGKB.ClinAnnHasPhenotype"
+ClinDosingGuideline = './data/pharmgkb/tables/PharmGKB.ClinDosingGuideline'
+
+
+# historical
+PharmGKBStudyTypeDic = '/PGIKB/PharmGKB/PharmGKBStudyTypeDic.tsv'
+PharmGKBRatioStatTypeDic = '/PGIKB/PharmGKB/PharmGKBRatioStatTypeDic.tsv'
+PharmGKBCharacteristicsTypeDic = '/PGIKB/PharmGKB/PharmGKBCharacteristicsTypeDic.tsv'
+PharmGKBRaceDic = '/PGIKB/PharmGKB/PharmGKBRaceDic.tsv'
+PharmGKBStudyParameter = '/PGIKB/PharmGKB/PharmGKBStudyParameter.tsv'
+PharmGKBStuParaHasRace = '/PGIKB/PharmGKB/PharmGKBStuParaHasRace.tsv'
+PharmGKBStuParaHasStuType = '/PGIKB/PharmGKB/PharmGKBStuParaHasStuType.tsv'
+
+PharmGKBSignificanceDic = '/PGIKB/PharmGKB/PharmGKBSignificanceDic.tsv'
+PharmGKBChromosomeDic = '/PGIKB/PharmGKB/PharmGKBChromosomeDic.tsv'
+PharmGKBClinAnnTypeDic = '/PGIKB/PharmGKB/PharmGKBClinAnnTypeDic.tsv'
+PharmGKBVarAnn = '/PGIKB/PharmGKB/PharmGKBVarAnn.tsv'
+PharmGKBVarAnnHasClinAnnType = '/PGIKB/PharmGKB/PharmGKBVarAnnHasClinAnnType.tsv'
+PharmGKBVarAnnHasStuPara = '/PGIKB/PharmGKB/PharmGKBVarAnnHasStuPara.tsv'
+
+PharmGKBLevelOfEvidenceDic = '/PGIKB/PharmGKB/PharmGKBLevelOfEvidenceDic.tsv'
+PharmGKBPhenoGeno = '/PGIKB/PharmGKB/PharmGKBPhenoGeno.tsv'
+PharmGKBGene = '/PGIKB/PharmGKB/PharmGKBGene.tsv'
+PharmGKBVariant = '/PGIKB/PharmGKB/PharmGKBVariant.tsv'
+PharmGKBDrug = '/PGIKB/PharmGKB/PharmGKBDrug.tsv'
+PharmGKBDisease = '/PGIKB/PharmGKB/PharmGKBDisease.tsv'
+PharmGKBClinAnnHasGene = '/PGIKB/PharmGKB/PharmGKBClinAnnHasGene.tsv'
+PharmGKBClinAnnHasVariant = '/PGIKB/PharmGKB/PharmGKBClinAnnHasVariant.tsv'
+PharmGKBClinAnnHasDrug = '/PGIKB/PharmGKB/PharmGKBClinAnnHasDrug.tsv'
+PharmGKBClinAnnHasDisease = '/PGIKB/PharmGKB/PharmGKBClinAnnHasDisease.tsv'
+
+PharmGKBClinAnn = '/PGIKB/PharmGKB/PharmGKBClinAnn.tsv'
+PharmGKBClinAnnHasPhenoGeno = '/PGIKB/PharmGKB/PharmGKBClinAnnHasPhenoGeno.tsv'
+PharmGKBClinAnnHasRace = '/PGIKB/PharmGKB/PharmGKBClinAnnHasRace.tsv'
+PharmGKBClinAnnHasClinAnnType ='/PGIKB/PharmGKB/PharmGKBClinAnnHasClinAnnType.tsv'
+
+
+
+
+abnormal_pharmgkb_data = '/PGIKB/PharmGKB/abnormal_pharmgkb_data.tsv'
+
+
+[PREPRO]
+ClinAnnType = ["Phenotype Category", "Clinical Annotation Types"]
+
+[SCHEMA]
+[SCHEMA.PharmGKBStudyTypeDic]
+Name = "Study Type"
+Name_type = '^[\w/,\- ]{,64}$'
+
+[SCHEMA.PharmGKBRatioStatTypeDic]
+Name = "Ratio Stat Type"
+Name_type = '^[\w ]{,8}$'
+
+[SCHEMA.PharmGKBCharacteristicsTypeDic]
+Name = "Characteristics Type"
+Name_type = '^[\w ]{,32}$'
+
+[SCHEMA.PharmGKBRaceDic]
+Name = "Biogeographical Groups"
+Name_type = '^[\w,./\- ]{,64}$'
+
+[SCHEMA.PharmGKBStudyParameter]
+StudyParametersID = "Study Parameters ID"
+StudyParametersID_type = '^\d{,16}$'
+CaseNum = "Study Cases"
+CaseNum_type = '^[\d|None]{,8}$'
+ControlNum = "Study Controls"
+ControlNum_type = '^[\d|None]{,8}$'
+Characteristics = "Characteristics"
+Characteristics_type = '^.{,}$'
+CharactTypeID = ""
+CharactTypeID_type = '^\d{,8}$'
+AlleleFreqInCase = "Frequency In Cases"
+AlleleFreqInCase_type = '^([-+]?[0-9]*\.?[0-9]*)|(None)$'
+AlleleInCase = "Allele Of Frequency In Cases"
+AlleleInCase_type = '^[\w*:*()><_/\- ]{,128}$'
+AlleleFreqInControl = "Frequency In Controls"
+AlleleFreqInControl_type = '^([-+]?[0-9]*\.?[0-9]*)|(None)$'
+AlleleInControl = "Allele Of Frequency In Controls"
+AlleleInControl_type = '^[\w*:*()><_/\- ]{,128}$'
+PValueOperator = "P Value Operator" 
+PValueOperator_type = "^[\\w*\\[\\]\\'><:= ]{,64}$"
+PValue = "P Value"
+PValue_type = '^([-+]?[0-9]*\.?[0-9]*)|(None)$'
+RatioStatTypeID = ""
+RatioStatTypeID_type = '^\d{,8}$'
+RatioStat = "Ratio Stat"
+RatioStat_type = '^([-+]?[0-9]*\.?[0-9]*)|(None)$'
+ConfiIntStart = "Confidence Interval Start"
+ConfiIntStart_type = '^([-+]?[0-9]*\.?[0-9]*)|(None)$'
+#'^([-+]?[0-9]\d{0,14}(\.\d{0,5})?)|(None)$'
+ConfiIntStop = "Confidence Interval Stop"
+ConfiIntStop_type = '^([-+]?[0-9]*\.?[0-9]*)|(None)$'
+
+[SCHEMA.PharmGKBStuParaHasRace]
+StuParaID = ""
+StuParaID_type = '^\d{,8}$'
+RaceID = ""
+RaceID_type = '^\d{,8}$'
+
+[SCHEMA.PharmGKBStuParaHasStuType]
+StuParaID = ""
+StuParaID_type = '^\d{,8}$'
+StuTypeID = ""
+StuTypeID_type = '^\d{,8}$'
+
+[SCHEMA.PharmGKBSignificanceDic]
+Name = "Significance"
+Name_type = '^[\w ]{,16}$'
+
+[SCHEMA.PharmGKBChromosomeDic]
+Name = "Chromosome"
+Name_type = '^[\w]{,8}$'
+
+[SCHEMA.PharmGKBClinAnnTypeDic]
+Name = ["Phenotype Category", "Clinical Annotation Types"]
+Name_type = '^[\w/ ]{,32}$'
+
+[SCHEMA.PharmGKBVarAnn]
+AnnotationID = "Annotation ID"
+AnnotationID_type = '^\d{,16}$'
+Variant = "Variant"
+Variant_type = "^[\\w.*,;:|/\\-()_\\' ]{,512}$"
+Gene = "Gene"
+Gene_type = "^[\\w.*,;:|/\\-()_\\' ]{,512}$"
+Drug = "Chemical"
+Drug_type = "^[\\w.*,;:|/\\-()_\\' ]{,512}$"
+PMID = "PMID"
+PMID_type = '^[\w.;,\- ]{,64}$'
+SignificanceID = "Significance"
+SignificanceID_type = '^\d{,8}$'
+Notes = "Notes"
+Notes_type = '^.{,}$'
+Sentence = "Sentence"
+Sentence_type = '^.{,}$'
+Allele = "Alleles"
+Allele_type = "^[\\w.*,;:|/\\-+()_\\' ]{,256}$"
+ChrID = "Chromosome"
+ChrID_type = '^\d{,8}$'
+
+[SCHEMA.PharmGKBVarAnnHasClinAnnType]
+VarAnnID = ""
+VarAnnID_type = '^\d{,8}$'
+ClinAnnTypeID = ""
+ClinAnnTypeID_type = '^\d{,8}$'
+
+[SCHEMA.PharmGKBVarAnnHasStuPara]
+VarAnnID = ""
+VarAnnID_type = '^\d{,8}$'
+StuParaID = "StudyParameters"
+StuParaID_type = '^\d{,8}$'
+
+[SCHEMA.PharmGKBLevelOfEvidenceDic]
+Name = "Level of Evidence"
+Name_type = '^[\w ]{,32}$'
+
+[SCHEMA.PharmGKBPhenoGeno]
+PhenoGenotypeID = "Genotype-Phenotype ID"
+PhenoGenotypeID_type = '^\d{,16}$'
+Genotype = "Genotype"
+Genotype_type = "^[\\w*/\\-\\'():,.+=<> ]{,256}$"
+ClinicalPhenotype = "Clinical Phenotype"
+ClinicalPhenotype_type = '^.{,}$'
+
+[SCHEMA.PharmGKBGene]
+Name = "Gene"
+Name_Type = '^[\w.*,;:|/\-()_ ]{,128}$'
+PAID = ""
+PAID_Type = '^PA\d{,16}$'
+
+[SCHEMA.PharmGKBVariant]
+Name = "Location"
+Name_Type = '^[\w.*,;:|/\-()_ ]{,128}$'
+
+[SCHEMA.PharmGKBDrug]
+Name = "Related Chemicals"
+Name_Type = '^[\w.*,;:|/\-()_ ]{,128}$'
+PAID = ""
+PAID_Type = '^PA\d{,16}$'
+
+[SCHEMA.PharmGKBDisease]
+Name = "Related Diseases"
+Name_Type = '^[\w.*,;:|/\-()_ ]{,128}$'
+PAID = ""
+PAID_Type = '^PA\d{,16}$'
+
+[SCHEMA.PharmGKBClinAnnHasGene]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+GeneID = ""
+GeneID_type = '^\d{,8}$'
+
+[SCHEMA.PharmGKBClinAnnHasVariant]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+VariantID = ""
+VariantID_type = '^\d{,8}$'
+
+[SCHEMA.PharmGKBClinAnnHasDrug]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+DrugID = ""
+DrugID_type = '^\d{,8}$'
+
+[SCHEMA.PharmGKBClinAnnHasDisease]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+DiseaseID = ""
+DiseaseID_type = '^\d{,8}$'
+
+[SCHEMA.PharmGKBClinAnn]
+ClinicalAnnotationID = "Clinical Annotation ID"
+ClinicalAnnotationID_type = '^\d{,16}$'
+EvidenceLevelID = ""
+EvidenceLevelID_type = '^\d{,8}$'
+EvidenceCount = "Evidence Count"
+EvidenceCount_type = '^\d{,8}$'
+
+[SCHEMA.PharmGKBClinAnnHasPhenoGeno]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+PhenoGenoID = "Genotype-Phenotype IDs"
+PhenoGenoID_type = '^\d{,8}$'
+
+[SCHEMA.PharmGKBClinAnnHasRace]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+RaceID = ""
+RaceID_type = '^\d{,8}$'
+
+[SCHEMA.PharmGKBClinAnnHasClinAnnType]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+ClinAnnTypeID = ""
+ClinAnnTypeID_type = '^\d{,8}$'
+
+[SCHEMA.PharmGKBClinAnnHasVarAnn]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+VarAnnID = "Variant Annotations IDs"
+VarAnnID_type = '^\d{,8}$'
