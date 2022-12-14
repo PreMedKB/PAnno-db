@@ -37,6 +37,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 981419266	2021-02-03	Update	Added FDA label
 981419266	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 981419266	2022-02-28	Update	Added DPWG guideline
+981419266	2022-06-22	Update	Added PMID 34175889 to evidence
 1451259580	2020-09-03	Create	Created
 1451259580	2021-01-19	Update	Attached CPIC guideline and removed override.
 1451259580	2021-02-02	Update	Updated text to include CPIC function assignments and match template. Added *2.
@@ -107,8 +108,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451225320	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451356380	2021-03-16	Create	Created
 1451356380	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1451241320	2020-08-07	Create	Created
-1451241320	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451240740	2020-08-06	Create	Created
 1451240740	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451240746	2020-08-06	Create	Created
@@ -152,6 +151,8 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451244700	2021-01-30	Update	update text to include statement about DPWG
 1451244700	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451244700	2022-02-10	Update	added guideline as evidence
+1451241320	2020-08-07	Create	Created
+1451241320	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450375047	2019-04-01	Create	Created
 1450375047	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451357763	2021-03-17	Create	Created
@@ -162,9 +163,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451357783	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451357790	2021-03-17	Create	Created
 1451357790	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1451238444	2020-08-04	Create	Created
-1451238444	2021-01-29	Update	Edited phenotype descriptions to include CPIC 'no recommendation'.
-1451238444	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451238460	2020-08-04	Create	Created
 1451238460	2021-01-29	Update	Edited phenotype descriptions to include CPIC 'no recommendation'.
 1451238460	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -385,8 +383,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 827848785	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 827848785	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 827863928	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-827864513	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
-827864513	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 981201408	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 981201424	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 981201443	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
@@ -417,6 +413,8 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 827848732	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 827848732	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 827848732	2022-01-04	Update	Added PMID 34346513 to evidence. Changed CA to be on toxicity only - efficacy VAs have been moved to a new CA. Edited phenotype descriptions and updated phenotype tags.
+827864513	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
+827864513	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 981201888	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 981201888	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 981202090	2017-02-01	Update	AEF added PMID: 28087982 2/1/2017
@@ -1077,13 +1075,17 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1183491162	2016-06-08	Update	
 1183491162	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451398180	2021-03-26	Create	Created
+982030222	2020-08-13	Update	Added PMID 26491254 to evidence, added more star alleles and edited phenotype descriptions. Changed annotation type from other to metabolism/PK.
+982030222	2021-02-12	Update	Added PMID 19891553 to evidence
+982030222	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
+982030222	2022-06-08	Update	Removed duplicates from PMID:16531626
+982030222	2022-06-09	Update	Removed dupicates on 24383060
+982030222	2022-06-15	Update	Removed duplicates on 21558457
+982030222	2022-06-15	Update	Updated text to remove generic alleles and map all to suballeles.
 1183492035	2018-05-14	Update	
 1183492035	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1183492035	2021-02-22	Update	There were 3 VAs from the same paper attached one for each drug. Switched this to the one for all 3 drugs. Score decreased to level 3. Consider splitting into 3 CAs one for each drug.
 1183492035	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-982030222	2020-08-13	Update	Added PMID 26491254 to evidence, added more star alleles and edited phenotype descriptions. Changed annotation type from other to metabolism/PK.
-982030222	2021-02-12	Update	Added PMID 19891553 to evidence
-982030222	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 982030805	2020-08-24	Update	Separated PK and PD evidence
 982030805	2021-02-03	Update	Moved VA 1444696319 to a different CA. Edited phenotype descriptions.
 982030805	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
@@ -1213,6 +1215,9 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1183607419	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183607656	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1183607656	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1183574175	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
+1183574175	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1183574175	2022-04-11	Update	Moved VA on PMID 25615449 to a new CA. Consolidated VAs from PMID 23183491. Rewrote phenotype descriptions and changed phenotype category to efficacy.
 1156738774	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1156738774	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1156738774	2021-12-03	Update	Added metabolism/PK phenotype category. Minor edits to phenotype descriptions.
@@ -1238,8 +1243,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1183532599	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183619312	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1183619312	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1183574175	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
-1183574175	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183564259	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1183564259	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183623069	2017-05-03	Update	Added PMID 28448657
@@ -1289,17 +1292,19 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1183679858	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183684144	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183684167	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1183690892	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
-1183690892	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183693438	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183693448	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1183697278	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183697388	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1183697388	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183679823	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451398347	2021-03-26	Create	Created
 1451403400	2021-04-05	Create	Created
 1451403420	2021-04-05	Create	Created
+1183690892	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
+1183690892	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1183690892	2022-05-17	Update	Corrected phenotype descriptions
+1183697278	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1183697278	2022-09-29	Update	fixed typo
 1183680546	2017-12-20	Update	updating ClinVar submission data
 1183680546	2020-07-01	Note	Following curator meeting on 7/1/2020, it was agreed that variant annotations covering therapies using one or both of peginterferon 2a and 2b in addition to ribavirin and boceprevir could be combined into one clinical annotation.
 1183680546	2020-07-01	Update	Added PMIDs 27711230 and 28469811 to evidence. Changed LOE to 1A as this is covered by the CPIC guideline for IFNL3, peginterferons and ribavirin.
@@ -1477,8 +1482,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451403467	2021-04-05	Create	Created
 1450375074	2019-04-01	Create	Created
 1450375074	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1450808921	2019-07-30	Create	Created
-1450808921	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450811417	2019-08-23	Create	Created
 1450811417	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1156076089	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
@@ -2021,6 +2024,8 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 981419263	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 981419263	2021-05-04	Update	Added PMID:33910375
 981419263	2022-01-10	Update	Added PMID 34350628 to evidence.
+981419263	2022-03-03	Note	1184996938 (the separate annotation on *1511) is now retired
+981419263	2022-03-03	Update	Added *1511 allele and attached literature. Attached DPWG guidelines.
 655387745	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 655387745	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 981419487	2014-11-26	Update	I removed PMID 17741074 because it is not relevant to this clinical annotation.
@@ -2074,11 +2079,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 982032228	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 982032638	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 982029578	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-982030161	2018-05-23	Update	added additional study
-982030161	2020-08-07	Update	Changed VA to be on isoniazid only. Isoniazid-containing combination therapies have been moved to new CAs. Added new alleles and rewrote phenotype descriptions.
-982030161	2021-02-12	Update	Moved VAs from PMIDs 11915035 and 27340556 to other CAs. Removed some VAs on PMID 24888881 and phenotype descriptions for *6 and *7 alleles from annotation
-982030161	2021-02-22	Update	Added VA from PMID 29036176
-982030161	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 982030916	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 982030916	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 982031034	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -2185,8 +2185,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1183492128	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183492235	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1183492235	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1183574180	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
-1183574180	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183614547	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183614624	2020-08-26	Update	Limited to response phenotype or where study parameters or details defined another phenotype by response. Updated text to new format.
 1183614624	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -2808,6 +2806,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1450807912	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450812417	2019-08-28	Create	Created
 1450812417	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1450812417	2022-08-15	Update	Rewrote phenotype descriptions
 1449270961	2018-04-11	Create	
 1449270961	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1449270961	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -2929,12 +2928,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1450935242	2019-12-11	Create	Created
 1450935242	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450935242	2021-05-18	Update	Migrate to CYP2C8 core allele *1
-1449715423	2018-08-14	Create	
-1449715423	2020-05-12	Update	Added PMIDs 28121959 and 31773668 to evidence
-1449715423	2020-08-03	Update	Edited annotation to be on dosage only.
-1449715423	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1449715423	2021-05-19	Update	Added PMID 33977649 to evidence and added sentence about conflicting evidence
-1449715423	2022-03-23	Update	Change CYP3A4 named allele *1G to *36
 1449715596	2018-08-14	Create	
 1449715596	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1449715596	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -2942,6 +2935,12 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1449715626	2021-01-28	Update	Edited phenotype descriptions to include CPIC 'no recommendation'.
 1449715626	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451410280	2021-04-13	Create	Created
+1449715423	2018-08-14	Create	
+1449715423	2020-05-12	Update	Added PMIDs 28121959 and 31773668 to evidence
+1449715423	2020-08-03	Update	Edited annotation to be on dosage only.
+1449715423	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1449715423	2021-05-19	Update	Added PMID 33977649 to evidence and added sentence about conflicting evidence
+1449715423	2022-03-23	Update	Change CYP3A4 named allele *1G to *36
 1450373489	2019-03-25	Create	Created
 1450373489	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1449003976	2017-11-01	Create	
@@ -3111,12 +3110,21 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1450808938	2019-07-30	Create	Created
 1450808938	2019-09-09	Update	Added PMID 22046326 to evidence and updated phenotype descriptions and biogeographical information.
 1450808938	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1450808951	2019-07-30	Create	Created
-1450808951	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1450808938	2022-07-12	Update	Rewrote phenotype descriptions to be on alleles rather than genotypes.
+1450808938	2022-09-29	Update	Change CYP2A6 named allele *1A to *1
+1450808938	2022-09-29	Update	Change CYP2A6 named allele *4A to *4
+1450808938	2022-09-29	Update	Change CYP2A6 named allele *9A to *9
 1450811273	2019-08-21	Create	Created
 1450811273	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450812235	2019-08-27	Create	Created
 1450812235	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1450808951	2019-07-30	Create	Created
+1450808951	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1450808951	2022-07-12	Update	Added PMID 16452582 to evidence. Rewrote phenotype descriptions to be on alleles rather than genotypes.
+1450808951	2022-07-22	Update	Change CYP2A6 named allele *1B1 to *46
+1450808951	2022-09-29	Update	Change CYP2A6 named allele *1A to *1
+1450808951	2022-09-29	Update	Change CYP2A6 named allele *4A to *4
+1450808951	2022-09-29	Update	Change CYP2A6 named allele *9A to *9
 1450812748	2019-08-30	Create	Created
 1450812748	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450812998	2019-09-06	Create	Created
@@ -3546,6 +3554,8 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 655384738	2020-03-02	Update	Removed all links to haplotypes.
 655384738	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655384738	2021-11-19	Update	Added PMID 31114289 to evidence and rewrote phenotype descriptions to fit LOE 4 template.
+655384830	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+655384830	2022-07-28	Update	Switched CA to be on * alleles rather than the rsID.
 655384563	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655384568	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655384578	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -3583,7 +3593,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 655384817	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655384821	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 655384821	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-655384830	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184747247	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1184747247	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655384587	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
@@ -3737,6 +3746,10 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 655385134	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655385139	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 655385139	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+655385159	2017-05-15	Update	Added "Metabolism" type
+655385159	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
+655385159	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+655385159	2022-04-22	Update	Added PMID 33850298 to evidence. Updated phenotype descriptions and tagged conflicting evidence.
 655385149	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655385154	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655385307	2018-01-30	Update	
@@ -3757,7 +3770,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 655385272	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655385277	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655385286	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-655385295	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655385299	2018-01-30	Update	
 655385299	2018-06-21	Update	Added PMID 29743634
 655385299	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -3781,9 +3793,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 655385223	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655385125	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 655385125	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-655385159	2017-05-15	Update	Added "Metabolism" type
-655385159	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
-655385159	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 655385205	2018-02-26	Update	Added PMID 29474345 to evidence and changed race category.
 655385205	2018-02-26	Update	Added PMID 25185591 to evidence
 655385205	2018-04-19	Update	Added PMID 23686330 to evidence
@@ -3802,6 +3811,17 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 655385241	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1449575633	2018-07-02	Create	
 1449575633	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1449716951	2018-08-21	Create	
+1449716951	2020-08-07	Update	Added new VAs from PMIDs 21494765 and 21975350, removed VAs on catalytic activity of CYP2A6, added new alleles to CA and rewrote phenotype descriptions. LOE changed to 2A.
+1449716951	2021-02-11	Update	added gene name; combined diplotype VAs for 21975350 since analysis preformed based on phenotype
+1449716951	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1449716951	2022-06-27	Update	Consolidated VAs from PMID 21494765
+1449716951	2022-07-20	Update	Removed *4E allele in preparation for CYP2A6 release on PharmVar
+1449716951	2022-07-22	Update	Change CYP2A6 named allele *1B1 to *46
+1449716951	2022-09-29	Update	Change CYP2A6 named allele *1A to *1
+1449716951	2022-09-29	Update	Change CYP2A6 named allele *4A to *4
+1449716951	2022-09-29	Update	Change CYP2A6 named allele *12A to *12
+1449716951	2022-09-29	Update	Change CYP2A6 named allele *35A to *35
 1449575668	2018-07-02	Create	
 1449575668	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1449575690	2018-07-02	Create	
@@ -3811,10 +3831,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1449713004	2018-07-20	Create	
 1449713004	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1449713004	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1449716951	2018-08-21	Create	
-1449716951	2020-08-07	Update	Added new VAs from PMIDs 21494765 and 21975350, removed VAs on catalytic activity of CYP2A6, added new alleles to CA and rewrote phenotype descriptions. LOE changed to 2A.
-1449716951	2021-02-11	Update	added gene name; combined diplotype VAs for 21975350 since analysis preformed based on phenotype
-1449716951	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1449575656	2018-07-02	Create	
 1449575656	2020-11-05	Update	changed to level 1A because of CPIC guideline
 1449575656	2021-02-05	Update	Attached CPIC guideline and removed override. Added CPIC function and modified text.
@@ -4176,6 +4192,18 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 981204090	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 981204107	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 981204107	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1451241420	2020-08-07	Create	Created
+1451241420	2021-02-04	Update	Minor edits to phenotype descriptions
+1451241420	2021-02-12	Update	Added VAs from PMIDs 19891553, 11915035 19686464, 20392357, 28799976, 31699005, 11595069, 29036176, 22506592, 21856096, 18421452 and 29036176 to evidence. Moved VAs from PMID 26911349 to another CA.
+1451241420	2021-02-16	Update	Removed overlapping VAs from PMIDs 21261721, 23190413, 22506592, 22020825, 21047300 and 17950035.
+1451241420	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
+1451241420	2022-06-08	Update	Removed duplicate on PMID:21047300 after mapping of suballeles
+1451241420	2022-06-09	Update	Resolved the 3 VAs on PMID:21261721, 2 are same direction and one contradictory.
+1451241420	2022-06-16	Update	Described all the suballeles and deleted the generic alleles. Included all isoniazid regimens.
+1451241420	2022-06-16	Update	Added phenotype drug-induced liver injury.
+1451241420	2022-06-20	Update	Removed VA on rs1495741 since not part of a recognized haplotype.
+1451241420	2022-06-20	Update	Removed duplicates on 22012226 after consolidation of alleles into one more comprehensive VA
+1451241420	2022-06-20	Update	Removed limited evidence tag on *14 as is in 4 VAs. Placed limited evidence tag on *13A as is only in 2 VAs.
 981204286	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 981204306	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 981204306	2020-05-29	Update	Added PMID 32457604 to evidence, updated phenotype descriptions and biogeographical information
@@ -4194,15 +4222,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 981204414	2016-12-06	Update	
 981204414	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 981204975	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1451241420	2020-08-07	Create	Created
-1451241420	2021-02-04	Update	Minor edits to phenotype descriptions
-1451241420	2021-02-12	Update	Added VAs from PMIDs 19891553, 11915035 19686464, 20392357, 28799976, 31699005, 11595069, 29036176, 22506592, 21856096, 18421452 and 29036176 to evidence. Moved VAs from PMID 26911349 to another CA.
-1451241420	2021-02-16	Update	Removed overlapping VAs from PMIDs 21261721, 23190413, 22506592, 22020825, 21047300 and 17950035.
-1451241420	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
-1451241440	2020-08-07	Create	Created
-1451241440	2021-02-12	Update	Added PMIDs 22947533 and 10751073 to evidence. Added *5, *6 and *7 alleles to annotation.
-1451241440	2021-02-12	Update	Added PMIDs 26911349 and 27340556 to evidence. Moved PMIDs 28799976 and 31699005 to a different CA. Minor edits to phenotype descriptions.
-1451241440	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 981203808	2018-03-02	Update	
 981203808	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 981203808	2020-08-11	Update	Changed CA to be on star allele rather than rsID. Moved LOE to 3 given number of studies which do not find an association.
@@ -4212,12 +4231,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 981203936	2020-10-30	Update	changed level based on score
 981203936	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 981204372	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1451241460	2020-08-07	Create	Created
-1451241460	2021-02-12	Update	Added VA from PMID 21856096 to evidence.
-1451241460	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
-1451241490	2020-08-07	Create	Created
-1451241490	2021-02-12	Update	Changed drug connection to AND. Added VAs from PMIDs 18421452 and 19686464 to evidence. Minor edits to phenotype descriptions.
-1451241490	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 1451241700	2020-08-09	Create	Created
 1451241700	2021-02-10	Update	only donor CYP3A5 genotype evidence for liver transplantation
 1451241700	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
@@ -4342,23 +4355,28 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451428500	2021-04-30	Create	Created
 1451430540	2021-05-03	Create	Created
 1451592476	2021-11-22	Create	Created
-1451435940	2021-05-12	Create	Created
-1451435940	2021-05-17	Update	Added PMID 21205314 to evidence
 1451431120	2021-05-04	Create	Created
 1451431120	2021-05-04	Update	Update due to score change for duplicate cohort
 1451431120	2022-01-10	Update	Added PMID 34350628 to evidence and updated phenotype tags.
+1451435940	2021-05-12	Create	Created
+1451435940	2021-05-17	Update	Added PMID 21205314 to evidence
+1451435940	2021-06-15	Update	Added CPIC guideline to evidence and edited phenotype descriptions. Awaiting curator check before approval.
 1451592484	2021-11-22	Create	Created
 1451435945	2021-05-12	Create	Created
 1451435945	2021-05-17	Update	Added PMID 21205314 to evidence
 1451435945	2021-05-17	Update	Added PMID 25474306 to evidence
+1451435945	2021-06-15	Update	Added CPIC guideline to evidence and edited phenotype descriptions. Awaiting curator check before approval.
 1451436100	2021-05-12	Create	Created
 1451436121	2021-05-12	Create	Created
+1451436121	2021-06-15	Update	Added CPIC guideline to evidence and edited phenotype descriptions. Awaiting curator check before approval.
 981238397	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 981238397	2022-01-04	Update	Changed CA to be on combination of mercaptopurine and methotrexate. All VAs on methotrexate alone show no association.
 1451436133	2021-05-12	Create	Created
 1451436133	2021-05-17	Update	Added PMID 21205314 to evidence
+1451436133	2021-06-15	Update	Added CPIC guideline to evidence and edited phenotype descriptions. Awaiting curator check before approval.
 1451436138	2021-05-12	Create	Created
 1451436138	2021-05-17	Update	Added PMID 21205314 to evidence
+1451436138	2021-06-15	Update	Added CPIC guideline to evidence and edited phenotype descriptions. Awaiting curator check before approval.
 1451436180	2021-05-12	Create	Created
 1451434860	2021-05-10	Create	Created
 1451434860	2021-05-12	Note	Checked by second curator before approval
@@ -4480,24 +4498,27 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1450932687	2020-08-04	Update	Moved VAs on specific adverse events to new clinical annotations. Connected drugs by 'and' instead of 'or'.
 1450932687	2021-01-29	Update	Added additional VA from PMID 30549211 and edited phenotype descriptions to include CPIC 'no recommendation'
 1450932687	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1451436473	2021-05-12	Create	Created
 1451434880	2021-05-10	Create	Created
 1451434880	2021-05-12	Update	Added PMID 9315872 to evidence
 1451434880	2021-05-13	Update	Added PMID 12127547 to evidence
 1451434880	2021-05-13	Update	Added PMID 16152638 to evidence
 1451434880	2021-05-13	Update	Added PMID 19687236 to evidence
 1451434880	2021-05-17	Update	Added PMID 21205314 to evidence
-1451436473	2021-05-12	Create	Created
+1451434880	2021-06-15	Update	Added CPIC guideline to evidence and edited phenotype descriptions. Awaiting curator check before approval.
 1451434905	2021-05-10	Create	Created
 1451434905	2021-05-12	Update	Added PMID 9315872 to evidence
 1451434905	2021-05-13	Update	Added PMID 12054632 to evidence
 1451434905	2021-05-13	Update	Added PMID 12127547 to evidence
 1451434905	2021-05-13	Update	Added PMID 19687236 to evidence
+1451434920	2021-05-10	Create	Created
+1451434920	2021-05-12	Update	Added PMID 10661905 to evidence
+1451434920	2021-06-15	Update	Added CPIC guideline to evidence and edited phenotype descriptions. Awaiting curator check before approval.
 1451434930	2021-05-10	Create	Created
 1451434930	2021-05-12	Update	Added PMID 9315872 to evidence
 1451434930	2021-05-13	Update	Added PMID 12127547 to evidence
 1451434930	2021-05-13	Update	Added PMID 19687236 to evidence
-1451434920	2021-05-10	Create	Created
-1451434920	2021-05-12	Update	Added PMID 10661905 to evidence
+1451434930	2021-06-15	Update	Added CPIC guideline to evidence and edited phenotype descriptions. Awaiting curator check before approval.
 1448635968	2017-07-14	Create	
 1448635968	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1449163928	2018-01-18	Create	
@@ -4649,7 +4670,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1449271033	2018-04-12	Create	
 1449271033	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1449271033	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1451439812	2021-05-17	Create	Created
 1449271057	2018-04-12	Create	
 1449271057	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1449271057	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -4659,10 +4679,13 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1449271069	2018-04-12	Create	
 1449271069	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1449271069	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1451439812	2021-05-17	Create	Created
+1451439812	2021-06-15	Update	Added CPIC guideline to evidence and edited phenotype descriptions. Awaiting curator check before approval.
 1449165230	2018-02-01	Create	
 1449165230	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451436140	2021-05-12	Create	Created
 1451436140	2021-05-17	Update	Added PMID 21205314 to evidence
+1451436140	2021-06-15	Update	Added CPIC guideline to evidence and edited phenotype descriptions. Awaiting curator check before approval.
 1449165794	2018-02-02	Create	
 1449165794	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1448636814	2017-07-24	Create	
@@ -5139,7 +5162,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1183704311	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184348731	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1184348731	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1184472649	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184472737	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1184472737	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184472746	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
@@ -5147,6 +5169,9 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1184516188	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183702981	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183702981	2022-01-10	Update	Added PMID 34380995 to evidence and edited phenotype descriptions.
+1184472649	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1184472649	2022-07-01	Update	Consolidated VAs and updated phenotype descriptions.
+1184472649	2022-09-29	Update	Change CYP2A6 named allele *1A to *1
 1184661207	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183705788	2018-11-29	Update	Assigned LOE 1A since variant listed in recommendation of CPIC guideline
 1183705788	2020-11-03	Update	Drugs kept combined based on specifics of Malignant Hyperthermia diagnostics and CPIC guideline/EMHG inclusion.
@@ -5299,24 +5324,20 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1183704243	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183848125	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1183848125	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1184233166	2020-05-18	Update	added further articles but all are only on acetylator phenotype rather than NAT2 genotype
-1184233166	2020-11-03	Update	modified to allele description
-1184233166	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183960790	2018-03-23	Update	Added PMID 25266159 to evidence
 1183960790	2020-09-16	Update	Added reason for override.
 1183960790	2021-02-02	Update	Attached CPIC guideline and FDA label for ivacaftor.
 1183960790	2021-03-09	Update	Added rsID to phenotype descriptions
 1183960790	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
+1184233166	2020-05-18	Update	added further articles but all are only on acetylator phenotype rather than NAT2 genotype
+1184233166	2020-11-03	Update	modified to allele description
+1184233166	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1184233166	2022-07-19	Update	Updated to suballeles.
 1183680699	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184513736	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1184513736	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184654253	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1184654253	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1184746746	2020-05-04	Update	removed *1A and *3D
-1184746746	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1184653758	2020-04-30	Update	removed *1S
-1184653758	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1184653758	2021-06-08	Update	Removed *9 and *12 because these have level 1 annotation.
 1184648909	2017-10-26	Update	
 1184648909	2020-07-30	Update	Limited to mercaptopurine, removed in vitro activity VAs, leaving only dosage and toxicity.
 1184648909	2020-08-03	Update	Restricted to just toxicity phenotypes. Dosing will be in a separate Clinical annotation.
@@ -5327,6 +5348,16 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1184648909	2021-02-03	Update	Removed VA on *12 as this is uncertain function allele and has a lower level CA.
 1184648909	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 1184648909	2021-06-08	Update	Added *9 and *12 and attached DPWG guideline
+1184648909	2022-04-13	Update	Added phenotype description for *6 allele
+1184746746	2020-05-04	Update	removed *1A and *3D
+1184746746	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1184746746	2022-04-14	Update	Changed CA to be on thiopurine PK only.
+1184746746	2022-04-14	Update	Edited phenotype descriptions
+1184746746	2022-04-14	Update	Moved *23 to another CA
+1184653758	2020-04-30	Update	removed *1S
+1184653758	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1184653758	2021-06-08	Update	Removed *9 and *12 because these have level 1 annotation.
+1184653758	2022-04-14	Update	Changed CA to be on mercaptopurine PK only.
 1183704287	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184472708	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1184472708	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -6021,13 +6052,13 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1445400172	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 1451716760	2022-03-11	Create	Created
 1451476520	2021-07-29	Create	Created
-1451637387	2022-01-05	Create	Created
 1447676595	2016-01-11	Create	
 1447676595	2018-02-15	Update	Added PMID 29238301
 1447676595	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1447676595	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1447676595	2022-02-28	Update	added DPWG guideline annotation, change in LOE
 1447676595	2022-03-01	Note	Second curator check
+1451637387	2022-01-05	Create	Created
 1447521350	2015-11-30	Create	
 1447521350	2015-11-30	Update	
 1447521350	2021-02-09	Update	Removed VA on propylthiouracil and restricted to just the prodrug carbimazole or metabolite/drug methimazole since there were no positive VAs just on propylthiouracil and most recent paper divided treatment groups and found propylthiouracil one to be negative for association.
@@ -6224,8 +6255,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1444703951	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1444703976	2015-04-15	Create	
 1444703976	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1444704784	2015-04-20	Create	
-1444704784	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1444704795	2015-04-20	Create	
 1444704795	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1444704795	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -6281,6 +6310,9 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1445400924	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 1451476564	2021-07-29	Create	Created
 1451504300	2021-09-27	Create	Created
+1444704784	2015-04-20	Create	
+1444704784	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1444704784	2022-09-23	Update	fixed typo in phenotype description
 1446904283	2015-10-09	Create	
 1446904283	2016-06-22	Update	Changed gene to CXCL10
 1446904283	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
@@ -6332,6 +6364,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1446905231	2020-11-12	Update	Add paper
 1446905231	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451496100	2021-09-15	Create	Created
+1451743169	2022-04-06	Create	Created
 1451504307	2021-09-27	Create	Created
 1451723589	2022-03-18	Create	Created
 1444666110	2015-01-13	Create	
@@ -6875,6 +6908,8 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1446897191	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1446903007	2015-10-06	Create	
 1446903007	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1451720996	2022-03-15	Create	Created
+1451720996	2022-09-22	Update	fixed typos
 1448601910	2017-02-15	Create	
 1448601910	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1448602210	2017-02-18	Create	
@@ -6887,7 +6922,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448603309	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1448603309	2022-02-10	Update	Added PMIDs 25558980, 27977335 and 34871222 to evidence and updated phenotype descriptions.
 1451679780	2022-02-11	Create	Created
-1451720996	2022-03-15	Create	Created
 1451721004	2022-03-15	Create	Created
 1451721021	2022-03-15	Create	Created
 1451737460	2022-03-31	Create	Created
@@ -6896,13 +6930,15 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1444700896	2015-04-03	Create	
 1444700896	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1444700896	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1451721013	2022-03-15	Create	Created
+1451721013	2022-09-22	Update	fixed typos
 1446897696	2015-09-17	Create	
 1446897696	2017-12-07	Update	Added PMID 27564227 and Updated wording. Kept at LoE 3. Genotypes not clear (one study mentions A w/decreased risk (AT, AC, AA) and other study says "CC assoc. w/inc. risk vs. other genotypes" which presumably includes AT, AC, AA, but also TT. Not clear.
 1446897696	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1446897696	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451638961	2022-01-06	Create	Created
 1451720980	2022-03-15	Create	Created
-1451721013	2022-03-15	Create	Created
+1451748166	2022-04-11	Create	Created
 1184987404	2014-10-10	Create	Created
 1184987404	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184988860	2014-10-15	Create	Created
@@ -6914,6 +6950,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1184997072	2014-10-31	Create	Created
 1184997072	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1184997072	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1451748840	2022-04-12	Create	Created
 1184998947	2014-11-11	Create	
 1184998947	2014-11-11	Note	Clinical consequences of this are not clear. Couldn't select metabolism/PK as the annotation type...filed a JIRA that this is missing.
 1184998947	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -6998,6 +7035,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1296599132	2021-07-29	Update	Added PMID 21887680 to evidence and tagged as conflicting. Minor edits to phenotype descriptions.
 1296599132	2021-10-21	Update	Added PMID 32695297 to evidence
 1296599132	2022-01-04	Update	Added PMID 34346513 to evidence.
+1451748940	2022-04-12	Create	Created
 1448573615	2017-02-01	Create	
 1448573615	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1448601692	2017-02-15	Create	
@@ -7018,6 +7056,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448594289	2017-02-08	Create	
 1448594289	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451737520	2022-03-31	Create	Created
+1451748948	2022-04-12	Create	Created
 1184989970	2014-10-24	Create	Created
 1184989970	2018-09-14	Update	Added PMID 16580768 to evidence, updated annotation text and population information
 1184989970	2020-09-01	Update	added further studies and combined with 1184989980
@@ -7093,6 +7132,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1444672774	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451649631	2022-01-14	Create	Created
 1451737560	2022-03-31	Create	Created
+1451749040	2022-04-12	Create	Created
 1184753786	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1184753786	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184753786	2021-10-12	Update	Change SLCO1B1 named allele *1B to *37
@@ -7339,14 +7379,15 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1444710680	2015-05-21	Create	
 1444710680	2015-05-21	Update	
 1444710680	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1184756886	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
-1184756886	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183697617	2016-02-22	Update	
 1183697617	2021-02-03	Update	Minor edits to phenotype descriptions
 1183697617	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183697617	2021-10-13	Update	Added PMID 25177243 to evidence and made minor edits to phenotype descriptions.
 1183697617	2021-10-21	Update	Added PMID 32612964 to evidence
 1451640205	2022-01-07	Create	Created
+1184756886	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
+1184756886	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1184756886	2022-04-07	Update	Removed allopurinol VA from CA
 1184747857	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184986985	2014-10-09	Create	Created
 1184986985	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
@@ -7585,9 +7626,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1444706709	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1444706709	2020-08-24	Update	Updated to new format.
 1444706709	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
-1444665904	2015-01-13	Create	
-1444665904	2019-11-15	Update	Updated 'extensive metabolizer' term to 'normal metabolizer' following CPIC Term Standardization Project.
-1444665904	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1444666137	2015-01-13	Create	
 1444666137	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1444666145	2015-01-13	Create	
@@ -7650,6 +7688,9 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1444703401	2017-02-23	Update	
 1444703401	2021-02-09	Update	Minor edits to phenotype descriptions
 1444703401	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1444665904	2015-01-13	Create	
+1444665904	2019-11-15	Update	Updated 'extensive metabolizer' term to 'normal metabolizer' following CPIC Term Standardization Project.
+1444665904	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184748865	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184748874	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184748879	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -7860,6 +7901,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1444843493	2015-06-22	Create	
 1444843493	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1444843493	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1451760600	2022-04-22	Create	Created
 1446899176	2015-09-23	Create	
 1446899176	2016-10-20	Update	AEF 10/20/16 added PMID 27740732
 1446899176	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
@@ -7952,6 +7994,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1185000534	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184764213	2017-12-15	Update	Added PMID 29193002 and decreased to LoE 4 because 1 PMID is significant when part of a haplotype, and the other is not significant.
 1184764213	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1451760701	2022-04-22	Create	Created
 1444666198	2015-01-13	Create	
 1444666198	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1444666198	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -8240,6 +8283,9 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1185003571	2014-11-25	Create	
 1185003571	2014-11-25	Update	
 1185003571	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1184996860	2014-10-30	Create	Created
+1184996860	2021-02-05	Update	Added DPWG guideline
+1184996860	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 1444699308	2015-03-26	Create	
 1444699308	2017-05-19	Update	
 1444699308	2021-02-09	Update	Removed individual drugs from annotation, edited phenotype descriptions
@@ -8248,6 +8294,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1444699308	2021-05-12	Note	Checked by second curator before approval
 1444699308	2021-05-12	Update	Moved VAs on specific drugs to new CAs
 1444699308	2021-05-17	Update	Added PMID 21205314 to evidence
+1444699308	2021-06-15	Update	Added CPIC guideline to evidence and edited phenotype descriptions. Awaiting curator check before approval.
 1444699743	2015-03-27	Create	
 1444699743	2017-05-19	Update	
 1444699743	2020-10-27	Update	Changed language to include about mitochondrial DNA.
@@ -8256,9 +8303,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1444699743	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1444699743	2021-05-12	Update	Moved VAs on specific drugs to new CAs
 1444699743	2021-05-17	Update	Added PMID 21205314 to evidence
-1184996860	2014-10-30	Create	Created
-1184996860	2021-02-05	Update	Added DPWG guideline
-1184996860	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
+1444699743	2021-06-15	Update	Added CPIC guideline to evidence and edited phenotype descriptions. Awaiting curator check before approval.
 1184749271	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1184749271	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1184753976	2020-10-23	Update	modified to only cover uncertain function alleles
@@ -8303,11 +8348,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1445401831	2016-09-22	Update	AEF 9/22/16 added PMID 27574448 and neuropathy phrasing
 1445401831	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1445401831	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1445400186	2015-07-30	Create	
-1445400186	2018-04-26	Update	Added PMID 21804810
-1445400186	2018-11-29	Update	Assigned LOE 1A since variant listed in recommendation of CPIC guideline
-1445400186	2020-11-03	Update	Drugs kept combined based on specifics of Malignant Hyperthermia diagnostics and CPIC guideline/EMHG inclusion.
-1445400186	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 1139506787	2018-02-20	Update	Evidence level change from 2B to 2A because CYP2A6 is a VIP
 1139506787	2019-07-30	Update	Removed PMIDs 25416559, 16402128 and 15940289 from this annotation for inclusion in new clinical annotations
 1139506787	2019-08-09	Update	Added PMID 15861035 to evidence and added *12 allele to annotation
@@ -8325,6 +8365,26 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1139506787	2022-02-01	Update	Added PMID 19365400 to evidence and updated phenotype descriptions.
 1139506787	2022-02-07	Update	Added PMID 34476898 to evidence
 1139506787	2022-02-09	Update	Added PMID 21597399 to evidence.
+1139506787	2022-06-22	Update	Consolidated VAs from PMID 15900015
+1139506787	2022-06-23	Update	Moved VA on coumarin to coumarin CA
+1139506787	2022-07-05	Update	Consolidated VAs from PMID 11779172
+1139506787	2022-07-05	Update	Consolidated VAs from PMID 15993850
+1139506787	2022-07-08	Update	Consolidated VAs from PMID 12844137
+1139506787	2022-07-11	Update	Consolidated VAs from PMID 16952495 and added *11, *13 and *15 alleles
+1139506787	2022-07-12	Update	Added descriptions for *14 and *38 alleles. Tagged *14 and *1x2 alleles as Limited Evidence. Removed no association VA on *18.
+1139506787	2022-07-19	Update	Converted *1X2B allele to *1X2A in preparation for CYP2A6's release on PharmVar
+1139506787	2022-07-22	Update	Change CYP2A6 named allele *1X2A to *1x2
+1139506787	2022-07-22	Update	Change CYP2A6 named allele *1B1 to *46
+1139506787	2022-09-29	Update	Change CYP2A6 named allele *1A to *1
+1139506787	2022-09-29	Update	Change CYP2A6 named allele *4A to *4
+1139506787	2022-09-29	Update	Change CYP2A6 named allele *9A to *9
+1139506787	2022-09-29	Update	Change CYP2A6 named allele *24A to *24
+1139506787	2022-09-29	Update	Change CYP2A6 named allele *28A to *28
+1445400186	2015-07-30	Create	
+1445400186	2018-04-26	Update	Added PMID 21804810
+1445400186	2018-11-29	Update	Assigned LOE 1A since variant listed in recommendation of CPIC guideline
+1445400186	2020-11-03	Update	Drugs kept combined based on specifics of Malignant Hyperthermia diagnostics and CPIC guideline/EMHG inclusion.
+1445400186	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 1451678240	2022-02-10	Create	Created
 1451678240	2022-02-14	Note	Second curator check
 1451678600	2022-02-10	Create	Created
@@ -8423,9 +8483,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1444703258	2016-06-22	Update	added gene
 1444703258	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1444703258	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1444703273	2015-04-15	Create	
-1444703273	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
-1444703273	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1444703430	2015-04-15	Create	
 1444703430	2016-06-22	Update	added gene
 1444703430	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -8506,6 +8563,12 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451677518	2022-02-15	Note	Second curator check
 1451678188	2022-02-10	Create	Created
 1451678188	2022-02-15	Note	Second curator check
+1444703273	2015-04-15	Create	
+1444703273	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
+1444703273	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1444703273	2022-04-22	Update	Added PMID 33850298 to evidence. Updated phenotype descriptions.
+1451761240	2022-04-22	Create	Created
+1451761248	2022-04-22	Create	Created
 1447990846	2016-05-24	Create	
 1447990846	2018-02-13	Update	Added PMID 29425227 to evidence
 1447990846	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
@@ -8632,9 +8695,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448613038	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1448616855	2017-05-04	Create	
 1448616855	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1448624874	2017-06-01	Create	
-1448624874	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
-1448624874	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451510621	2021-09-30	Create	Created
 1451510641	2021-09-30	Create	Created
 1448605577	2017-03-23	Create	
@@ -8674,6 +8734,9 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448604251	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1448604251	2021-04-01	Update	Added PMID 33454797 to evidence. Removed VAs on dosage so CA is now on PK only.
 1448604251	2021-11-19	Update	Moved conflicting tag from PMID 25456329 to PMID 27284701. Added other genotypes included in PMID 25456329 and edited phenotype descriptions.
+1448624874	2017-06-01	Create	
+1448624874	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
+1448624874	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1447949171	2016-03-07	Create	
 1447949171	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1447949171	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -8896,6 +8959,9 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1449576572	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1449576572	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1449576572	2021-05-18	Update	Migrate to CYP2C8 core allele *1
+1451825200	2022-07-13	Create	Created
+1451825220	2022-07-13	Create	Created
+1451825226	2022-07-13	Create	Created
 1447954390	2016-03-23	Create	
 1447954390	2021-02-03	Update	Minor edits to phenotype descriptions
 1447954390	2021-02-10	Update	modified text to highlight the findings with regards to chloride transport, set category to 'other' and set level of evidence to 3
@@ -9083,6 +9149,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1449296314	2018-04-23	Create	
 1449296314	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1449296314	2022-02-25	Update	added DPWG clause.
+1451809140	2022-06-22	Create	Created
 1447946212	2016-02-23	Create	
 1447946212	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1447946219	2016-02-23	Create	
@@ -9469,6 +9536,15 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448266429	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451662923	2022-01-28	Create	Created
 1451662923	2022-01-31	Update	Added PMID 17220563 to evidence and updated relevant phenotype descriptions.
+1451662923	2022-06-22	Update	Consolidated VAs from PMID 15900015
+1451662923	2022-06-23	Update	Consolidated VAs from PMID 14583682
+1451662923	2022-07-05	Update	Consolidated VAs from PMID 11779172
+1451662923	2022-07-05	Update	Consolidated VAs from PMID 12844137
+1451662923	2022-07-20	Update	Removed *4B, *4C and *4D alleles in preparation for CYP2A6 release on PharmVar
+1451662923	2022-09-29	Update	Change CYP2A6 named allele *1A to *1
+1451662923	2022-09-29	Update	Change CYP2A6 named allele *4A to *4
+1451662923	2022-09-29	Update	Change CYP2A6 named allele *12A to *12
+1451662923	2022-09-29	Update	Change CYP2A6 named allele *18A to *18
 1447960204	2016-04-05	Create	
 1447960204	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1447963598	2016-04-14	Create	
@@ -9503,6 +9579,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1447963078	2019-09-09	Update	Added PMID 22046326 to evidence and updated phenotype descriptions.
 1447963078	2021-02-09	Update	updated text
 1447963078	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1451810680	2022-06-24	Create	Created
 1448098376	2016-06-06	Create	
 1448098376	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1448098376	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -9626,9 +9703,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1447964002	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1447964164	2016-04-18	Create	
 1447964164	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1447979561	2016-04-20	Create	
-1447979561	2016-04-20	Update	
-1447979561	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1447989777	2016-05-18	Create	
 1447989777	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1447989777	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -9687,6 +9761,16 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448262537	2016-09-15	Update	
 1448262537	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1448262537	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1447979561	2016-04-20	Create	
+1447979561	2016-04-20	Update	
+1447979561	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1447979561	2022-06-22	Update	Consolidated VAs from PMID 15900015
+1447979561	2022-07-11	Update	Consolidated VAs from PMID 18380793
+1447979561	2022-07-20	Update	Rewrote clinical annotation to be on alleles only.
+1447979561	2022-07-22	Update	Change CYP2A6 named allele *1B1 to *46
+1447979561	2022-09-29	Update	Change CYP2A6 named allele *1A to *1
+1447979561	2022-09-29	Update	Change CYP2A6 named allele *4A to *4
+1447979561	2022-09-29	Update	Change CYP2A6 named allele *18A to *18
 1447989671	2016-05-18	Create	
 1447989671	2016-07-20	Update	
 1447989671	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
@@ -9717,6 +9801,8 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1447989723	2020-10-07	Update	level 1A due to CPIC guideline
 1447989723	2021-02-08	Update	Attached CPIC guideline and removed override. Added CPIC function and modified text.
 1447989723	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
+1451829900	2022-07-21	Create	Created
+1451832220	2022-07-25	Create	Created
 1447960245	2016-04-05	Create	
 1447960245	2016-04-05	Update	
 1447960245	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -9960,6 +10046,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1447949639	2016-03-14	Create	
 1447949639	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1447949639	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1451810960	2022-06-24	Create	Created
 1447963182	2016-04-13	Create	
 1447963182	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1447963701	2016-04-14	Create	
@@ -9999,6 +10086,11 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1447960443	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1447960443	2021-06-29	Update	Corrected errors in phenotype descriptions
 1451666140	2022-02-01	Create	Created
+1451666140	2022-07-22	Update	Change CYP2A6 named allele *1B1 to *46
+1451666140	2022-09-29	Update	Change CYP2A6 named allele *1A to *1
+1451666140	2022-09-29	Update	Change CYP2A6 named allele *4A to *4
+1451666140	2022-09-29	Update	Change CYP2A6 named allele *24A to *24
+1451666140	2022-09-29	Update	Change CYP2A6 named allele *28A to *28
 1447952004	2016-03-20	Create	
 1447952004	2016-06-22	Update	
 1447952004	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
@@ -10044,6 +10136,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448104059	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1448102439	2016-06-14	Create	
 1448102439	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
+1451834440	2022-07-28	Create	Created
 1448423855	2016-11-07	Create	
 1448423855	2018-03-22	Update	Added PMID 2381399 to evidence and edited annotation text
 1448423855	2021-03-10	Update	Minor edits to phenotype descriptions
@@ -10129,6 +10222,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448104189	2021-03-15	Update	Added PMID 32302325 to evidence, added phenotype descriptions for *16 and *18 and tagged as limited evidence.
 1448104189	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 1448104189	2021-05-18	Update	removed *16 phenotype, *16 is merged to *18 due to PharmVar update Jan 2020
+1451868500	2022-08-24	Create	Created
 1447953102	2016-03-22	Create	
 1447953102	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1447960191	2016-04-05	Create	
@@ -10174,6 +10268,8 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448109783	2016-06-27	Create	
 1448109783	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451666355	2022-02-01	Create	Created
+1451815200	2022-06-30	Create	Created
+1451868400	2022-08-24	Create	Created
 1447961129	2016-04-07	Create	
 1447961129	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1447961136	2016-04-07	Create	
@@ -10233,6 +10329,8 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448100804	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1448100804	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451646580	2022-01-12	Create	Created
+1451868520	2022-08-24	Create	Created
+1451868540	2022-08-24	Create	Created
 1448265557	2016-10-04	Create	
 1448265557	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1448265557	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -10599,6 +10697,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451666740	2022-02-01	Create	Created
 1451666740	2022-02-08	Update	added guideline as evidence
 1451666740	2022-02-15	Note	Second curator check
+1451773100	2022-05-06	Create	Created
 1448123834	2016-07-14	Create	
 1448123834	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1448264343	2016-09-27	Create	
@@ -10616,9 +10715,10 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1449146840	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1449147022	2017-11-16	Create	
 1449147022	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1451702280	2022-03-03	Create	Created
 1449147609	2017-11-17	Create	
 1449147609	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1451702280	2022-03-03	Create	Created
+1449147609	2022-09-29	Update	Corrected phenotype descriptions
 1447990578	2016-05-23	Create	
 1447990578	2016-06-09	Update	
 1447990578	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
@@ -10640,12 +10740,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448104372	2016-06-20	Create	
 1448104372	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1448104372	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1448124216	2016-07-18	Create	
-1448124216	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
-1448124216	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1448124242	2016-07-18	Create	
-1448124242	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
-1448124242	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1448257263	2016-08-17	Create	
 1448257263	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1448257270	2016-08-17	Create	
@@ -10669,6 +10763,12 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448615147	2017-04-21	Create	
 1448615147	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1448615147	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1448124242	2016-07-18	Create	
+1448124242	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
+1448124242	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1448124216	2016-07-18	Create	
+1448124216	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
+1448124216	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1183532576	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1183532576	2020-02-27	Update	Focussed on E4 and mortality post-MI and switched from haplotype to variant based annotation.
 1183532576	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -10936,6 +11036,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448112493	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1448112493	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451704080	2022-03-03	Create	Created
+1451704080	2022-06-13	Update	Updated based on VA suballeles. The slow acetylator alleles had been listed as decreased risk but VA weight suggests increased risk relative to *4/*4 so changed this. Also fixed typos.
 1447991729	2016-05-26	Create	
 1447991729	2016-06-23	Update	Added gene to CA
 1447991729	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
@@ -10952,10 +11053,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448603625	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 982043234	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 982043234	2021-12-06	Update	Consolidated multiple VAs from same publication. Added efficacy phenotype category and rewrote phenotype descriptions.
-1183491446	2018-10-12	Update	Added PMID 30304062 to evidence and updated annotation text, phenotypes and biogeographical information
-1183491446	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
-1183491446	2020-08-18	Update	Restricted number of positive studies per paper and indicated conflicting studies. Updated to new format.
-1183491446	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1185012209	2014-11-25	Create	
 1185012209	2016-12-09	Update	
 1185012209	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -11034,9 +11131,18 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 982030854	2019-11-11	Update	Added PMIDs 22935916 and 28696411 to evidence and updated phenotype descriptions.
 982030854	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 982030854	2021-12-03	Update	Added efficacy phenotype category. Minor edits to phenotype descriptions.
+1183491446	2018-10-12	Update	Added PMID 30304062 to evidence and updated annotation text, phenotypes and biogeographical information
+1183491446	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
+1183491446	2020-08-18	Update	Restricted number of positive studies per paper and indicated conflicting studies. Updated to new format.
+1183491446	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1183491446	2022-04-05	Update	Edited phenotype descriptions
 1447990271	2016-05-23	Create	
 1447990271	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1447990271	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1448255939	2016-08-02	Create	
+1448255939	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
+1448255939	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1448255939	2022-09-22	Update	fixed typo
 1447990913	2016-05-24	Create	
 1447990913	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1448097822	2016-06-02	Create	
@@ -11097,9 +11203,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1448104015	2016-11-08	Update	
 1448104015	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
 1448104015	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1448255939	2016-08-02	Create	
-1448255939	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
-1448255939	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1448259106	2016-08-25	Create	
 1448259106	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1448276321	2016-10-27	Create	
@@ -11457,10 +11560,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1447813861	2016-02-05	Create	
 1447813861	2020-04-01	Update	Migrate to CYP3A5 core alleles
 1447813861	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1448423466	2016-11-04	Create	
-1448423466	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
-1448423466	2020-04-01	Update	Migrate to CYP3A5 core alleles
-1448423466	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1448426877	2016-11-09	Create	
 1448426877	2020-04-01	Update	Migrate to CYP3A5 core alleles
 1448426877	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -11503,6 +11602,11 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1449713943	2020-04-01	Update	Migrate to CYP3A5 core alleles
 1449713943	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1449713943	2022-02-10	Update	Added PMID 34877660 to evidence, changed CA to be on alleles rather than genotypes and rewrote phenotype descriptions.
+1448423466	2016-11-04	Create	
+1448423466	2018-11-05	Update	Updated OMB race to appropriate biogeographical group
+1448423466	2020-04-01	Update	Migrate to CYP3A5 core alleles
+1448423466	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1448423466	2022-06-13	Update	Updated phenotype descriptions to new standards
 1451100007	2020-04-02	Create	Created
 1451100007	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451100053	2020-04-02	Create	Created
@@ -11804,16 +11908,17 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451237200	2021-02-03	Update	Attached CPIC guideline and removed override. Added CPIC function and modified text.
 1451237200	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 1451237200	2021-06-08	Update	Added *9 and attached DPWG guideline.
-1451237240	2020-08-03	Create	Created
-1451237240	2020-08-04	Update	Changed decreased function to no function
-1451237240	2021-01-20	Update	Attached CPIC guideline and removed override. Added conflicting evidence statement.
-1451237240	2021-02-03	Update	Added gene name to text
-1451237240	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
 1451237326	2020-08-03	Create	New annotation when split 1184648909 to have separate annotations for azathioprine and mercaptopurine and separate annotations for toxicity and dosage
 1451237326	2020-08-04	Update	Changed decreased function to no function to match CPIC allele functions.
 1451237326	2020-08-04	Update	Overide score because part of established CPIC guideline.
 1451237326	2021-01-20	Update	Attached CPIC guideline and removed override. Added conflicting evidence statement as there is one paper that found no dose change.
 1451237326	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
+1451237240	2020-08-03	Create	Created
+1451237240	2020-08-04	Update	Changed decreased function to no function
+1451237240	2021-01-20	Update	Attached CPIC guideline and removed override. Added conflicting evidence statement.
+1451237240	2021-02-03	Update	Added gene name to text
+1451237240	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.
+1451237240	2022-04-13	Update	Added PMIDs 16396707, 20175817, 16202677, 10376773, 12172211, 19682195, 18616518, 16543290, 12269967 to evidence, added phenotype description for *6, updated other phenotype descriptions.
 1450929125	2019-11-14	Create	Created
 1450929125	2020-10-26	Update	Update to use scoring system to assign level. Decreased from level 2 to level 3.
 1450929125	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
@@ -12179,8 +12284,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1450808106	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450813540	2019-09-09	Create	Created
 1450813540	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1450813547	2019-09-09	Create	Created
-1450813547	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450934191	2019-12-06	Create	Created
 1450934191	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1449275238	2018-04-17	Create	
@@ -12199,6 +12302,12 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1450809583	2020-07-28	Update	added *62
 1450809583	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450809583	2021-05-18	Update	Added sentence about DPWG 'no recommendation' to phenotype descriptions
+1450813547	2019-09-09	Create	Created
+1450813547	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1450813547	2022-07-12	Update	Rewrote phenotype descriptions to be on alleles rather than genotypes.
+1450813547	2022-07-21	Update	Added *2 allele to CA
+1450813547	2022-07-22	Update	Change CYP2A6 named allele *1X2A to *1x2
+1450813547	2022-09-29	Update	Change CYP2A6 named allele *1A to *1
 1450811035	2019-08-16	Create	Created
 1450811035	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450811044	2019-08-16	Create	Created
@@ -12215,8 +12324,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1450811978	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450811984	2019-08-26	Create	Created
 1450811984	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
-1450813560	2019-09-09	Create	Created
-1450813560	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450815104	2019-09-17	Create	Created
 1450815104	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1450815154	2019-09-17	Create	Created
@@ -12796,6 +12903,7 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451144780	2020-05-20	Create	Created
 1451144780	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451144780	2022-03-21	Update	Added new VA from PMID 32112986, changed CA to be on star alleles instead of SNP and edited phenotype descriptions.
+1451144780	2022-09-23	Update	fixed typo
 1451141882	2020-05-18	Create	Created
 1451141882	2020-06-04	Update	Added PMIDs 7693389, 24269714, 25621429, 20837591 and 14998425 to evidence, added more star alleles and phenotype descriptions and updated biogeographical information. LOE changed to 3 to reflect addition of new evidence.
 1451141882	2021-02-02	Update	Minor edits to phenotype descriptions
@@ -12927,8 +13035,6 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451154980	2021-04-29	Update	Added DPWG guideline as evidence
 1451154980	2022-01-06	Update	Added PMID 34246203 to evidence.
 1451154980	2022-01-11	Update	Added PMID 34423496 to evidence.
-1451163460	2020-06-15	Create	Created
-1451163460	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451184626	2020-06-18	Create	Created
 1451184626	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451207020	2020-06-23	Create	Created
@@ -12969,6 +13075,9 @@ Clinical Annotation ID	Date (YYYY-MM-DD)	Type	Comment
 1451217540	2020-07-01	Create	Created
 1451217540	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
 1451217540	2021-12-03	Update	Added efficacy phenotype category. Minor edits to phenotype descriptions.
+1451163460	2020-06-15	Create	Created
+1451163460	2021-03-24	Update	CA score added as part of scoring system release. LOE may have automatically changed based on new score but may be subject to further changes upon curator review.
+1451163460	2022-09-29	Update	Change CYP2A6 named allele *1A to *1
 1451265448	2020-09-17	Create	Created
 1451265448	2021-02-03	Update	Added CPIC guideline and *3, *5 and *6 alleles to CA. Edited phenotype descriptions.
 1451265448	2021-03-24	Update	CA score added as part of scoring system release. LOE assigned following curator review.

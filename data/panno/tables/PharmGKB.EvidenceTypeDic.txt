@@ -1,0 +1,6 @@
+Name
+Guideline Annotation
+Variant Phenotype Annotation
+Variant Drug Annotation
+Variant Functional Assay Annotation
+Label Annotation

@@ -1,0 +1,277 @@
+[DEFAULT]
+database_name = 'PAnno'
+logfile = './log/PAnno.log'
+host = '127.0.0.1'
+port = 3306
+passwd = ''
+user = 'root'
+charset = 'utf8'
+local_infile = 1
+
+
+[RAW]
+# primary data
+genes = "./data/pharmgkb/raw_data/genes/genes.tsv"
+variants = "./data/pharmgkb/raw_data/variants/variants.tsv"
+drugs = "./data/pharmgkb/raw_data/drugs/drugs.tsv"
+chemicals = "./data/pharmgkb/raw_data/chemicals/chemicals.tsv"
+phenotypes = "./data/pharmgkb/raw_data/phenotypes/phenotypes.tsv"
+
+# clinical annotations
+clinical_annotations = "./data/pharmgkb/raw_data/clinicalAnnotations/clinical_annotations.tsv"
+clinical_ann_alleles = "./data/pharmgkb/raw_data/clinicalAnnotations/clinical_ann_alleles.tsv"
+clinical_ann_evidence = "./data/pharmgkb/raw_data/clinicalAnnotations/clinical_ann_evidence.tsv"
+
+# variant annotations
+study_parameters = './data/pharmgkb/raw_data/variantAnnotations/study_parameters.tsv'
+var_drug_ann = './data/pharmgkb/raw_data/variantAnnotations/var_drug_ann.tsv'
+var_fa_ann = './data/pharmgkb/raw_data/variantAnnotations/var_fa_ann.tsv'
+var_pheno_ann = './data/pharmgkb/raw_data/variantAnnotations/var_pheno_ann.tsv'
+
+# clinical variants
+clinical_variants = "./data/pharmgkb/raw_data/clinicalVariants/clinicalVariants.tsv"
+
+# guideline annotation
+guideline_path = './data/pharmgkb/raw_data/guidelineAnnotations.json'
+drug_label_path = './data/pharmgkb/raw_data/drugLabels'
+drug_label_tsv = './data/pharmgkb/raw_data/drugLabels/drugLabels.tsv'
+
+# fuscc chemotherapy manual
+fuscc_chemo = "./data/pharmgkb/raw_data/fuscc_chemotherapy_manual.txt"
+
+
+[TSV]
+Gene = "./data/panno/tables/PharmGKB.Gene.txt"
+Variant = "./data/panno/tables/PharmGKB.Variant.txt"
+VariantSynonyms = "./data/panno/tables/PharmGKB.VariantSynonyms.txt"
+Haplotype = "./data/panno/tables/PharmGKB.Haplotype.txt"
+GeneHasVariant = "./data/panno/tables/PharmGKB.GeneHasVariant.txt"
+GeneHasHaplotype = "./data/panno/tables/PharmGKB.GeneHasHaplotype.txt"
+Drug = "./data/panno/tables/PharmGKB.Drug.txt"
+DrugSynonyms = "./data/panno/tables/PharmGKB.DrugSynonyms.txt"
+Phenotype = "./data/panno/tables/PharmGKB.Phenotype.txt"
+PhenotypeSynonyms = "./data/panno/tables/PharmGKB.PhenotypeSynonyms.txt"
+
+Domain2Meta = "./data/panno/tables/PharmGKB.Domain2Meta.txt"
+
+EvidenceTypeDic = "./data/panno/tables/PharmGKB.EvidenceTypeDic.txt"
+VarAnn = "./data/panno/tables/PharmGKB.VarAnn.txt"
+
+PhenotypeCategoryDic = "./data/panno/tables/PharmGKB.PhenotypeCategoryDic.txt"
+ClinAnn = "./data/panno/tables/PharmGKB.ClinAnn.txt"
+ClinAnnEvidence = "./data/panno/tables/PharmGKB.ClinAnnEvidence.txt"
+ClinAnnHasEvidence = "./data/panno/tables/PharmGKB.ClinAnnHasEvidence.txt"
+ClinAnnHasPhenotype = "./data/panno/tables/PharmGKB.ClinAnnHasPhenotype.txt"
+ClinAnnHasVariant = "./data/panno/tables/PharmGKB.ClinAnnHasVariant.txt"
+ClinAnnHasDrug = "./data/panno/tables/PharmGKB.ClinAnnHasDrug.txt"
+Guideline = "./data/panno/tables/PharmGKB.Guideline.txt"
+GuidelineDetail = "./data/panno/tables/PharmGKB.GuidelineDetail.txt"
+GuidelineMerge = "./data/panno/tables/PharmGKB.GuidelineMerge.txt"
+GuidelineRule = "./data/panno/tables/PharmGKB.GuidelineRule.txt"
+
+AlleleFunctionality = "./data/panno/tables/CPIC.AlleleFunctionality.txt"
+DiplotypePhenotype = "./data/panno/tables/CPIC.DiplotypePhenotype.txt"
+EHRConsultation = "./data/panno/tables/CPIC.EHRConsultation.txt"
+
+
+
+[PREPRO]
+ClinAnnType = ["Phenotype Category", "Clinical Annotation Types"]
+
+[SCHEMA]
+[SCHEMA.PAnnoStudyTypeDic]
+Name = "Study Type"
+Name_type = '^[\w/,\- ]{,64}$'
+
+[SCHEMA.PAnnoRatioStatTypeDic]
+Name = "Ratio Stat Type"
+Name_type = '^[\w ]{,8}$'
+
+[SCHEMA.PAnnoCharacteristicsTypeDic]
+Name = "Characteristics Type"
+Name_type = '^[\w ]{,32}$'
+
+[SCHEMA.PAnnoRaceDic]
+Name = "Biogeographical Groups"
+Name_type = '^[\w,./\- ]{,64}$'
+
+[SCHEMA.PAnnoStudyParameter]
+StudyParametersID = "Study Parameters ID"
+StudyParametersID_type = '^\d{,16}$'
+CaseNum = "Study Cases"
+CaseNum_type = '^[\d|None]{,8}$'
+ControlNum = "Study Controls"
+ControlNum_type = '^[\d|None]{,8}$'
+Characteristics = "Characteristics"
+Characteristics_type = '^.{,}$'
+CharactTypeID = ""
+CharactTypeID_type = '^\d{,8}$'
+AlleleFreqInCase = "Frequency In Cases"
+AlleleFreqInCase_type = '^([-+]?[0-9]*\.?[0-9]*)|(None)$'
+AlleleInCase = "Allele Of Frequency In Cases"
+AlleleInCase_type = '^[\w*:*()><_/\- ]{,128}$'
+AlleleFreqInControl = "Frequency In Controls"
+AlleleFreqInControl_type = '^([-+]?[0-9]*\.?[0-9]*)|(None)$'
+AlleleInControl = "Allele Of Frequency In Controls"
+AlleleInControl_type = '^[\w*:*()><_/\- ]{,128}$'
+PValueOperator = "P Value Operator" 
+PValueOperator_type = "^[\\w*\\[\\]\\'><:= ]{,64}$"
+PValue = "P Value"
+PValue_type = '^([-+]?[0-9]*\.?[0-9]*)|(None)$'
+RatioStatTypeID = ""
+RatioStatTypeID_type = '^\d{,8}$'
+RatioStat = "Ratio Stat"
+RatioStat_type = '^([-+]?[0-9]*\.?[0-9]*)|(None)$'
+ConfiIntStart = "Confidence Interval Start"
+ConfiIntStart_type = '^([-+]?[0-9]*\.?[0-9]*)|(None)$'
+#'^([-+]?[0-9]\d{0,14}(\.\d{0,5})?)|(None)$'
+ConfiIntStop = "Confidence Interval Stop"
+ConfiIntStop_type = '^([-+]?[0-9]*\.?[0-9]*)|(None)$'
+
+[SCHEMA.PAnnoStuParaHasRace]
+StuParaID = ""
+StuParaID_type = '^\d{,8}$'
+RaceID = ""
+RaceID_type = '^\d{,8}$'
+
+[SCHEMA.PAnnoStuParaHasStuType]
+StuParaID = ""
+StuParaID_type = '^\d{,8}$'
+StuTypeID = ""
+StuTypeID_type = '^\d{,8}$'
+
+[SCHEMA.PAnnoSignificanceDic]
+Name = "Significance"
+Name_type = '^[\w ]{,16}$'
+
+[SCHEMA.PAnnoChromosomeDic]
+Name = "Chromosome"
+Name_type = '^[\w]{,8}$'
+
+[SCHEMA.PAnnoClinAnnTypeDic]
+Name = ["Phenotype Category", "Clinical Annotation Types"]
+Name_type = '^[\w/ ]{,32}$'
+
+[SCHEMA.PAnnoVarAnn]
+AnnotationID = "Annotation ID"
+AnnotationID_type = '^\d{,16}$'
+Variant = "Variant"
+Variant_type = "^[\\w.*,;:|/\\-()_\\' ]{,512}$"
+Gene = "Gene"
+Gene_type = "^[\\w.*,;:|/\\-()_\\' ]{,512}$"
+Drug = "Chemical"
+Drug_type = "^[\\w.*,;:|/\\-()_\\' ]{,512}$"
+PMID = "PMID"
+PMID_type = '^[\w.;,\- ]{,64}$'
+SignificanceID = "Significance"
+SignificanceID_type = '^\d{,8}$'
+Notes = "Notes"
+Notes_type = '^.{,}$'
+Sentence = "Sentence"
+Sentence_type = '^.{,}$'
+Allele = "Alleles"
+Allele_type = "^[\\w.*,;:|/\\-+()_\\' ]{,256}$"
+ChrID = "Chromosome"
+ChrID_type = '^\d{,8}$'
+
+[SCHEMA.PAnnoVarAnnHasClinAnnType]
+VarAnnID = ""
+VarAnnID_type = '^\d{,8}$'
+ClinAnnTypeID = ""
+ClinAnnTypeID_type = '^\d{,8}$'
+
+[SCHEMA.PAnnoVarAnnHasStuPara]
+VarAnnID = ""
+VarAnnID_type = '^\d{,8}$'
+StuParaID = "StudyParameters"
+StuParaID_type = '^\d{,8}$'
+
+[SCHEMA.PAnnoLevelOfEvidenceDic]
+Name = "Level of Evidence"
+Name_type = '^[\w ]{,32}$'
+
+[SCHEMA.PAnnoPhenoGeno]
+PhenoGenotypeID = "Genotype-Phenotype ID"
+PhenoGenotypeID_type = '^\d{,16}$'
+Genotype = "Genotype"
+Genotype_type = "^[\\w*/\\-\\'():,.+=<> ]{,256}$"
+ClinicalPhenotype = "Clinical Phenotype"
+ClinicalPhenotype_type = '^.{,}$'
+
+[SCHEMA.PAnnoGene]
+Name = "Gene"
+Name_Type = '^[\w.*,;:|/\-()_ ]{,128}$'
+PAID = ""
+PAID_Type = '^PA\d{,16}$'
+
+[SCHEMA.PAnnoVariant]
+Name = "Location"
+Name_Type = '^[\w.*,;:|/\-()_ ]{,128}$'
+
+[SCHEMA.PAnnoDrug]
+Name = "Related Chemicals"
+Name_Type = '^[\w.*,;:|/\-()_ ]{,128}$'
+PAID = ""
+PAID_Type = '^PA\d{,16}$'
+
+[SCHEMA.PAnnoDisease]
+Name = "Related Diseases"
+Name_Type = '^[\w.*,;:|/\-()_ ]{,128}$'
+PAID = ""
+PAID_Type = '^PA\d{,16}$'
+
+[SCHEMA.PAnnoClinAnnHasGene]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+GeneID = ""
+GeneID_type = '^\d{,8}$'
+
+[SCHEMA.PAnnoClinAnnHasVariant]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+VariantID = ""
+VariantID_type = '^\d{,8}$'
+
+[SCHEMA.PAnnoClinAnnHasDrug]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+DrugID = ""
+DrugID_type = '^\d{,8}$'
+
+[SCHEMA.PAnnoClinAnnHasDisease]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+DiseaseID = ""
+DiseaseID_type = '^\d{,8}$'
+
+[SCHEMA.PAnnoClinAnn]
+ClinicalAnnotationID = "Clinical Annotation ID"
+ClinicalAnnotationID_type = '^\d{,16}$'
+EvidenceLevelID = ""
+EvidenceLevelID_type = '^\d{,8}$'
+EvidenceCount = "Evidence Count"
+EvidenceCount_type = '^\d{,8}$'
+
+[SCHEMA.PAnnoClinAnnHasPhenoGeno]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+PhenoGenoID = "Genotype-Phenotype IDs"
+PhenoGenoID_type = '^\d{,8}$'
+
+[SCHEMA.PAnnoClinAnnHasRace]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+RaceID = ""
+RaceID_type = '^\d{,8}$'
+
+[SCHEMA.PAnnoClinAnnHasClinAnnType]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+ClinAnnTypeID = ""
+ClinAnnTypeID_type = '^\d{,8}$'
+
+[SCHEMA.PAnnoClinAnnHasVarAnn]
+ClinAnnID = ""
+ClinAnnID_type = '^\d{,8}$'
+VarAnnID = "Variant Annotations IDs"
+VarAnnID_type = '^\d{,8}$'

@@ -1,0 +1,7 @@
+Name
+Other
+Toxicity
+Efficacy
+Metabolism/PK
+Dosage
+PD

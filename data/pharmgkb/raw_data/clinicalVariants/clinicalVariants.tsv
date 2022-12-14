@@ -40,7 +40,6 @@ rs202179988	CFTR	Efficacy	1A	ivacaftor	Cystic Fibrosis
 rs78769542	CFTR	Efficacy	1A	ivacaftor	Cystic Fibrosis
 rs141033578	CFTR	Efficacy	1A	ivacaftor	Cystic Fibrosis
 rs78060119	DPYD	Toxicity	1A	fluorouracil	Neoplasms
-TPMT*1, TPMT*2, TPMT*3A, TPMT*3B, TPMT*3C	TPMT	Toxicity	1A	azathioprine	Leukopenia,Myelosuppression
 G6PD A- 202A_376G, G6PD B (wildtype), G6PD Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham	G6PD	Toxicity	1A	rasburicase	Hemolysis,Methemoglobinemia
 CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*29	CYP2C9	Metabolism/PK	1A	flurbiprofen	
 CYP2D6*1, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	CYP2D6	Metabolism/PK	1A	trimipramine	Mental Disorders
@@ -223,10 +222,21 @@ rs56005131	DPYD	Other	1A	fluorouracil
 NUDT15*1, NUDT15*2, NUDT15*3	NUDT15	Toxicity	1A	mercaptopurine	Leukopenia,Neutropenia
 NUDT15*1, NUDT15*2, NUDT15*3	NUDT15	Dosage	1A	mercaptopurine	Precursor Cell Lymphoblastic Leukemia-Lymphoma
 TPMT*1, TPMT*2, TPMT*3A, TPMT*3B, TPMT*3C, TPMT*9	TPMT	Dosage	1A	mercaptopurine	dose reduction
-TPMT*1, TPMT*2, TPMT*3A, TPMT*3B, TPMT*3C, TPMT*4, TPMT*9, TPMT*12	TPMT	Toxicity	1A	mercaptopurine	
+rs267606617	MT-RNR1	Toxicity	1A	tobramycin	Ototoxicity
+rs267606617	MT-RNR1	Toxicity	1A	amikacin	Ototoxicity
 rs267606617	MT-ND1,MT-RNR1	Toxicity	1A	gentamicin	Ototoxicity
 rs267606617	MT-RNR1	Toxicity	1A	aminoglycoside antibacterials	Ototoxicity
 rs267606617	MT-RNR1	Toxicity	1A	streptomycin	Ototoxicity
+rs267606617	MT-RNR1	Toxicity	1A	kanamycin	Ototoxicity
+rs267606619	MT-RNR1	Toxicity	1A	kanamycin	Ototoxicity
+rs267606619	MT-RNR1	Toxicity	1A	streptomycin	Ototoxicity
+rs267606619	MT-RNR1	Toxicity	1A	gentamicin	Ototoxicity
+rs267606619	MT-RNR1	Toxicity	1A	tobramycin	Ototoxicity
+rs267606619	MT-RNR1	Toxicity	1A	aminoglycoside antibacterials	Ototoxicity
+rs267606618	MT-RNR1	Toxicity	1A	aminoglycoside antibacterials	Ototoxicity
+rs267606618	MT-RNR1	Toxicity	1A	gentamicin	Ototoxicity
+rs267606618	MT-RNR1	Toxicity	1A	kanamycin	Ototoxicity
+rs267606618	MT-RNR1	Toxicity	1A	streptomycin	Ototoxicity
 CYP2D6*1, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*4, CYP2D6*5, CYP2D6*10, CYP2D6*35xN	CYP2D6	Efficacy	1A	ondansetron	Vomiting
 CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*4, CYP2C9*5, CYP2C9*6, CYP2C9*8, CYP2C9*11	CYP2C9	Dosage	1A	warfarin	Cardiovascular Diseases
 CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*5, CYP2C9*6, CYP2C9*8, CYP2C9*11, CYP2C9*13, CYP2C9*14, CYP2C9*16, CYP2C9*29, CYP2C9*31, CYP2C9*33, CYP2C9*37, CYP2C9*39, CYP2C9*42, CYP2C9*43, CYP2C9*45, CYP2C9*50, CYP2C9*52, CYP2C9*55	CYP2C9	Metabolism/PK	1A	phenytoin	Epilepsy
@@ -235,7 +245,6 @@ CYP3A5*1, CYP3A5*3, CYP3A5*6, CYP3A5*7	CYP3A5	Dosage	1A	tacrolimus	heart transpl
 CYP2D6*1, CYP2D6*1xN, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6, CYP2D6*9, CYP2D6*10, CYP2D6*17, CYP2D6*41	CYP2D6	Metabolism/PK	1A	tramadol	
 CYP2D6*1, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6, CYP2D6*10, CYP2D6*17, CYP2D6*29, CYP2D6*36, CYP2D6*41	CYP2D6	Metabolism/PK	1A	codeine	
 rs9923231	VKORC1	Dosage	1A	warfarin	
-HLA-B*15:02:01	HLA-B	Toxicity	1A	carbamazepine	Epidermal Necrolysis, Toxic,severe cutaneous adverse reactions,Stevens-Johnson Syndrome
 CYP2D6*1, CYP2D6*4, CYP2D6*5, CYP2D6*6, CYP2D6*17, CYP2D6*40	CYP2D6	Efficacy	1A	codeine	Pain
 CYP2D6*5, CYP2D6*17	CYP2D6	Efficacy	1A	hydrocodone	Pain
 CYP2D6*1, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6, CYP2D6*10, CYP2D6*17	CYP2D6	Efficacy	1A	tramadol	Pain,Pain, Postoperative
@@ -269,17 +278,19 @@ SLCO1B1*1, SLCO1B1*5, SLCO1B1*15, SLCO1B1*37	SLCO1B1	Metabolism/PK	1A	atorvastat
 SLCO1B1*1, SLCO1B1*5, SLCO1B1*15	SLCO1B1	Metabolism/PK	1A	fluvastatin	
 SLCO1B1*1, SLCO1B1*5, SLCO1B1*15	SLCO1B1	Metabolism/PK	1A	pravastatin	
 SLCO1B1*1, SLCO1B1*5, SLCO1B1*15	SLCO1B1	Toxicity	1A	rosuvastatin	statin-related myopathy
-HLA-B*15:02:01	HLA-B	Toxicity	1A	lamotrigine	Epidermal Necrolysis, Toxic,Epilepsy,Stevens-Johnson Syndrome
-HLA-B*15:02:01	HLA-B	Toxicity	1A	phenytoin	drug reaction with eosinophilia and systemic symptoms,Epidermal Necrolysis, Toxic,severe cutaneous adverse reactions,Stevens-Johnson Syndrome
 HLA-B*15:02:01	HLA-B	Toxicity	1A	oxcarbazepine	Stevens-Johnson Syndrome
 CYP3A5*1, CYP3A5*3, CYP3A5*6, CYP3A5*7	CYP3A5	Metabolism/PK	1A	tacrolimus	heart transplantation,hematopoietic stem cell transplantation,Kidney Transplantation,lung transplantation
 CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*17	CYP2C19	Metabolism/PK	1A	citalopram	Depressive Disorder,Depressive Disorder, Major
 CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*4	CYP2C19	Toxicity	1A	citalopram	Depressive Disorder
 CYP3A4*1, CYP3A4*20, CYP3A4*22	CYP3A4	Metabolism/PK	1A	quetiapine	
+TPMT*1, TPMT*2, TPMT*3A, TPMT*3B, TPMT*3C, TPMT*4, TPMT*6, TPMT*9, TPMT*12	TPMT	Toxicity	1A	mercaptopurine	
+TPMT*1, TPMT*2, TPMT*3A, TPMT*3B, TPMT*3C, TPMT*6	TPMT	Toxicity	1A	azathioprine	Leukopenia,Myelosuppression
+HLA-B*15:02:01	HLA-B	Toxicity	1A	phenytoin	drug reaction with eosinophilia and systemic symptoms,Epidermal Necrolysis, Toxic,severe cutaneous adverse reactions,Stevens-Johnson Syndrome
+HLA-B*15:02:01, HLA-B*15:11:01	HLA-B	Toxicity	1A	carbamazepine	drug reaction with eosinophilia and systemic symptoms,Epidermal Necrolysis, Toxic,Maculopapular Exanthema,severe cutaneous adverse reactions,Stevens-Johnson Syndrome
+HLA-B*15:02:01	HLA-B	Toxicity	1A	lamotrigine	Epidermal Necrolysis, Toxic,Epilepsy,severe cutaneous adverse reactions,Stevens-Johnson Syndrome
 rs9923231	VKORC1	Toxicity	1B	warfarin	over-anticoagulation
 UGT1A1*1, UGT1A1*6, UGT1A1*28	UGT1A1	Toxicity	1B	FOLFIRI,irinotecan	Diarrhea
 UGT1A1*1, UGT1A1*6	UGT1A1	Toxicity	1B	FOLFIRI,irinotecan	Neutropenia
-NAT2*4, NAT2*5, NAT2*5B, NAT2*5D, NAT2*6, NAT2*6A, NAT2*6B, NAT2*7, NAT2*7B, NAT2*14	NAT2	Toxicity	1B	ethambutol,isoniazid,pyrazinamide,rifampin	Hepatitis, Toxic,Toxic liver disease,Tuberculosis
 CYP3A5*1, CYP3A5*3	CYP3A5	Metabolism/PK	1B	tacrolimus	liver transplantation
 CYP3A5*1, CYP3A5*3	CYP3A5	Metabolism/PK	1B	tacrolimus	liver transplantation
 rs11322783	IFNL4	Efficacy	1B	peginterferon alfa-2a,peginterferon alfa-2b,ribavirin	Hepatitis C, Chronic
@@ -290,8 +301,9 @@ rs8050894	VKORC1	Dosage	1B	warfarin
 rs9934438	VKORC1	Dosage	1B	warfarin	
 rs2359612	VKORC1	Dosage	1B	warfarin	
 rs7294	VKORC1	Dosage	1B	warfarin	
-CYP2A6*1A, CYP2A6*1B1, CYP2A6*1X2B, CYP2A6*2, CYP2A6*4A, CYP2A6*7, CYP2A6*9A, CYP2A6*10, CYP2A6*12, CYP2A6*17, CYP2A6*19, CYP2A6*20, CYP2A6*23, CYP2A6*24A, CYP2A6*25, CYP2A6*26, CYP2A6*27, CYP2A6*28A, CYP2A6*35	CYP2A6	Metabolism/PK	1B	nicotine	Tobacco Use Disorder
 CYP3A4*1, CYP3A4*18, CYP3A4*20, CYP3A4*22, CYP3A4*36	CYP3A4	Metabolism/PK	1B	tacrolimus	heart transplantation,Kidney Transplantation,laparoscopic sleeve gastrectomy,liver transplantation,lung transplantation
+NAT2*4, NAT2*5A, NAT2*5B, NAT2*5D, NAT2*6A, NAT2*6B, NAT2*7A, NAT2*7B, NAT2*12A, NAT2*13A, NAT2*14A	NAT2	Toxicity	1B	Drugs For Treatment Of Tuberculosis,isoniazid	drug-induced liver injury,Hepatitis, Toxic,Toxic liver disease,Tuberculosis
+CYP2A6*1, CYP2A6*1x2, CYP2A6*2, CYP2A6*4, CYP2A6*7, CYP2A6*9, CYP2A6*10, CYP2A6*11, CYP2A6*12, CYP2A6*13, CYP2A6*14, CYP2A6*15, CYP2A6*17, CYP2A6*19, CYP2A6*20, CYP2A6*23, CYP2A6*24, CYP2A6*25, CYP2A6*26, CYP2A6*27, CYP2A6*28, CYP2A6*35, CYP2A6*38, CYP2A6*46	CYP2A6	Metabolism/PK	1B	nicotine	Tobacco Use Disorder
 rs11881222	IFNL3	Efficacy	2A	peginterferon alfa-2a,peginterferon alfa-2b,ribavirin	Hepatitis C,HIV Infections
 rs8099917	IFNL3	Efficacy	2A	peginterferon alfa-2a,peginterferon alfa-2b,ribavirin,telaprevir	Hepatitis C, Chronic
 rs9923231	VKORC1	Efficacy	2A	warfarin	time to therapeutic inr
@@ -304,15 +316,10 @@ rs2231142	ABCG2	Efficacy	2A	rosuvastatin	Hypercholesterolemia,Myocardial Infarct
 rs10929302	UGT1A1	Toxicity	2A	irinotecan	Neutropenia
 rs4646437	CYP3A4	Metabolism/PK	2A	tacrolimus	Kidney Transplantation,liver transplantation,Proteinuria
 CYP3A5*1, CYP3A5*3	CYP3A5	Dosage	2A	tacrolimus	liver transplantation
-NAT2*4, NAT2*5, NAT2*5B, NAT2*6, NAT2*6A, NAT2*7, NAT2*7B	NAT2	Toxicity	2A	Drugs For Treatment Of Tuberculosis	drug-induced liver injury,Toxic liver disease,Tuberculosis
-NAT2*4, NAT2*5, NAT2*5B, NAT2*6, NAT2*6A, NAT2*6J, NAT2*6O, NAT2*7, NAT2*7B, NAT2*7G, NAT2*12A, NAT2*13A, NAT2*14	NAT2	Metabolism/PK	2A	isoniazid	Tuberculosis
 HLA-B*59:01:01:01	HLA-B	Toxicity	2A	methazolamide	Epidermal Necrolysis, Toxic,Stevens-Johnson Syndrome
 CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*13, CYP2C9*14	CYP2C9	Efficacy	2A	warfarin	Atrial Fibrillation,heart valve replacement
 rs9934438	VKORC1	Dosage	2A	phenprocoumon	
-NAT2*4, NAT2*5A, NAT2*5B, NAT2*5C, NAT2*6A, NAT2*7B, NAT2*12A, NAT2*13A, NAT2*14B	NAT2	Toxicity	2A	isoniazid	drug-induced liver injury,Hepatitis, Toxic,Toxic liver disease,Tuberculosis
 rs9923231	VKORC1	Toxicity	2A	warfarin	Hemorrhage
-NAT2*4, NAT2*5B, NAT2*6A, NAT2*7B, NAT2*12	NAT2	Toxicity	2A	isoniazid,rifampin	Toxic liver disease,Tuberculosis
-NAT2*4, NAT2*5, NAT2*5A, NAT2*6A, NAT2*7, NAT2*7A	NAT2	Toxicity	2A	isoniazid,pyrazinamide,rifampin	Toxic liver disease,Tuberculosis
 rs9934438	VKORC1	Dosage	2A	acenocoumarol	
 CYP2D6*1, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6, CYP2D6*10	CYP2D6	Dosage	2A	tramadol	Pain
 rs2884737	VKORC1	Dosage	2A	warfarin	
@@ -336,6 +343,8 @@ CYP2D6*1, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6
 rs1801133	MTHFR	Toxicity	2A	methotrexate	Drug Toxicity,hematotoxicity,Leukopenia,Lymphoma,mucositis,Neoplasms,Neutropenia,Osteosarcoma,Precursor Cell Lymphoblastic Leukemia-Lymphoma,primary central nervous system lymphoma,Thrombocytopenia,Toxic liver disease
 rs1801133	MTHFR	Toxicity	2A	methotrexate	Arthritis, Juvenile Rheumatoid,Arthritis, Psoriatic,Arthritis, Rheumatoid,Drug Toxicity
 HLA-B*13:01:01, HLA-B*15:02:01, HLA-B*38:02:01	HLA-B	Toxicity	2A	sulfamethoxazole / trimethoprim	Epidermal Necrolysis, Toxic,Stevens-Johnson Syndrome
+NAT2*4, NAT2*5A, NAT2*5B, NAT2*5C, NAT2*6A, NAT2*6B, NAT2*6J, NAT2*6O, NAT2*7A, NAT2*7B, NAT2*7G, NAT2*12A, NAT2*13A, NAT2*14A	NAT2	Metabolism/PK	2A	isoniazid	Tuberculosis
+HLA-B*15:02:01	HLA-B	Toxicity	2A	antiepileptics	Epidermal Necrolysis, Toxic,Maculopapular Exanthema,severe cutaneous adverse reactions,Stevens-Johnson Syndrome
 HLA-C*01:02:01	HLA-C	Toxicity	2B	methazolamide	Epidermal Necrolysis, Toxic,Stevens-Johnson Syndrome
 rs71647871	CES1	Efficacy	2B	clopidogrel	
 rs71647871	CES1	Metabolism/PK	2B	clopidogrel	
@@ -388,7 +397,6 @@ rs11209716	PTGER3	Toxicity	3	Ace Inhibitors, Plain	Cough,Hypertension
 rs7412	APOE	Toxicity	3	Antivirals for treatment of HIV infections, combinations,ritonavir	HIV Infections,Hypertriglyceridemia
 rs11045585	SLCO1B3	Toxicity	3	docetaxel	Neoplasms
 rs2016848	MME	Toxicity	3	Ace Inhibitors, Plain	Cough,Hypertension
-rs1801253	ADRB1	Efficacy	3	metoprolol	Hypertension
 rs1799978	DRD2	Toxicity	3	risperidone	
 rs4986938	ESR2	Toxicity	3	tamoxifen	
 rs8012552	BDKRB2	Toxicity	3	Ace Inhibitors, Plain	Cough,Hypertension
@@ -546,7 +554,6 @@ rs963468	DRD3	Efficacy	3	duloxetine	Anxiety Disorders
 rs9340799	ESR1	Efficacy	3	leflunomide	Arthritis, Rheumatoid
 rs9340799	ESR1	Efficacy	3	conjugated estrogens,medroxyprogesterone	
 rs1051375	CACNA1C	Efficacy	3	atenolol,verapamil	Coronary Artery Disease,Hypertension
-rs2230345	GRK5	Efficacy	3	Beta Blocking Agents	Heart Failure
 rs1024323	GRK4	Efficacy	3	metoprolol	Hypertension,Kidney Diseases,Nephrosclerosis
 rs9349256	ABCC10	Toxicity	3	tenofovir	
 rs9657182	IDO1	Toxicity	3	interferon alfa-2a, recombinant,peginterferon alfa-2b	Hepatitis C, Chronic
@@ -660,7 +667,6 @@ rs114202595	PAX4	Efficacy	3	repaglinide	Diabetes Mellitus
 rs61767072	ADRA2C	Efficacy	3	bucindolol	Heart Failure
 rs761142	GCLC	Toxicity	3	sulfamethoxazole	HIV Infections
 rs712829	EGFR	Efficacy	3	Alkylating Agents	Neoplasms
-rs4987161	CYP3A,CYP3A4	Other	3	nifedipine	
 rs9282564	ABCB1	Other	3	paclitaxel	
 rs72552784	ABCB1	Other	3	paclitaxel	
 rs1799722	BDKRB2	Toxicity	3	Ace Inhibitors, Plain	Cough
@@ -809,7 +815,6 @@ rs7787082	ABCB1	Efficacy	3	clozapine	Schizophrenia
 rs5186	AGTR1	Efficacy	3	candesartan	Heart Failure
 rs5370	EDN1	Efficacy	3	atenolol,irbesartan	Essential hypertension
 rs5051	AGT	Efficacy	3	atenolol	Hypertension
-rs2952768		Other	3	opioids	
 rs4291	ACE	Efficacy	3	amlodipine,chlorthalidone,lisinopril	Hypertension
 rs4238001	SCARB1	Efficacy	3	fenofibrate	Hypertriglyceridemia
 rs4149015	SLCO1B1	Toxicity	3	irinotecan	Carcinoma, Non-Small-Cell Lung
@@ -994,7 +999,6 @@ rs4148739	ABCB1	Efficacy	3	amitriptyline,citalopram,fluoxetine,paroxetine,sertra
 CYP3A4*1, CYP3A4*36	CYP3A4	Other	3	tacrolimus	liver transplantation
 rs2740574	CYP3A4	Other	3	sirolimus	Kidney Transplantation
 CYP2D6*1, CYP2D6*3, CYP2D6*4, CYP2D6*5	CYP2D6	Other	3	timolol	
-rs1045642	ABCB1	Efficacy	3	lamivudine,lopinavir,ritonavir,zidovudine	HIV Infections
 rs1594160	XDH	Toxicity	3	didanosine	HIV Infections
 rs1429376	XDH	Toxicity	3	didanosine	HIV Infections
 rs11191561	NT5C2	Toxicity	3	didanosine	HIV Infections
@@ -1062,8 +1066,8 @@ rs56040400	C5	Efficacy	3	eculizumab
 rs934635		Toxicity	3	exemestane	Breast Neoplasms
 rs16964189		Toxicity	3	exemestane	Breast Neoplasms
 rs9936750		Toxicity	3	capecitabine	Neoplasms
-G6PD A- 202A_376G, G6PD B (wildtype)	G6PD	Toxicity	3	glibenclamide	Anemia, Hemolytic
-rs5030868	G6PD	Toxicity	3	glibenclamide	Diabetes Mellitus, Type 2
+G6PD A- 202A_376G, G6PD B (wildtype)	G6PD	Toxicity	3	glyburide	Anemia, Hemolytic
+rs5030868	G6PD	Toxicity	3	glyburide	Diabetes Mellitus, Type 2
 G6PD A- 202A_376G, G6PD B (wildtype)	G6PD	Toxicity	3	chloramphenicol	Anemia, Hemolytic,Hemolysis
 G6PD B (wildtype), G6PD Mediterranean Haplotype	G6PD	Toxicity	3	phenazopyridine	Anemia, Hemolytic,Hemolysis
 G6PD A- 202A_376G, G6PD B (wildtype)	G6PD	Toxicity	3	nitrofurantoin	Anemia, Hemolytic,Hemolysis
@@ -1086,7 +1090,6 @@ rs17655	ERCC5	Efficacy	3	platinum	Ovarian Neoplasms
 rs1052536	LIG3	Toxicity	3	cisplatin,cyclophosphamide	Ovarian Neoplasms
 rs13429709	GCG	Other	3	clozapine,olanzapine	Schizophrenia
 rs1045642	ABCB1	Other	3	rhodamine 123	
-CYP2A6*1A, CYP2A6*15, CYP2A6*21, CYP2A6*22	CYP2A6	Other	3	methoxsalen	
 rs4694362	DCK	Toxicity	3	gemcitabine	Pancreatic Neoplasms
 rs2234693	ESR1	Toxicity	3	anastrozole,letrozole	Neoplasms
 rs7867504	SLC28A3	Other	3	gemcitabine	Neoplasms
@@ -1187,7 +1190,6 @@ rs61742245	VKORC1	Dosage	3	acenocoumarol
 rs55894764	VKORC1	Dosage	3	acenocoumarol	
 rs17878544	VKORC1	Dosage	3	acenocoumarol	
 HLA-B*18:01:01	HLA-B	Toxicity	3	amoxicillin,clavulanate	
-rs1934969	CYP2C9	Other	3	losartan	
 HLA-B*39:01:01:01	HLA-B	Toxicity	3	sulfasalazine	drug reaction with eosinophilia and systemic symptoms
 HLA-B*13:01:01	HLA-B	Toxicity	3	sulfasalazine	drug reaction with eosinophilia and systemic symptoms
 HLA-B*15:05:01	HLA-B	Toxicity	3	sulfasalazine	drug reaction with eosinophilia and systemic symptoms
@@ -1244,7 +1246,6 @@ rs2293347	EGFR	Efficacy	3	fluorouracil	Stomach Neoplasms
 rs6280	DRD3	Efficacy	3	methylphenidate	Autism Spectrum Disorder
 rs2227983	EGFR	Toxicity	3	egfr inhibitors	Carcinoma, Non-Small-Cell Lung,Colorectal Neoplasms,Neoplasms,Pancreatic Neoplasms
 rs1353295	AREG	Efficacy	3	cetuximab,irinotecan,panitumumab	Colorectal Neoplasms
-CYP2D6*1, CYP2D6*4	CYP2D6	Metabolism/PK	3	vortioxetine	
 rs13104811	AREG	Efficacy	3	cetuximab,irinotecan,panitumumab	Colorectal Neoplasms
 rs9996584	AREG	Efficacy	3	cetuximab,irinotecan,panitumumab	Colorectal Neoplasms
 rs11942466	AREG	Efficacy	3	cetuximab,irinotecan,panitumumab	Colorectal Neoplasms
@@ -1449,7 +1450,6 @@ rs342293		Efficacy	3	clopidogrel	Coronary Artery Disease
 rs1877724	EPHX1	Dosage	3	warfarin	
 rs1901440		Toxicity	3	gemcitabine	Neoplasms
 rs2032582	ABCB1	Efficacy	3	fluoxetine	Depressive Disorder
-rs3742106	ABCC4	Metabolism/PK	3	tenofovir	HIV Infections
 rs2075797	PTGER2	Toxicity	3	aspirin	Asthma
 rs2216711	GDNF	Efficacy	3	paroxetine	Depressive Disorder, Major
 rs8187707	ABCC2	Toxicity	3	tenofovir	HIV Infections
@@ -1498,7 +1498,6 @@ rs4654327	OPRD1	Efficacy	3	naltrexone	Alcoholism
 rs4680	COMT	Efficacy	3	entacapone	Parkinson Disease
 rs1006737	CACNA1C	Toxicity	3	citalopram	Depressive Disorder, Major
 rs10121600	GRIN3A	Other	3	nicotine	Tobacco Use Disorder
-rs1024323	GRK4	Toxicity	3	atenolol,verapamil	Coronary Artery Disease,Hypertension
 rs10279545	COL26A1	Toxicity	3	aspirin	
 rs1045280	ARRB2	Other	3	methamphetamine	Substance-Related Disorders
 rs11849538		Other	3	estradiol	
@@ -1674,7 +1673,7 @@ rs4825476	GRIA3	Toxicity	3	citalopram	Depression,suicide
 rs5443	GNB3	Other	3	Beta Blocking Agents	
 rs6166	FSHR	Efficacy	3	follitropin beta,thyrotropin alfa,urofollitropin	Infertility, Female,Ovarian hyperstimulation syndrome
 rs8192709	CYP2B6	Metabolism/PK	3	efavirenz	
-rs889299	SCNN1B	Toxicity	3	Farglitazar,glibenclamide	Diabetes Mellitus, Type 2
+rs889299	SCNN1B	Toxicity	3	Farglitazar,glyburide	Diabetes Mellitus, Type 2
 rs2429427	TANC2	Efficacy	3	calcium channel blockers	Hypertension
 rs2242480	CYP3A4	Toxicity	3	methadone	Heroin Dependence
 rs2032582	ABCB1	Toxicity	3	capecitabine	Colorectal Neoplasms,hand-foot syndrome
@@ -1961,7 +1960,6 @@ rs1799983	NOS3	Efficacy	3	sorafenib	Carcinoma, Hepatocellular
 rs8192725	CYP2A6	Other	3	tegafur	
 rs28399433	CYP2A6	Other	3	tegafur	
 rs8192720	CYP2A6	Other	3	tegafur	
-CYP2A6*1A, CYP2A6*4A, CYP2A6*4C, CYP2A6*7, CYP2A6*9A, CYP2A6*10, CYP2A6*11, CYP2A6*18A, CYP2A6*19	CYP2A6	Metabolism/PK	3	tegafur	Neoplasms
 rs1799978	DRD2	Dosage	3	methadone	Heroin Dependence
 rs3735451	CYP3A4	Toxicity	3	methadone	Heroin Dependence
 rs4646440	CYP3A4	Toxicity	3	methadone	Heroin Dependence
@@ -2164,9 +2162,9 @@ rs1544410	VDR	Metabolism/PK	3	midazolam
 rs4516035	VDR	Metabolism/PK	3	midazolam	
 rs324650	CHRM2	Other	3	nicotine	Tobacco Use Disorder
 rs10994982	ARID5B	Metabolism/PK	3	methotrexate	Precursor Cell Lymphoblastic Leukemia-Lymphoma
-rs4148738	ABCB1	Metabolism/PK	3	Dabigatran	Atrial Fibrillation
-rs2244613	CES1	Toxicity	3	Dabigatran	Atrial Fibrillation
-rs8192935	CES1	Metabolism/PK	3	Dabigatran	Atrial Fibrillation
+rs4148738	ABCB1	Metabolism/PK	3	dabigatran	Atrial Fibrillation
+rs2244613	CES1	Toxicity	3	dabigatran	Atrial Fibrillation
+rs8192935	CES1	Metabolism/PK	3	dabigatran	Atrial Fibrillation
 rs557881	SLC6A12	Toxicity	3	aspirin	Asthma
 rs2228075	IMPDH1	Toxicity	3	mycophenolate mofetil	Organ Transplantation
 rs622342	SLC22A1	Dosage,Toxicity	3	amantadine,Anticholinergics,Dopamine agonists,levodopa,selegiline	Parkinson Disease
@@ -2200,8 +2198,8 @@ rs2699887	PIK3CA	Toxicity	3	carboplatin,cisplatin	Carcinoma, Non-Small-Cell Lung
 rs2299939	PTEN	Toxicity	3	carboplatin,cisplatin	Carcinoma, Non-Small-Cell Lung
 rs2498804		Efficacy	3	carboplatin,cisplatin	Carcinoma, Non-Small-Cell Lung
 GSTM1 non-null, GSTM1 null	GSTM1	Efficacy,Toxicity	3	bleomycin,dacarbazine,doxorubicin,vinblastine	
-UGT1A7*3	UGT1A7	Toxicity	3	irinotecan,oxaliplatin,s 1 (combination)	Colorectal Neoplasms
-UGT1A6*2a	UGT1A6	Toxicity	3	irinotecan,oxaliplatin,s 1 (combination)	Colorectal Neoplasms
+UGT1A7*3	UGT1A7	Toxicity	3	irinotecan,oxaliplatin,tegafur / gimeracil / oteracil	Colorectal Neoplasms
+UGT1A6*2a	UGT1A6	Toxicity	3	irinotecan,oxaliplatin,tegafur / gimeracil / oteracil	Colorectal Neoplasms
 rs10877012	CYP27B1	Efficacy	3	peginterferon alfa-2b,ribavirin	Hepatitis C, Chronic
 rs8113007		Efficacy	3	peginterferon alfa-2b,ribavirin	Hepatitis C,HIV Infections
 rs4803217	IFNL3	Efficacy	3	peginterferon alfa-2a,peginterferon alfa-2b,ribavirin	Hepatitis C,HIV Infections
@@ -2367,8 +2365,6 @@ rs57098334	SLC6A4	Efficacy	3	sertraline	Depressive Disorder, Major
 CYP2C19*1, CYP2C19*2, CYP2C19*3	CYP2C19	Dosage	3	warfarin	Atrial Fibrillation
 CYP2C9*1, CYP2C9*3, CYP2C9*13	CYP2C9	Metabolism/PK	3	zafirlukast	
 rs2535629	ITIH3	Efficacy	3	clozapine	Schizophrenia
-rs1330344	PTGS1	Toxicity	3	clopidogrel	major adverse cardiac events (mace)
-rs2046934	P2RY12	Toxicity	3	clopidogrel	major adverse cardiac events (mace)
 rs2298383	ADORA2A,ADORA2A-AS1	Toxicity	3	methotrexate	Hematologic Neoplasms
 rs11568658	ABCC4	Toxicity	3	valganciclovir	Kidney Transplantation
 rs2229109	ABCB1	Toxicity	3	valganciclovir	Kidney Transplantation
@@ -2378,7 +2374,6 @@ rs1967309	ADCY9	Efficacy,Toxicity	3	dalcetrapib	Acute coronary syndrome
 rs1870377	KDR	Efficacy	3	sorafenib	Carcinoma, Hepatocellular
 rs895819	MIR27A	Toxicity	3	capecitabine,fluorouracil	Neoplasms
 rs776746	CYP3A5	Toxicity	3	tacrolimus	Infection
-rs1800629	TNF	Toxicity	3	sorafenib	Carcinoma, Hepatocellular,hand-foot syndrome
 rs10948059	GNMT	Toxicity	3	mercaptopurine	Precursor Cell Lymphoblastic Leukemia-Lymphoma
 rs8192675	SLC2A2	Efficacy	3	metformin	Diabetes Mellitus
 rs7574296	UGT1A9	Toxicity	3	sorafenib	Carcinoma, Hepatocellular,hand-foot syndrome
@@ -2449,7 +2444,6 @@ rs2032583	ABCB1	Efficacy	3	amitriptyline,antidepressants,citalopram,fluvoxamine,
 rs1800469	TGFB1	Toxicity	3	irinotecan	Colorectal Neoplasms
 rs3087465	TGFBR2	Toxicity	3	irinotecan	Colorectal Neoplasms
 rs12436663	PRORP	Efficacy	3	zileuton	Asthma
-CYP3A5*1, CYP3A5*3	CYP3A5	Toxicity	3	carboplatin,paclitaxel	Ovarian Neoplasms
 rs11209026	IL23R	Toxicity	3	Tumor necrosis factor alpha (TNF-alpha) inhibitors	Psoriasis
 rs3087243	CTLA4	Toxicity	3	Tumor necrosis factor alpha (TNF-alpha) inhibitors	Psoriasis
 rs651630	SLC12A8	Toxicity	3	Tumor necrosis factor alpha (TNF-alpha) inhibitors	Psoriasis
@@ -2506,9 +2500,9 @@ rs12041331	PEAR1	Efficacy	3	ticagrelor
 rs4661012	PEAR1	Efficacy	3	ticagrelor	
 rs7438135	UGT2B7	Metabolism/PK	3	morphine	
 rs149104283		Toxicity	3	clozapine	Neutropenia
-rs1045642	ABCB1	Metabolism/PK	3	Dabigatran	
+rs1045642	ABCB1	Metabolism/PK	3	dabigatran	
 rs1045642	ABCB1	Metabolism/PK	3	rivaroxaban	
-rs2032582	ABCB1	Metabolism/PK	3	Dabigatran	
+rs2032582	ABCB1	Metabolism/PK	3	dabigatran	
 rs2032582	ABCB1	Metabolism/PK	3	rivaroxaban	
 rs12979860	IFNL3,IFNL4	Efficacy	3	ledipasvir,sofosbuvir	Hepatitis C, Chronic,Recurrence
 rs8099917	IFNL3,IFNL4	Efficacy	3	ledipasvir,sofosbuvir	Hepatitis C, Chronic
@@ -2587,7 +2581,6 @@ rs1131882	TBXA2R	Efficacy,Toxicity	3	aspirin	Diabetes Mellitus, Type 2
 rs2740574	CYP3A,CYP3A4	Metabolism/PK	3	atazanavir	
 rs12050587	PIGB	Toxicity	3	cyclophosphamide,epirubicin,fluorouracil	Breast Neoplasms,Leukopenia,Neutropenia
 rs11636687		Toxicity	3	cyclophosphamide,epirubicin,fluorouracil	Breast Neoplasms,Leukopenia,Neutropenia
-rs2254638	N6AMT1	Toxicity,Metabolism/PK	3	clopidogrel	major adverse cardiac events (mace)
 rs35112940	CD33	Efficacy	3	gemtuzumab ozogamicin	Leukemia, Myeloid, Acute
 CYP2B6*1, CYP2B6*6	CYP2B6	Toxicity	3	ethambutol,isoniazid,pyrazinamide,rifampin	Tuberculosis
 rs2189784	CYP4F2	Dosage	3	warfarin	
@@ -2706,7 +2699,6 @@ CYP2C9*1, CYP2C9*2, CYP2C9*3	CYP2C9	Toxicity	3	sulfonamides, urea derivatives	Di
 rs12979860	IFNL3,IFNL4	Efficacy	3	sofosbuvir,velpatasvir,voxilaprevir	Hepatitis C, Chronic
 rs2252281	SLC47A1	Efficacy	3	metformin	Diabetes Mellitus, Type 2,Polycystic Ovary Syndrome
 rs12943590	SLC47A2	Metabolism/PK	3	metformin	
-rs2740574	CYP3A4	Efficacy	3	buprenorphine	Pain
 rs2289669	SLC47A1	Efficacy	3	metformin	Diabetes Mellitus, Type 2,Polycystic Ovary Syndrome
 rs12943590	SLC47A2	Efficacy	3	metformin	Diabetes Mellitus
 CYP3A5*1, CYP3A5*3, CYP3A5*6, CYP3A5*7	CYP3A5	Metabolism/PK	3	atazanavir,ritonavir	HIV Infections
@@ -2884,7 +2876,7 @@ rs11553441	RRP7A	Efficacy	3	methylphenidate	Attention Deficit Disorder with Hype
 rs362272	HTT	Efficacy	3	methylphenidate	Attention Deficit Disorder with Hyperactivity
 rs757978	FARP2	Efficacy	3	methylphenidate	Attention Deficit Disorder with Hyperactivity
 rs17279558	GGH	Efficacy	3	methylphenidate	Attention Deficit Disorder with Hyperactivity
-rs3761372	WRB	Efficacy	3	methylphenidate	Attention Deficit Disorder with Hyperactivity
+rs3761372		Efficacy	3	methylphenidate	Attention Deficit Disorder with Hyperactivity
 rs2013169	PURA	Efficacy	3	methylphenidate	Attention Deficit Disorder with Hyperactivity
 rs6700741		Efficacy	3	duloxetine	Depressive Disorder, Major
 rs4971678	NRXN1	Efficacy	3	duloxetine	Depressive Disorder, Major
@@ -3315,8 +3307,6 @@ rs2075572	OPRM1	Toxicity	3	heroin	Heroin Dependence
 rs4680	COMT	Toxicity	3	nicotine	Tobacco Use Disorder
 rs9479757	OPRM1	Dosage	3	heroin	Heroin Dependence
 rs1800497	DRD2	Toxicity	3	nicotine	Tobacco Use Disorder
-CYP2A6*1A, CYP2A6*2, CYP2A6*4A, CYP2A6*9, CYP2A6*17, CYP2A6*26, CYP2A6*27	CYP2A6	Toxicity	3	nicotine	Lung Neoplasms,Tobacco Use Disorder
-CYP2A6*1A, CYP2A6*1B1, CYP2A6*2, CYP2A6*4A, CYP2A6*9A, CYP2A6*12A	CYP2A6	Dosage	3	nicotine	Tobacco Use Disorder
 rs5443	GNB3	Efficacy	3	sibutramine	Obesity
 rs2075572	OPRM1	Toxicity	3	methamphetamine	methamphetamine dependence
 rs511435	OPRM1	Toxicity	3	ethanol	Alcoholism
@@ -3354,18 +3344,14 @@ rs1534891	CSNK1E	Toxicity	3	heroin	Heroin Dependence
 rs6277	DRD2	Efficacy	3	nicotine	
 CYP3A5*1, CYP3A5*3	CYP3A5	Metabolism/PK	3	nimodipine	
 rs2239128	CACNA1C	Efficacy	3	nimodipine	
-rs2239050	CACNA1C	Efficacy	3	nimodipine	
 CYP3A5*1, CYP3A5*3	CYP3A5	Metabolism/PK	3	dextropropoxyphene	
 rs2337980	CHRNA7	Efficacy	3	nicotine	
 rs10055255	CRHBP	Toxicity	3	ethanol	Alcoholism
 SLC6A4 HTTLPR long form (L allele), SLC6A4 HTTLPR short form (S allele)	SLC6A4	Efficacy	3	bupropion	Tobacco Use Disorder
-CYP2A6*1A, CYP2A6*2, CYP2A6*4A, CYP2A6*9A, CYP2A6*12A	CYP2A6	Toxicity	3	nicotine	Tobacco Use Disorder
 rs1800497	ANKK1,DRD2	Toxicity	3	nicotine	Tobacco Use Disorder
 rs1709083	CYP2A13	Toxicity	3	nicotine	Tobacco Use Disorder
 rs72552266	CYP2A13	Toxicity	3	nicotine	Tobacco Use Disorder
-CYP2A6*1A, CYP2A6*1X2A	CYP2A6	Toxicity	3	nicotine	Tobacco Use Disorder
 rs28399433	CYP2A6	Toxicity	3	nicotine	Tobacco Use Disorder
-rs1801272	CYP2A6	Toxicity	3	nicotine	Tobacco Use Disorder
 CYP2B6*1, CYP2B6*4	CYP2B6	Toxicity	3	nicotine	Tobacco Use Disorder
 rs3758987	HTR3B	Toxicity	3	nicotine	Tobacco Use Disorder
 rs11606194	HTR3B	Toxicity	3	nicotine	Tobacco Use Disorder
@@ -3791,7 +3777,6 @@ rs4646536	CYP27B1	Toxicity	3	tenofovir disoproxil fumarate	HIV Infections,nephro
 rs717620	ABCC2	Toxicity	3	tenofovir	HIV Infections
 rs2229109	ABCB1	Efficacy	3	temozolomide	Glioma
 rs616147	MOBP	Efficacy	3	creatine	Amyotrophic Lateral Sclerosis
-TPMT*1, TPMT*5, TPMT*10, TPMT*13, TPMT*15, TPMT*19, TPMT*24, TPMT*25, TPMT*26, TPMT*27, TPMT*28, TPMT*30, TPMT*31, TPMT*32, TPMT*33, TPMT*34, TPMT*37	TPMT	Dosage,Toxicity	3	mercaptopurine,thioguanine	
 rs901865	HRH1	Toxicity	3	desloratadine	sedation,Urticaria
 rs2291767	OTOS	Toxicity	3	cisplatin	Neoplasms
 rs12201199	TPMT	Toxicity	3	cisplatin	Neoplasms
@@ -3919,12 +3904,12 @@ rs1799971	OPRM1	Toxicity	3	ethanol	Alcoholism
 UGT1A1*1, UGT1A1*28	UGT1A1	Metabolism/PK	3	clozapine	
 UGT1A1*1, UGT1A1*28	UGT1A1	Efficacy	3	raloxifene	bone density
 UGT1A1*1, UGT1A1*28	UGT1A1	Metabolism/PK	3	raloxifene	Osteoporosis
-CYP2A6*1A, CYP2A6*2, CYP2A6*9, CYP2A6*17	CYP2A6	Metabolism/PK	3	metronidazole	
+CYP2A6*1, CYP2A6*2, CYP2A6*9, CYP2A6*17	CYP2A6	Metabolism/PK	3	metronidazole	
 UGT1A1*1, UGT1A1*28	UGT1A1	Toxicity	3	tranilast	Hyperbilirubinemia
 UGT1A1*1, UGT1A1*6, UGT1A1*27, UGT1A1*28	UGT1A1	Toxicity	3	nilotinib	Hyperbilirubinemia
 HLA-A*31:01:02	HLA-A	Toxicity	3	oxcarbazepine	drug reaction with eosinophilia and systemic symptoms
 rs1128503	ABCB1	Metabolism/PK	3	morphine	
-CYP3A5*1, CYP3A5*3	CYP3A5	Metabolism/PK	3	Dabigatran	
+CYP3A5*1, CYP3A5*3	CYP3A5	Metabolism/PK	3	dabigatran	
 CYP2D6*1, CYP2D6*10	CYP2D6	Dosage	3	fentanyl	
 CYP2D6*1, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6, CYP2D6*9, CYP2D6*10, CYP2D6*17, CYP2D6*41	CYP2D6	Toxicity	3	ketoprofen,tramadol	
 rs9282564	ABCB1	Toxicity	3	opioids	Death,Opioid-Related Disorders
@@ -3965,7 +3950,6 @@ rs2228001	XPC	Toxicity	3	cisplatin	Neoplasms,Osteosarcoma,Ototoxicity,Testicular
 rs2228001	TMEM43,XPC	Toxicity	3	cisplatin	Neutropenia,Urinary Bladder Neoplasms
 rs2228001	TMEM43,XPC	Toxicity	3	cisplatin	Drug Toxicity,Urinary Bladder Neoplasms
 HLA-B*15:02:01	HLA-B	Toxicity	3	dapsone	severe cutaneous adverse reactions,Stevens-Johnson Syndrome
-NAT2*4, NAT2*5, NAT2*6, NAT2*7, NAT2*12, NAT2*13	NAT2	Toxicity	3	Antivirals for treatment of HIV infections, combinations,Drugs For Treatment Of Tuberculosis	drug-induced liver injury,HIV Infections,Tuberculosis
 rs2231142	ABCG2	Toxicity	3	sunitinib	Neoplasms
 UGT1A1*1, UGT1A1*28	UGT1A1	Toxicity	3	sorafenib	Carcinoma, Hepatocellular,Hyperbilirubinemia
 rs9895420	ABCC3	Efficacy	3	methotrexate	Precursor Cell Lymphoblastic Leukemia-Lymphoma
@@ -3986,7 +3970,6 @@ rs4680	COMT	Toxicity	3	nicotine	Tobacco Use Disorder
 rs1799752	ACE	Efficacy	3	enalapril	Arteriosclerosis,Coronary Disease,Essential hypertension,glomerular disease,Glomerulonephritis, IGA,Kidney Diseases
 rs2072671	CDA	Toxicity	3	gemcitabine	Carcinoma, Non-Small-Cell Lung,Mesothelioma,Pancreatic Neoplasms
 rs5751876	ADORA2A	Toxicity	3	caffeine	Anxiety Disorders
-rs20455	KIF6	Efficacy	3	atorvastatin	Coronary Disease,Hypercholesterolemia,Myocardial Infarction
 CYP2D6*1, CYP2D6*29	CYP2D6	Other	3	debrisoquine,dextromethorphan	
 rs11568315	EGFR	Efficacy	3	gefitinib	Carcinoma, Non-Small-Cell Lung
 CYP2C19*2	CYP2C19	Metabolism/PK	3	venlafaxine	Depression
@@ -4038,7 +4021,6 @@ SLC6A4 HTTLPR long form (L allele), SLC6A4 HTTLPR short form (S allele)	SLC6A4	E
 SLC6A4 HTTLPR long form (L allele), SLC6A4 HTTLPR short form (S allele)	SLC6A4	Toxicity	3	mirtazapine	Depressive Disorder, Major
 SLC6A4 HTTLPR long form (L allele), SLC6A4 HTTLPR short form (S allele)	SLC6A4	Efficacy	3	citalopram	Depressive Disorder, Major
 rs4713916	FKBP5	Efficacy	3	antidepressants,Selective serotonin reuptake inhibitors	Depressive Disorder,Mood Disorders
-rs1751034	ABCC4	Metabolism/PK	3	tenofovir	HIV Infections
 rs9934438	VKORC1	Efficacy	3	fluindione	Thromboembolism
 rs78132896	EPHA7	Toxicity	3	warfarin	Hemorrhage
 rs1008805	CYP19A1	Toxicity	3	anastrozole	Breast Neoplasms
@@ -4080,7 +4062,6 @@ CYP3A5*1, CYP3A5*3	CYP3A5	Dosage	3	sirolimus
 rs1801253	ADRB1	Efficacy	3	metoprolol	
 rs3794271	SLCO1C1	Efficacy	3	Tumor necrosis factor alpha (TNF-alpha) inhibitors	Arthritis, Psoriatic,Arthritis, Rheumatoid
 rs8450	CRTC2	Toxicity	3	cyclosporine,tacrolimus	Transplantation
-NAT2*4, NAT2*5, NAT2*6, NAT2*7, NAT2*12, NAT2*13, NAT2*14	NAT2	Efficacy	3	hydralazine	Hypertension
 CYP2D6*1, CYP2D6*4	CYP2D6	Dosage	3	Selective serotonin reuptake inhibitors	Depression
 rs12979860	IFNL3,IFNL4	Efficacy	3	peginterferon alfa-2a,peginterferon alfa-2b,ribavirin,simeprevir	Hepatitis C, Chronic
 rs12979860	IFNL3,IFNL4	Efficacy	3	daclatasvir,peginterferon alfa-2a,peginterferon alfa-2b,ribavirin	Hepatitis C, Chronic
@@ -4102,7 +4083,6 @@ rs885004	SLC28A3	Toxicity	3	anthracyclines and related substances	Neoplasms
 rs7853758	SLC28A3	Toxicity	3	anthracyclines and related substances	Neoplasms
 CYP2C8*1, CYP2C8*3	CYP2C8	Metabolism/PK	3	ibuprofen	
 rs2228570	VDR	Efficacy	3	peginterferon alfa-2b,ribavirin	Hepatitis C, Chronic
-rs2952768		Dosage	3	buprenorphine,fentanyl,meperidine,morphine,opioids,pentazocine	
 rs7779029	SEMA3C	Toxicity	3	irinotecan	Carcinoma, Non-Small-Cell Lung
 rs3812718	SCN1A	Dosage	3	phenytoin	Epilepsy
 rs5443	GNB3	Efficacy	3	sildenafil	Erectile Dysfunction
@@ -4132,8 +4112,6 @@ rs1799971	OPRM1	Toxicity	3	morphine	Neonatal Abstinence Syndrome
 rs1799971	OPRM1	Dosage	3	codeine	
 rs1323040	OPRM1	Dosage	3	sufentanil	
 rs1799971	OPRM1	Efficacy	3	acetaminophen,tramadol	neuropathic pain
-rs4680	COMT	Toxicity	3	buprenorphine,fentanyl,tramadol	adverse events,Opioid-Related Disorders
-rs4680	COMT	Toxicity	3	buprenorphine,fentanyl,tramadol	libido,Opioid-Related Disorders,Sexual Dysfunctions, Psychological
 rs4680	COMT	Toxicity	3	buprenorphine,fentanyl,tramadol	Exanthema,Opioid-Related Disorders
 rs4680	COMT	Toxicity	3	buprenorphine	Neonatal Abstinence Syndrome
 rs4680	COMT	Toxicity	3	buprenorphine	Neonatal Abstinence Syndrome
@@ -4201,7 +4179,6 @@ CYP2D6*1, CYP2D6*10	CYP2D6	Efficacy	3	propafenone	Arrhythmias, Cardiac
 rs2011425	UGT1A4	Metabolism/PK	3	lamotrigine	Epilepsy
 rs6295	HTR1A	Efficacy	3	paroxetine	Panic Disorder
 rs1045642	ABCB1	Toxicity	3	nevirapine	HIV Infections,Toxic liver disease
-CYP2A6*1A, CYP2A6*1B1, CYP2A6*2, CYP2A6*4A, CYP2A6*4E, CYP2A6*7, CYP2A6*9, CYP2A6*12A, CYP2A6*17, CYP2A6*20, CYP2A6*23, CYP2A6*35A	CYP2A6	Metabolism/PK	3	letrozole	Breast Neoplasms
 NAT2*4, NAT2*5, NAT2*6, NAT2*7	NAT2	Metabolism/PK	3	hydralazine	
 rs34059508	SLC22A1	Metabolism/PK	3	olanzapine	
 rs3842	ABCB1	Metabolism/PK	3	olanzapine	
@@ -4399,7 +4376,7 @@ rs17004921	ADORA2A-AS1	Efficacy	3	methotrexate	Arthritis, Rheumatoid
 rs1760944	APEX1,OSGEP	Efficacy	3	cisplatin,fluorouracil,radiotherapy	Carcinoma, Squamous Cell,overall survival
 rs1799782	XRCC1	Efficacy	3	cisplatin,fluorouracil,radiotherapy	Carcinoma, Squamous Cell,overall survival
 rs3219489	MUTYH	Efficacy	3	cisplatin,fluorouracil,radiotherapy	Carcinoma, Squamous Cell,progression-free survival
-rs10494366	NOS1AP	Toxicity	3	glibenclamide	Diabetes Mellitus, Type 2,Hypoglycemia
+rs10494366	NOS1AP	Toxicity	3	glyburide	Diabetes Mellitus, Type 2,Hypoglycemia
 rs10494366	NOS1AP	Toxicity	3	glimepiride	Diabetes Mellitus, Type 2,Hypoglycemia
 rs10494366	NOS1AP	Toxicity	3	glipizide	Diabetes Mellitus, Type 2,Hypoglycemia
 rs1045642	ABCB1	Toxicity	3	oseltamivir	
@@ -4440,35 +4417,22 @@ CYP2D6*1, CYP2D6*87, CYP2D6*88, CYP2D6*89, CYP2D6*90, CYP2D6*91, CYP2D6*93, CYP2
 HLA-B*56:02	HLA-B	Toxicity	3	phenytoin	drug reaction with eosinophilia and systemic symptoms,Epidermal Necrolysis, Toxic,severe cutaneous adverse reactions,Stevens-Johnson Syndrome
 rs267606617	MT-ND1,MT-RNR1	Toxicity	3	isepamicin	Ototoxicity
 rs267606619	MT-ND1,MT-RNR1	Toxicity	3	micronomicin	Ototoxicity
-rs267606619	MT-ND1,MT-RNR1	Toxicity	3	tobramycin	Ototoxicity
 rs1556422499	MT-RNR1	Toxicity	3	aminoglycoside antibacterials	Ototoxicity
 rs1603218569	MT-ND1,MT-RNR1	Toxicity	3	aminoglycoside antibacterials	Ototoxicity
 rs28358572		Toxicity	3	aminoglycoside antibacterials	Ototoxicity
 rs1556422499	MT-RNR1	Toxicity	3	dihydrostreptomycin	Ototoxicity
-rs267606617	MT-ND1,MT-RNR1	Toxicity	3	amikacin	Ototoxicity
 rs2740574	CYP3A4	Metabolism/PK	3	cyclosporine	Kidney Transplantation
 rs28358569	MT-RNR1	Toxicity	3	streptomycin	Ototoxicity
 rs28358569	MT-RNR1	Toxicity	3	gentamicin	Ototoxicity
-rs267606617	MT-ND1,MT-RNR1	Toxicity	3	tobramycin	Ototoxicity
 rs267606617	MT-ND1,MT-RNR1	Toxicity	3	neomycin	Ototoxicity
 rs1556422499	MT-RNR1	Toxicity	3	streptomycin	Ototoxicity
 rs2740574	CYP3A,CYP3A4	Toxicity	3	cyclosporine,tacrolimus	Kidney Transplantation,transplant rejection
-rs267606617	MT-RNR1	Toxicity	3	kanamycin	Ototoxicity
-rs267606619	MT-ND1,MT-RNR1	Toxicity	3	kanamycin	Ototoxicity
-rs267606619	MT-RNR1	Toxicity	3	aminoglycoside antibacterials	Ototoxicity
-rs267606618	MT-RNR1	Toxicity	3	gentamicin	Ototoxicity
-rs267606618	MT-RNR1	Toxicity	3	kanamycin	Ototoxicity
-rs267606619	MT-ND1,MT-RNR1	Toxicity	3	streptomycin	Ototoxicity
-rs267606618	MT-RNR1	Toxicity	3	aminoglycoside antibacterials	Ototoxicity
-rs267606618	MT-RNR1	Toxicity	3	streptomycin	Ototoxicity
 rs28358571		Toxicity	3	streptomycin	Ototoxicity
 rs28358571		Toxicity	3	kanamycin	Ototoxicity
-rs267606619	MT-ND1,MT-RNR1	Toxicity	3	gentamicin	Ototoxicity
 rs2740574	CYP3A4	Dosage	3	buprenorphine	Opioid-Related Disorders
 rs2740574	CYP3A,CYP3A4	Metabolism/PK	3	fentanyl	
 CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*62	CYP2C9	Metabolism/PK	3	tolbutamide	
 rs4680	COMT	Dosage	3	sufentanil	
-CYP3A4*1, CYP3A4*36	CYP3A4	Dosage	3	sufentanil	Pain
 rs12422149	SLCO2B1	Efficacy	3	rosuvastatin	
 rs2413739	PACSIN2	Toxicity	3	mercaptopurine	Precursor Cell Lymphoblastic Leukemia-Lymphoma
 rs2413739	PACSIN2	Efficacy	3	azathioprine	Irritable Bowel Syndrome
@@ -4531,7 +4495,6 @@ SLCO1B1*1, SLCO1B1*14	SLCO1B1	Efficacy	3	fluvastatin	Hypercholesterolemia
 SLCO1B1*15, SLCO1B1*37	SLCO1B1	Metabolism/PK	3	olmesartan	
 SLCO1B1*1, SLCO1B1*5, SLCO1B1*15, SLCO1B1*37	SLCO1B1	Metabolism/PK	3	repaglinide	
 SLCO1B1*1, SLCO1B1*5, SLCO1B1*9, SLCO1B1*14, SLCO1B1*15, SLCO1B1*37	SLCO1B1	Metabolism/PK	3	atrasentan	
-rs61767072	ADRA2C	Efficacy	3	Beta Blocking Agents	Cardiomyopathy, Dilated
 rs10799590	CNIH3	Toxicity	3	opioids	Opioid-Related Disorders
 rs1544105	FPGS	Efficacy	3	methotrexate	Precursor Cell Lymphoblastic Leukemia-Lymphoma
 rs70991108	DHFR	Toxicity	3	methotrexate	drug-induced liver injury,Leukopenia,Precursor Cell Lymphoblastic Leukemia-Lymphoma,Thrombocytopenia
@@ -4657,8 +4620,7 @@ rs3829125	AKR1C4	Metabolism/PK	3	naltrexone
 rs997917	OPRK1	Toxicity	3	cocaine	Cocaine-Related Disorders
 rs997917	OPRK1	Toxicity	3	opioids	Opioid-Related Disorders
 rs12678747	EYA1	Toxicity	3	aspirin	Peptic Ulcer
-CYP2A6*1A, CYP2A6*4A, CYP2A6*4B, CYP2A6*4C, CYP2A6*4D, CYP2A6*5, CYP2A6*6, CYP2A6*7, CYP2A6*9, CYP2A6*10, CYP2A6*12A, CYP2A6*17, CYP2A6*18A, CYP2A6*19, CYP2A6*20	CYP2A6	Metabolism/PK	3	coumarin	
-CYP2A6*1A, CYP2A6*1B1, CYP2A6*2, CYP2A6*4A, CYP2A6*9, CYP2A6*12, CYP2A6*17, CYP2A6*20, CYP2A6*23, CYP2A6*24A, CYP2A6*25, CYP2A6*26, CYP2A6*27, CYP2A6*28A, CYP2A6*35	CYP2A6	Toxicity	3	nicotine	Tobacco Use Disorder
+CYP2A6*1, CYP2A6*2, CYP2A6*4, CYP2A6*9, CYP2A6*12, CYP2A6*17, CYP2A6*20, CYP2A6*23, CYP2A6*24, CYP2A6*25, CYP2A6*26, CYP2A6*27, CYP2A6*28, CYP2A6*35, CYP2A6*46	CYP2A6	Toxicity	3	nicotine	Tobacco Use Disorder
 rs72549435	CYP2A6	Metabolism/PK	3	nicotine	
 rs199515342	CYP2A6	Metabolism/PK	3	nicotine	
 rs571335587	CYP2A6	Metabolism/PK	3	nicotine	
@@ -4704,20 +4666,16 @@ rs71647871	CES1	Metabolism/PK	3	sacubitril
 HLA-B*07:02:01	HLA-B	Toxicity	3	sulfamethoxazole / trimethoprim	Respiratory Insufficiency
 HLA-C*07:02:01:01	HLA-C	Toxicity	3	sulfamethoxazole / trimethoprim	Respiratory Insufficiency
 GSTM1 non-null, GSTM1 null	GSTM1	Toxicity	3	sulfamethoxazole / trimethoprim	Acquired Immunodeficiency Syndrome
-NAT2*4, NAT2*5A, NAT2*5B, NAT2*6A, NAT2*6B, NAT2*7A, NAT2*7B, NAT2*14A, NAT2*14B	NAT2	Toxicity	3	sulfamethoxazole / trimethoprim	adverse events,Hypersensitivity,severe cutaneous adverse reactions
 rs1799931	NAT2	Toxicity	3	sulfamethoxazole / trimethoprim	adverse events,Hypersensitivity
 rs1799930	NAT2	Toxicity	3	sulfamethoxazole / trimethoprim	adverse events,Hypersensitivity
 rs13210472		Toxicity	3	hmg coa reductase inhibitors	Neoplasms
 rs10908521	INSRR,NTRK1	Toxicity	3	Glucarpidase	nephrotoxicity
 rs1353327		Toxicity	3	Glucarpidase	nephrotoxicity
-rs7317112	ABCC4	Toxicity	3	Glucarpidase	nephrotoxicity
 rs9345389		Toxicity	3	Glucarpidase	nephrotoxicity
-rs4149056	SLCO1B1	Toxicity	3	Glucarpidase	nephrotoxicity
 rs3824662	GATA3	Toxicity	3	Glucarpidase	nephrotoxicity
 rs10821936	ARID5B	Toxicity	3	Glucarpidase	nephrotoxicity
 CYP1A2*1A, CYP1A2*1C, CYP1A2*1F	CYP1A2	Toxicity	3	clozapine	Confusion,Drug Toxicity,Headache,Muscle Rigidity,Schizophrenia,sedation,Seizures,Tachycardia
 CYP3A4*1, CYP3A4*3	CYP3A4	Metabolism/PK	3	quetiapine	
-CYP3A4*1, CYP3A4*22	CYP3A4	Efficacy	3	alprazolam	Alcoholism,Anxiety Disorders
 CYP3A4*1, CYP3A4*22	CYP3A4	Toxicity	3	alprazolam	adverse events,Alcoholism,Anxiety Disorders
 CYP3A5*1, CYP3A5*3	CYP3A5	Toxicity	3	paclitaxel	Neoplasms,Neurotoxicity Syndromes
 CYP3A4*1, CYP3A4*8, CYP3A4*20, CYP3A4*22	CYP3A4	Toxicity	3	paclitaxel	Breast Neoplasms,Ovarian Neoplasms
@@ -4727,6 +4685,65 @@ rs74569896	NECAB1	Efficacy	3	aspirin,clopidogrel	Acute coronary syndrome,major a
 rs75750968	AGAP3	Efficacy	3	aspirin,clopidogrel	Acute coronary syndrome,major adverse cardiac events (mace)
 rs140410716	ECHS1	Efficacy	3	aspirin,clopidogrel	Acute coronary syndrome,major adverse cardiac events (mace)
 CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*8, CYP2C9*13, CYP2C9*36, CYP2C9*37, CYP2C9*38, CYP2C9*39, CYP2C9*40, CYP2C9*42, CYP2C9*43, CYP2C9*44, CYP2C9*45, CYP2C9*46, CYP2C9*47, CYP2C9*48, CYP2C9*50, CYP2C9*52, CYP2C9*53, CYP2C9*54, CYP2C9*55, CYP2C9*59, CYP2C9*60, CYP2C9*62	CYP2C9	Metabolism/PK	3	diclofenac	
+rs20455	KIF6	Efficacy	3	atorvastatin	Coronary Disease,Hypercholesterolemia,Myocardial Infarction
+rs17064642	MYOM2	Efficacy	3	aspirin,clopidogrel	Acute coronary syndrome,major adverse cardiac events (mace)
+HLA-DQB1*02:02	HLA-DQB1	Toxicity	3	acetaminophen	severe cutaneous adverse reactions
+rs2952768		Efficacy	3	opioids	Pain, Postoperative
+rs2952768		Dosage	3	fentanyl	Pain, Postoperative
+TPMT*1, TPMT*21, TPMT*33, TPMT*34	TPMT	Toxicity	3	mercaptopurine	Neutropenia,Precursor Cell Lymphoblastic Leukemia-Lymphoma,Thrombocytopenia
+TPMT*1, TPMT*21, TPMT*33, TPMT*34	TPMT	Toxicity	3	thioguanine	Neutropenia,Precursor Cell Lymphoblastic Leukemia-Lymphoma,Thrombocytopenia
+TPMT*1, TPMT*21, TPMT*33, TPMT*34	TPMT	Dosage	3	mercaptopurine	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+TPMT*1, TPMT*21, TPMT*33, TPMT*34	TPMT	Dosage	3	thioguanine	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+TPMT*1, TPMT*19, TPMT*20, TPMT*21, TPMT*22, TPMT*30, TPMT*32, TPMT*33, TPMT*34	TPMT	Metabolism/PK	3	thioguanine	
+TPMT*1, TPMT*21, TPMT*24, TPMT*25, TPMT*32, TPMT*33, TPMT*34, TPMT*37	TPMT	Metabolism/PK	3	mercaptopurine	Lupus Erythematosus, Systemic,Precursor Cell Lymphoblastic Leukemia-Lymphoma
+rs6311	HTR2A	Toxicity	3	Selective serotonin reuptake inhibitors	ability to concentrate,Depressive Disorder, Major,Diarrhea,Dizziness,Tremor
+CYP1A2*1A, CYP1A2*1F	CYP1A2	Metabolism/PK	3	clozapine	schizoaffective disorder,Schizophrenia
+rs3742106	ABCC4	Metabolism/PK	3	tenofovir	HIV Infections
+rs1751034	ABCC4	Metabolism/PK	3	tenofovir	HIV Infections
+rs9349256	ABCC10	Toxicity	3	tenofovir disoproxil fumarate	HIV Infections,nephrotoxicity
+rs3742106	ABCC4	Toxicity	3	tenofovir disoproxil fumarate	HIV Infections,nephrotoxicity
+rs10494366	NOS1AP	Toxicity	3	digoxin	Shortened QT interval
+rs1045642	ABCB1	Efficacy	3	highly active antiretroviral therapy (haart)	HIV Infections
+NAT2*4, NAT2*5, NAT2*6, NAT2*7, NAT2*12, NAT2*13	NAT2	Toxicity	3	Antivirals for treatment of HIV infections, combinations,Drugs For Treatment Of Tuberculosis	drug-induced liver injury,HIV Infections,Tuberculosis
+NAT2*4, NAT2*5A, NAT2*5B, NAT2*6A, NAT2*6B, NAT2*7A, NAT2*7B, NAT2*14A, NAT2*14B	NAT2	Toxicity	3	sulfamethoxazole / trimethoprim	adverse events,Hypersensitivity,severe cutaneous adverse reactions
+CYP3A5*1, CYP3A5*3	CYP3A5	Toxicity	3	carboplatin,paclitaxel	Leukopenia,Neutropenia,Ovarian Neoplasms
+rs2292596	AHRR	Efficacy	3	methotrexate	Arthritis, Rheumatoid
+CYP2C9*1, CYP2C9*3	CYP2C9	Toxicity	3	phenytoin	Stevens-Johnson Syndrome
+CYP2C9*1, CYP2C9*2	CYP2C9	Toxicity	3	ketoprofen	Dyspepsia,Pain, Postoperative
+CYP2A6*1, CYP2A6*15, CYP2A6*21, CYP2A6*22	CYP2A6	Metabolism/PK	3	methoxsalen	
+CYP2A6*1, CYP2A6*2, CYP2A6*4, CYP2A6*7, CYP2A6*9, CYP2A6*46	CYP2A6	Dosage	3	nicotine	Tobacco Use Disorder
+CYP2A6*1, CYP2A6*2, CYP2A6*4, CYP2A6*9, CYP2A6*12	CYP2A6	Toxicity	3	nicotine	Tobacco Use Disorder
+rs1799971	OPRM1	Toxicity	3	naloxone,oxycodone	Erythema
+rs4680	COMT	Toxicity	3	naloxone,oxycodone	Vomiting
+rs4680	COMT	Toxicity	3	naloxone,oxycodone	Erythema
+NAT2*4, NAT2*5D, NAT2*6B, NAT2*7A, NAT2*12A, NAT2*13A, NAT2*14A	NAT2	Efficacy	3	hydralazine	Hypertension
+CYP2A6*1, CYP2A6*4, CYP2A6*7, CYP2A6*9, CYP2A6*10, CYP2A6*11, CYP2A6*18, CYP2A6*19, CYP2A6*46	CYP2A6	Metabolism/PK	3	tegafur	Neoplasms
+CYP2A6*1, CYP2A6*2, CYP2A6*4, CYP2A6*7, CYP2A6*9, CYP2A6*12, CYP2A6*17, CYP2A6*20, CYP2A6*23, CYP2A6*35, CYP2A6*46	CYP2A6	Metabolism/PK	3	letrozole	Breast Neoplasms
+CYP2A6*1, CYP2A6*4, CYP2A6*5, CYP2A6*6, CYP2A6*7, CYP2A6*9, CYP2A6*10, CYP2A6*12, CYP2A6*17, CYP2A6*18, CYP2A6*19, CYP2A6*20	CYP2A6	Metabolism/PK	3	coumarin	
+CYP2A6*1, CYP2A6*1x2, CYP2A6*2	CYP2A6	Toxicity	3	nicotine	Tobacco Use Disorder
+rs7662029	UGT2B7	Metabolism/PK	3	buprenorphine / naloxone	Opioid-Related Disorders
+rs4680	COMT	Toxicity	3	buprenorphine,fentanyl,tramadol	adverse events,Opioid-Related Disorders
+rs7439366	UGT2B7	Metabolism/PK	3	buprenorphine / naloxone	Opioid-Related Disorders
+rs1045642	ABCB1	Toxicity	3	tramadol	Opioid-Related Disorders
+CYP3A4*1, CYP3A4*17	CYP3A4	Metabolism/PK	3	nifedipine	
+CYP3A4*1, CYP3A4*36	CYP3A4	Dosage	3	sufentanil	Pain
+rs2254638	N6AMT1	Efficacy	3	clopidogrel	major adverse cardiac events (mace)
+rs2046934	P2RY12	Efficacy	3	clopidogrel	major adverse cardiac events (mace)
+rs1330344	PTGS1	Efficacy	3	clopidogrel	major adverse cardiac events (mace)
+rs2239050	CACNA1C	Efficacy	3	nimodipine	
+rs61767072	ADRA2C	Efficacy	3	Beta Blocking Agents	Cardiomyopathy, Dilated,Death
+rs10787959	GRK5	Efficacy	3	Beta Blocking Agents	Coronary Artery Disease
+rs3740563	GRK5	Efficacy	3	Beta Blocking Agents	Coronary Artery Disease
+rs11198893	GRK5	Efficacy	3	Beta Blocking Agents	Coronary Artery Disease
+rs4752292	GRK5	Efficacy	3	Beta Blocking Agents	Coronary Artery Disease
+CYP2D6*1, CYP2D6*4, CYP2D6*10	CYP2D6	Metabolism/PK	3	vortioxetine	
+rs1800629	TNF	Toxicity	3	sorafenib	Carcinoma, Hepatocellular,hand-foot syndrome
+rs4149056	SLCO1B1	Toxicity	3	Glucarpidase	nephrotoxicity
+rs7317112	ABCC4	Toxicity	3	Glucarpidase	nephrotoxicity
+rs1024323	GRK4	Toxicity	3	atenolol,verapamil	Coronary Artery Disease,Hypertension
+CYP3A4*1, CYP3A4*22	CYP3A4	Efficacy	3	alprazolam	Alcoholism,Anxiety Disorders
+rs2740574	CYP3A4	Efficacy	3	buprenorphine	Pain
+rs1934969	CYP2C9	Other	3	losartan	
 rs776746	CYP3A5	Other	4	nevirapine	HIV Infections
 rs1801133	MTHFR	Toxicity	4	mercaptopurine	Precursor Cell Lymphoblastic Leukemia-Lymphoma
 rs2032582	ABCB1	Efficacy	4	antiepileptics	Epilepsy
@@ -4753,7 +4770,6 @@ G6PD A- 202A_376G, G6PD B (wildtype)	G6PD	Toxicity	4	mefloquine	Malaria
 rs11226	RAD52	Toxicity	4	cisplatin,cyclophosphamide	Ovarian Neoplasms
 rs3832043	UGT1A9	Toxicity	4	irinotecan	Carcinoma, Non-Small-Cell Lung
 G6PD A- 202A_376G, G6PD B (wildtype), G6PD Mediterranean Haplotype, G6PD Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham	G6PD	Toxicity	4	chloroquine	Anemia, Hemolytic
-HLA-DQB1*02:02	HLA-DQB1	Toxicity	4	acetaminophen	severe cutaneous adverse reactions
 rs17183814	SCN2A	Efficacy	4	antiepileptics,carbamazepine,phenobarbital,phenytoin,valproic acid	Epilepsy
 rs3740066	ABCC2	Efficacy	4	antiepileptics	Epilepsy
 rs1176744	HTR3B	Toxicity	4	paroxetine	Mental Disorders
@@ -4951,15 +4967,12 @@ CYP2D6*1, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*6	CYP2D6	Toxicity	4	o
 CYP2D6*1, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*10, CYP2D6*17, CYP2D6*41	CYP2D6	Toxicity	4	citalopram	Depressive Disorder, Major
 CYP2C9*1, CYP2C9*2, CYP2C9*3	CYP2C9	Efficacy	4	warfarin	
 CYP2C9*1, CYP2C9*2, CYP2C9*3	CYP2C9	Efficacy	4	warfarin	
-TPMT*1, TPMT*6, TPMT*7, TPMT*8, TPMT*11, TPMT*14, TPMT*16, TPMT*17, TPMT*18, TPMT*20, TPMT*21, TPMT*22, TPMT*23	TPMT	Dosage,Toxicity	4	azathioprine,mercaptopurine,purine analogues,thioguanine	Lupus Erythematosus, Systemic,Precursor Cell Lymphoblastic Leukemia-Lymphoma
 rs1801131	MTHFR	Dosage	4	methotrexate	Precursor Cell Lymphoblastic Leukemia-Lymphoma
 rs4124874	UGT1A1	Toxicity	4	irinotecan	Lymphoma,Neoplasms
 G6PD B (wildtype), G6PD Canton, Taiwan-Hakka, Gifu-like, Agrigento-like	G6PD	Toxicity	4	sulfamethoxazole / trimethoprim	Anemia, Hemolytic,Hemolysis
 G6PD B (wildtype), G6PD Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham	G6PD	Toxicity	4	sulfametopyrazine	Hemolysis
 rs1051266	SLC19A1	Efficacy	4	methotrexate	Neoplasms,Precursor Cell Lymphoblastic Leukemia-Lymphoma
 rs1801131	MTHFR	Efficacy	4	methotrexate	Precursor Cell Lymphoblastic Leukemia-Lymphoma
-rs1801253	ADRB1	Efficacy	4	Beta Blocking Agents	Cardiomyopathy, Dilated,Heart Failure
-rs1042713	ADRB2	Efficacy	4	Beta Blocking Agents	Cardiomyopathy, Dilated,Heart Failure
 rs3212986	ERCC1	Efficacy	4	cisplatin	Esophageal Neoplasms,Ovarian Neoplasms,Stomach Neoplasms
 rs45445694	C18orf56,TYMS	Metabolism/PK	4	methotrexate	Precursor Cell Lymphoblastic Leukemia-Lymphoma
 rs1045642	ABCB1	Efficacy	4	methotrexate	Precursor Cell Lymphoblastic Leukemia-Lymphoma
@@ -4996,3 +5009,6 @@ rs1045642	ABCB1	Efficacy	4	paclitaxel	Breast Neoplasms,Neoplasms
 rs1045642	ABCB1	Efficacy	4	docetaxel	Breast Neoplasms,Neoplasms
 rs1045642	ABCB1	Toxicity	4	paclitaxel	Drug Toxicity,Neoplasms,Neutropenia,Peripheral Nervous System Diseases
 CYP2C8*1, CYP2C8*2, CYP2C8*3, CYP2C8*4	CYP2C8	Toxicity	4	paclitaxel	Drug Toxicity,Neutropenia,Peripheral Nervous System Diseases,Toxic liver disease
+rs1801253	ADRB1	Efficacy	4	Beta Blocking Agents	Cardiomyopathy, Dilated,Heart Failure
+rs2230345	GRK5	Efficacy	4	Beta Blocking Agents	Heart Failure
+rs1042713	ADRB2	Efficacy	4	Beta Blocking Agents	Cardiomyopathy, Dilated,Heart Failure

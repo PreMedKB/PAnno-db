@@ -1,0 +1,800 @@
+Gene	Allele	ActivityScore	Function	PMID	Variant	AlleleManual	FunctionManual
+ABCG2	rs2231142 reference (G)		Normal function		rs2231142	G	Normal Function
+ABCG2	rs2231142 variant (T)		Decreased function	25236865, 21091277, 22098950, 18464048, 18958403, 15475413, 15553238, 10646850, 11688982, 11309344, 25639366, 26914831	rs2231142	T	Decreased Function
+CACNA1S	Reference		Normal Function		rs772226819	G	Normal Function
+CACNA1S	Reference		Normal Function		rs1800559	C	Normal Function
+CACNA1S	c.520C>T		Malignant hyperthermia associated	19825159, 28259615, 22547813	rs772226819	A	Uncertain Function
+CACNA1S	c.3257G>A		Malignant hyperthermia associated	9199552, 11260227, 12411788, 16163667, 15201141	rs1800559	T	Uncertain Function
+CYP2B6	*1		Normal function	21659470, 30201214			Normal Function
+CYP2B6	*2		Normal function	12642465, 23399569, 23254426, 22471906, 21896912, 26655325			Normal Function
+CYP2B6	*3		Uncertain function	12642465, 26655325			Uncertain Function
+CYP2B6	*4		Increased function	12642465, 21746968, 14515060, 17015050, 17235330, 26107645, 23399569, 23254426, 26389554, 21659470, 21821736, 21659470			Increased Function
+CYP2B6	*5		Normal function	12642465, 21659470, 17559344, 21659470, 26655325, 23990572, 23399569, 23254426, 22354160, 20841522, 20662624			Normal Function
+CYP2B6	*6		Decreased function	17559344, 22232427, 21659470, 15622315, 26655325, 12642465, 30201214			Decreased Function
+CYP2B6	*7		Decreased function	12642465, 21659470, 30201214, 31324697			Decreased Function
+CYP2B6	*8		No function	21659470, 20517174, 21746968, 15190123, 30201214			No Function
+CYP2B6	*9		Decreased function	21659470			Decreased Function
+CYP2B6	*10		Uncertain function	30201214, 21746968			Uncertain Function
+CYP2B6	*11		Uncertain function	20517174, 21746968, 15190123, 27045425, 26779253, 25303294, 23734829, 19916993, 23778320, 30201214			Uncertain Function
+CYP2B6	*12		No function	20517174, 21746968, 30201214			No Function
+CYP2B6	*13		No function	20517174, 17559344			No Function
+CYP2B6	*14		Uncertain function	21746968, 17559344, 15190123, 20517174, 30201214			Uncertain Function
+CYP2B6	*15		Uncertain function	20517174, 21746968, 17559344, 15190123, 20662624, 30201214			Uncertain Function
+CYP2B6	*17		Normal function	16272958, 26655325			Normal Function
+CYP2B6	*18		No function	21746968, 20517174, 26655325, 16272958, 30201214, 16495778			No Function
+CYP2B6	*19		Decreased function	21746968, 16272958, 30201214			Decreased Function
+CYP2B6	*20		Decreased function	21746968, 16272958			Decreased Function
+CYP2B6	*21		Uncertain function	20517174, 21746968, 16272958, 30201214			Uncertain Function
+CYP2B6	*22		Increased function	17559344, 15722458			Increased Function
+CYP2B6	*23		Unknown function	15499182			Unknown Function
+CYP2B6	*24		No function	20517174, 21746968, 30201214			No Function
+CYP2B6	*25		Unknown function	15499182			Unknown Function
+CYP2B6	*26		Decreased function	17918089, 30201214			Decreased Function
+CYP2B6	*27		Uncertain function	21746968, 17235330			Uncertain Function
+CYP2B6	*28		No function	20517174, 17235330			No Function
+CYP2B6	*29		Decreased function	17885627			Decreased Function
+CYP2B6	*30		No function	28181240, 23164804			No Function
+CYP2B6	*31		Normal function	26655325			Normal Function
+CYP2B6	*32		Normal function	26655325, 30201214			Normal Function
+CYP2B6	*33		Uncertain function	23418033, 30201214			Uncertain Function
+CYP2B6	*34		Decreased function	23418033, 30201214			Decreased Function
+CYP2B6	*35		No function	23418033, 30201214			No Function
+CYP2B6	*36		Decreased function	23418033			Decreased Function
+CYP2B6	*37		No function	23418033, 30201214			No Function
+CYP2B6	*38		No function	23640958			No Function
+CYP2C19	*1		Normal function	7487078, 32602114, 22027650, 29325448, 33237321			Normal Function
+CYP2C19	*2		No function	8195181, 22027650			No Function
+CYP2C19	*3		No function	7969038, 9103550, 22027650			No Function
+CYP2C19	*4		No function	9435198, 21358751			No Function
+CYP2C19	*5		No function	9103550, 10022751, 21325430, 25001882, 21692664			No Function
+CYP2C19	*6		No function	9732415, 21325430, 25001882			No Function
+CYP2C19	*7		No function	10411572			No Function
+CYP2C19	*8		No function	10411572, 21325430, 25001882, 21692664			No Function
+CYP2C19	*9		Decreased function	12464799, 21325430, 25001882, 21692664			Decreased Function
+CYP2C19	*10		Decreased function	12464799, 19661214, 21325430, 25001882, 24945780, 21692664			Decreased Function
+CYP2C19	*11		Normal function	12464799, 21325430, 25001882, 21692664			Normal Function
+CYP2C19	*12		Uncertain function	12464799			Uncertain Function
+CYP2C19	*13		Normal function	12464799, 21325430, 25001882, 21692664			Normal Function
+CYP2C19	*14		Uncertain function	21325430, 25001882, 21692664			Uncertain Function
+CYP2C19	*15		Normal function	21325430, 25001882			Normal Function
+CYP2C19	*16		Decreased function	15499191, 21325430, 25001882, 21692664			Decreased Function
+CYP2C19	*17		Increased function	16413245, 17625515, 20083681, 17625515, 32857933, 29325448, 29136336, 31649299, 20083681			Increased Function
+CYP2C19	*18		Normal function	17455109, 18312490, 21325430, 25001882			Normal Function
+CYP2C19	*19		Decreased function	17455109, 18312490, 21325430, 25001882, 21692664			Decreased Function
+CYP2C19	*22		No function	25001882, 19164093			No Function
+CYP2C19	*23		Uncertain function	25001882, 27578295, 30464555, 31713493			Uncertain Function
+CYP2C19	*24		No function	25001882, 27578295, 31713493			No Function
+CYP2C19	*25		Decreased function	25001882, 19636337, 31713493			Decreased Function
+CYP2C19	*26		Decreased function	19661214, 25001882			Decreased Function
+CYP2C19	*28		Normal function	25001882, 20712527			Normal Function
+CYP2C19	*29		Uncertain function	26153442, 30464555, 29098786			Uncertain Function
+CYP2C19	*30		Uncertain function	26153442, 30464555, 29098786			Uncertain Function
+CYP2C19	*31		Uncertain function	26153442, 30464555, 29098786			Uncertain Function
+CYP2C19	*32		Uncertain function	26153442, 30464555, 29098786			Uncertain Function
+CYP2C19	*33		Uncertain function	26153442, 30464555, 29098786			Uncertain Function
+CYP2C19	*34		Uncertain function	23799451			Uncertain Function
+CYP2C19	*35		No function	26021325			No Function
+CYP2C19	*36		No function	31260137			No Function
+CYP2C19	*37		No function	31260137			No Function
+CYP2C19	*38		Normal function	2009263, 32602114			Normal Function
+CYP2C19	*39		Uncertain function	21692664, 21325430			Uncertain Function
+CYP2C9	*1	1	Normal function				Normal Function
+CYP2C9	*2	0.5	Decreased function	29283396, 20150829, 1563752, 12742136, 10413320, 27179628, 25775139, 19082874, 30088221, 15637526			Decreased Function
+CYP2C9	*3	0	No function	8809086, 29283396, 20150829, 15637526, 12742136, 10413320, 27179628, 25775139, 19082874, 30088221			No Function
+CYP2C9	*4	0.5	Decreased function	23752738, 21228733			Decreased Function
+CYP2C9	*5	0.5	Decreased function	23752738, 15289788, 11455026, 16220110, 17504998, 21811894, 11901091			Decreased Function
+CYP2C9	*6	0	No function	23752738, 15289788, 11740344, 16220110, 17895500, 21811894, 15094935			No Function
+CYP2C9	*7		Uncertain function	15284535, 23752738			Uncertain Function
+CYP2C9	*8	0.5	Decreased function	23752738, 22378156, 23959274, 16220110, 21811894, 23844998, 24118918, 25142737, 25144335, 25476996, 25832633, 25884291, 25924705, 27163851, 27199745, 25951663, 24077631, 15289788, 28758225, 23376925, 15284535			Decreased Function
+CYP2C9	*9	1	Normal function	23752738, 15284535, 21811894, 28758225, 16220110, 19164093, 20716240			Normal Function
+CYP2C9	*10		Uncertain function	23752738, 28758225, 15284535			Uncertain Function
+CYP2C9	*11	0.5	Decreased function	15284535, 23752738, 15289788, 15970795, 25951663, 16220110, 21811894, 23844998, 24118918, 25142737, 25144335, 25476996, 25832633, 25884291, 25924705, 27163851, 27199745, 24077631			Decreased Function
+CYP2C9	*12	0.5	Decreased function	15284535, 23752738, 28758225, 23688605			Decreased Function
+CYP2C9	*13	0	No function	23752738, 16308280, 15764711, 25951663, 19541829, 16740353, 20814155, 19604036, 21395648, 21726410, 21842338, 22735459, 23844998, 24118918, 24464553, 25142737, 25476996, 25614704, 25832633, 25884291, 27163851, 25144335, 27377818, 27864660, 15606435, 24077631			No Function
+CYP2C9	*14	0.5	Decreased function	16099926, 23844998, 24118918, 25142737, 25144335, 25476996, 25951663, 25832633, 25884291, 25924705, 27163851, 24077631, 24956244, 19077919, 15371982, 23752738			Decreased Function
+CYP2C9	*15	0	No function	16099926, 23752738			No Function
+CYP2C9	*16	0.5	Decreased function	16099926, 24077631, 24118918, 24464553, 25142737, 25951663, 25144335, 25476996, 25614704, 25832633, 25884291, 25924705, 27163851, 23844998			Decreased Function
+CYP2C9	*17		Uncertain function	23752738, 16099926			Uncertain Function
+CYP2C9	*18		Uncertain function	23752738, 16099926			Uncertain Function
+CYP2C9	*19		Uncertain function	23752738, 23844998, 24118918, 25142737, 25476996, 25144335, 25951663, 25614704, 25832633, 25884291, 27163851, 24077631, 16099926			Uncertain Function
+CYP2C9	*20		Uncertain function	23752738			Uncertain Function
+CYP2C9	*21		Uncertain function	23752738			Uncertain Function
+CYP2C9	*22		Uncertain function	23752738			Uncertain Function
+CYP2C9	*23	0.5	Decreased function	23752738, 23844998, 24118918, 25951663, 25142737, 25144335, 25476996, 25832633, 25884291, 25924705, 27163851, 24077631			Decreased Function
+CYP2C9	*24	0	No function	23752738, 17332144, 16543980			No Function
+CYP2C9	*25	0	No function	23752738, 16788382			No Function
+CYP2C9	*26	0.5	Decreased function	23752738, 19541829, 16788382			Decreased Function
+CYP2C9	*27		Uncertain function	23752738, 16788382, 23844998, 24118918, 25142737, 25144335, 25951663, 25476996, 25614704, 25832633, 25884291, 25924705, 27163851, 24077631			Uncertain Function
+CYP2C9	*28	0.5	Decreased function	23752738, 19541829, 16788382			Decreased Function
+CYP2C9	*29	0.5	Decreased function	23752738, 16788382, 23844998, 24118918, 25142737, 25951663, 25144335, 25476996, 25614704, 25832633, 25884291, 25924705, 27163851, 24077631			Decreased Function
+CYP2C9	*30	0.5	Decreased function	23752738, 19541829, 16788382			Decreased Function
+CYP2C9	*31	0.5	Decreased function	23752738, 24118918, 23844998, 25142737, 25144335, 25951663, 25476996, 25832633, 25884291, 25924705, 27163851, 27199745, 24077631			Decreased Function
+CYP2C9	*32		Uncertain function	23752738			Uncertain Function
+CYP2C9	*33	0	No function	23752738, 18971529, 23844998, 24118918, 25142737, 25951663, 25144335, 25476996, 25832633, 25884291, 27163851, 19541829, 24077631			No Function
+CYP2C9	*34		Uncertain function	23752738, 18971529, 19541829, 23844998, 24118918, 25142737, 25144335, 25951663, 25476996, 25614704, 25832633, 25884291, 25924705, 27163851, 24077631			Uncertain Function
+CYP2C9	*35	0	No function	23752738, 24322786, 2145143			No Function
+CYP2C9	*36		Uncertain function	24077631, 24118918, 25142737, 25144335, 25476996, 25832633, 25884291, 25951663, 25924705, 27163851, 23844998			Uncertain Function
+CYP2C9	*37	0.5	Decreased function	24077631, 24118918, 25142737, 25144335, 25951663, 25476996, 25832633, 25884291, 25924705, 27163851, 23844998			Decreased Function
+CYP2C9	*38	0.5	Decreased function	24077631, 24118918, 25142737, 25144335, 25951663, 25476996, 25832633, 25884291, 25924705, 27163851, 28758225, 23844998			Decreased Function
+CYP2C9	*39	0	No function	24077631, 24118918, 25142737, 25144335, 25476996, 25832633, 25951663, 25884291, 27163851, 23844998			No Function
+CYP2C9	*40		Uncertain function	24077631, 24118918, 25142737, 25951663, 25144335, 25476996, 25614704, 25832633, 25884291, 25924705, 27163851, 28758225, 23844998			Uncertain Function
+CYP2C9	*41		Uncertain function	24077631, 24118918, 25142737, 25951663, 25144335, 25476996, 25614704, 25832633, 25884291, 25924705, 27163851, 23844998			Uncertain Function
+CYP2C9	*42	0	No function	24077631, 24118918, 25142737, 25144335, 25476996, 25614704, 25832633, 25951663, 25884291, 25924705, 27163851, 23844998			No Function
+CYP2C9	*43	0	No function	24077631, 24118918, 25142737, 25144335, 25476996, 25832633, 25884291, 25951663, 27163851, 23844998			No Function
+CYP2C9	*44	0.5	Decreased function	24077631, 24118918, 25142737, 25144335, 25476996, 25832633, 25951663, 25884291, 25924705, 27163851, 23844998			Decreased Function
+CYP2C9	*45	0	No function	24077631, 24118918, 25144335, 25951663, 25142737, 25476996, 25614704, 25884291, 25832633, 25924705, 27163851, 23844998			No Function
+CYP2C9	*46	0.5	Decreased function	24077631, 24118918, 25142737, 25144335, 25476996, 25614704, 25832633, 25884291, 25951663, 25924705, 27163851, 23844998			Decreased Function
+CYP2C9	*47		Uncertain function	24077631, 24118918, 25142737, 25144335, 25476996, 25832633, 25884291, 25924705, 25951663, 27163851, 23844998			Uncertain Function
+CYP2C9	*48		Uncertain function	24077631, 24118918, 25142737, 25144335, 25476996, 25614704, 25832633, 25884291, 25951663, 25924705, 27163851, 23844998			Uncertain Function
+CYP2C9	*49		Uncertain function	24077631, 24118918, 25142737, 25144335, 25476996, 25832633, 25884291, 25951663, 27163851, 23844998			Uncertain Function
+CYP2C9	*50	0.5	Decreased function	24077631, 24118918, 25142737, 25144335, 25951663, 25476996, 25832633, 25884291, 25924705, 27163851, 23844998			Decreased Function
+CYP2C9	*51		Uncertain function	24077631, 24118918, 25142737, 25144335, 25951663, 25476996, 25832633, 25884291, 25924705, 27163851, 23844998			Uncertain Function
+CYP2C9	*52	0	No function	24077631, 24118918, 25142737, 25144335, 25476996, 25832633, 25951663, 25884291, 25924705, 27163851, 23844998			No Function
+CYP2C9	*53		Uncertain function	24077631, 24118918, 25142737, 25144335, 25476996, 25832633, 25884291, 25951663, 25924705, 27163851, 23844998			Uncertain Function
+CYP2C9	*54		Uncertain function	24077631, 24118918, 25142737, 25144335, 25476996, 25832633, 25884291, 25951663, 25924705, 27163851, 23844998			Uncertain Function
+CYP2C9	*55	0.5	Decreased function	24077631, 24118918, 25142737, 25144335, 25476996, 25832633, 25884291, 25951663, 25924705, 27163851, 23844998			Decreased Function
+CYP2C9	*56		Uncertain function	24077631, 24118918, 25142737, 25144335, 25476996, 25832633, 25884291, 25951663, 25924705, 27163851, 23844998			Uncertain Function
+CYP2C9	*57		Unknown function				Unknown Function
+CYP2C9	*58		Uncertain function	25142737, 25075423, 25884291			Uncertain Function
+CYP2C9	*59		Uncertain function	25142737, 25994031, 25884291			Uncertain Function
+CYP2C9	*60		Uncertain function	25142737, 26255664, 25884291			Uncertain Function
+CYP2C9	*61	0.5	Decreased function	30518301			Decreased Function
+CYP2C9	*62		Uncertain function	32531309			Uncertain Function
+CYP2C9	*63		Uncertain function	33536773			Uncertain Function
+CYP2C9	*64		Uncertain function	33536773			Uncertain Function
+CYP2C9	*65		Uncertain function	33536773			Uncertain Function
+CYP2C9	*66		Uncertain function	33536773			Uncertain Function
+CYP2C9	*67		Uncertain function	33536773			Uncertain Function
+CYP2C9	*68		Uncertain function	33536773			Uncertain Function
+CYP2C9	*69		Uncertain function	33536773			Uncertain Function
+CYP2C9	*70		Uncertain function	33536773			Uncertain Function
+CYP2C9	*71		Uncertain function				Uncertain Function
+CYP2C9	*72		Unknown function				Unknown Function
+CYP2C9	*73		Unknown function				Unknown Function
+CYP2C9	*74		Unknown function				Unknown Function
+CYP2C9	*75		Unknown function				Unknown Function
+CYP2D6	*1	1	Normal function	2574001			Normal Function
+CYP2D6	*1x2	2	Increased function	7616439, 9012401, 17259947, 19541866, 22111604, 29674966			Increased Function
+CYP2D6	*1x≥3	≥3.0	Increased function	7616439, 9012401, 17259947, 19541866, 22111604, 29674966			Increased Function
+CYP2D6	*2	1	Normal function	7903454, 11037799, 11266079, 12915955, 18784265, 20456744, 24647041, 25469868, 26310775, 26542054, 26652007, 26937172, 26968424, 27203132, 27251229, 27354764, 27538917, 30366777, 26666748, 26544071, 26406933, 27109434, 27097346, 27016952			Normal Function
+CYP2D6	*2x2	2	Increased function	7616439, 7903454, 8764380, 17259947			Increased Function
+CYP2D6	*2x≥3	≥3.0	Increased function	17259947, 7616439, 7903454, 8764380			Increased Function
+CYP2D6	*3	0	No function	2211621			No Function
+CYP2D6	*3x2	0	No function	29674966			No Function
+CYP2D6	*4	0	No function	2211621, 11266079, 1978251, 1978565			No Function
+CYP2D6	*4x2	0	No function	10022755, 12152006, 9170153, 17259947, 22111604, 29674966			No Function
+CYP2D6	*4x≥3	0	No function	10022755, 12152006, 26602992			No Function
+CYP2D6	*5	0	No function	1673290, 11266079			No Function
+CYP2D6	*6	0	No function	8634695, 10022755, 7894499			No Function
+CYP2D6	*6x2	0	No function	17259947, 29674966			No Function
+CYP2D6	*7	0	No function	7894499, 24647041, 30366777			No Function
+CYP2D6	*8	0	No function	8530011			No Function
+CYP2D6	*9	0.5	Decreased function	1844820, 8101460, 11266079, 24647041, 30366777			Decreased Function
+CYP2D6	*9x2	1	Normal function	22044417, 29674966			Normal Function
+CYP2D6	*10	0.25	Decreased function	8764380, 11266079, 18784265, 8287064, 24647041, 25469868, 26310775, 26542054, 26652007, 26937172, 26968424, 27203132, 27251229, 27354764, 27538917, 19364831, 30366777, 26666748, 26544071, 26406933, 27109434, 27097346, 27016952			Decreased Function
+CYP2D6	*10x2	0.5	Decreased function	15149890, 17259947, 12089164, 12175908, 15149890, 17259947, 19541866, 29674966			Decreased Function
+CYP2D6	*11	0	No function	8563771, 9241659			No Function
+CYP2D6	*12	0	No function	8655150, 9241659, 24647041, 30366777			No Function
+CYP2D6	*13	0	No function	8554938			No Function
+CYP2D6	*14	0.5	Decreased function	18784265, 19364831, 24647041, 30366777			Decreased Function
+CYP2D6	*15	0	No function	8807669			No Function
+CYP2D6	*17	0.5	Decreased function	8764380, 8971426, 9415713, 11823760, 24647041, 30366777			Decreased Function
+CYP2D6	*17x2	1	Normal function	16550211, 17259947, 22111604, 29674966			Normal Function
+CYP2D6	*18	0	No function	8946471, 10471060, 18784265, 24647041, 30366777			No Function
+CYP2D6	*19	0	No function	9241659			No Function
+CYP2D6	*20	0	No function	10471072			No Function
+CYP2D6	*21	0	No function	10471060, 15618746			No Function
+CYP2D6	*22		Uncertain function	24647041, 30366777			Uncertain Function
+CYP2D6	*23		Uncertain function	24647041, 30366777			Uncertain Function
+CYP2D6	*24		Uncertain function	18838503, 24647041, 30366777			Uncertain Function
+CYP2D6	*25		Uncertain function	24647041, 30366777			Uncertain Function
+CYP2D6	*26		Uncertain function	18838503, 24647041, 30366777			Uncertain Function
+CYP2D6	*27	1	Normal function	18784265, 18838503, 24647041, 30366777			Normal Function
+CYP2D6	*28		Uncertain function	24647041, 30366777			Uncertain Function
+CYP2D6	*29	0.5	Decreased function	11470994, 11823760, 24647041, 30366777			Decreased Function
+CYP2D6	*29x2	1	Normal function	17259947, 22111604, 29674966			Normal Function
+CYP2D6	*30		Uncertain function	24647041, 30366777			Uncertain Function
+CYP2D6	*31	0	No function	15726636, 20473659, 24647041, 30366777			No Function
+CYP2D6	*32		Uncertain function	24647041, 30366777			Uncertain Function
+CYP2D6	*33	1	Normal function	9241659, 24647041, 30366777			Normal Function
+CYP2D6	*34	1	Normal function	24647041, 30366777			Normal Function
+CYP2D6	*35	1	Normal function	9241659, 12766015, 21833166, 24647041, 30366777			Normal Function
+CYP2D6	*35x2	2	Increased function	9511177, 17259947, 22111604, 29674966			Increased Function
+CYP2D6	*36	0	No function	7935325, 18784265, 9918137, 16425111, 24647041, 30366777			No Function
+CYP2D6	*36x2	0	No function	12439227, 16415111, 19541866, 29674966			No Function
+CYP2D6	*37		Uncertain function	24647041, 30366777			Uncertain Function
+CYP2D6	*38	0	No function	9918137			No Function
+CYP2D6	*39	1	Normal function	18784265, 11266079, 24647041, 30366777			Normal Function
+CYP2D6	*40	0	No function	12152006, 12811367, 24647041, 30366777			No Function
+CYP2D6	*41	0.5	Decreased function	11037799, 15289790, 17001295, 17112815, 19364831			Decreased Function
+CYP2D6	*41x2	1	Normal function	17259947, 22111604, 29674966			Normal Function
+CYP2D6	*41x3	1.5	Normal function	17259947, 22111604, 29674966			Normal Function
+CYP2D6	*42	0	No function	12811367			No Function
+CYP2D6	*43		Uncertain function	24647041, 30366777			Uncertain Function
+CYP2D6	*43x2		Uncertain function	17259947			Uncertain Function
+CYP2D6	*44	0	No function	15618746			No Function
+CYP2D6	*45	1	Normal function	15768052, 24647041, 30366777			Normal Function
+CYP2D6	*45x2	2	Increased function	17259947			Increased Function
+CYP2D6	*46	1	Normal function	15768052, 24647041, 30366777			Normal Function
+CYP2D6	*47	0	No function	18784265, 24647041, 30366777			No Function
+CYP2D6	*48	1	Normal function	18784265, 24647041, 30366777			Normal Function
+CYP2D6	*49	0.5	Decreased function	19158312, 18784265, 19364831, 24647041, 30366777			Decreased Function
+CYP2D6	*50	0.5	Decreased function	18784265, 24647041, 30366777			Decreased Function
+CYP2D6	*51	0	No function	18784265, 24647041, 30366777			No Function
+CYP2D6	*52		Uncertain function	24647041, 19364831, 23897164, 30366777			Uncertain Function
+CYP2D6	*53	1	Normal function	18784265, 24647041, 30366777			Normal Function
+CYP2D6	*54	0.5	Decreased function	18784265, 24647041, 30366777			Decreased Function
+CYP2D6	*55	0.5	Decreased function	18784265, 24647041, 30366777			Decreased Function
+CYP2D6	*56	0	No function	16679388, 17392730			No Function
+CYP2D6	*57	0	No function	18784265, 24647041, 30366777			No Function
+CYP2D6	*58		Unknown function				Unknown Function
+CYP2D6	*59	0.5	Decreased function	17001296, 26335396			Decreased Function
+CYP2D6	*60	0	No function	19364831			No Function
+CYP2D6	*61		Uncertain function	24647041, 30366777			Uncertain Function
+CYP2D6	*62	0	No function	17460029, 24647041, 30366777			No Function
+CYP2D6	*63		Uncertain function	24647041, 30366777			Uncertain Function
+CYP2D6	*64		Uncertain function	24647041, 30366777			Uncertain Function
+CYP2D6	*65		Uncertain function	24647041, 30366777			Uncertain Function
+CYP2D6	*68	0	No function	22111604			No Function
+CYP2D6	*69	0	No function	18797858			No Function
+CYP2D6	*70		Uncertain function	24647041, 30366777			Uncertain Function
+CYP2D6	*71		Uncertain function	24647041, 30366777			Uncertain Function
+CYP2D6	*72		Uncertain function	19158312, 24647041, 30366777			Uncertain Function
+CYP2D6	*73		Unknown function				Unknown Function
+CYP2D6	*74		Unknown function				Unknown Function
+CYP2D6	*75		Uncertain function	24647041, 26652007, 30366777			Uncertain Function
+CYP2D6	*81	0	No function				No Function
+CYP2D6	*82		Unknown function				Unknown Function
+CYP2D6	*83		Uncertain function				Uncertain Function
+CYP2D6	*84		Uncertain function	28290770			Uncertain Function
+CYP2D6	*85		Unknown function				Unknown Function
+CYP2D6	*86		Unknown function				Unknown Function
+CYP2D6	*87		Uncertain function	25469868, 26310775, 26666748, 26544071, 26406933, 27109434, 27097346, 27016952, 26542054, 26937172, 26968424, 27203132, 27251229, 27354764, 27538917			Uncertain Function
+CYP2D6	*88		Uncertain function	25469868, 26310775, 26666748, 26544071, 26406933, 27109434, 27097346, 27016952, 26542054, 26937172, 26968424, 27203132, 27251229, 27354764, 27538917			Uncertain Function
+CYP2D6	*89		Uncertain function	25469868, 26310775, 26666748, 26544071, 26406933, 27109434, 27097346, 27016952, 26542054, 26937172, 26968424, 27203132, 27251229, 27354764, 27538917			Uncertain Function
+CYP2D6	*90		Uncertain function	25469868, 26310775, 26666748, 26544071, 26406933, 27109434, 27097346, 27016952, 26542054, 26937172, 26968424, 27203132, 27251229, 27354764, 27538917			Uncertain Function
+CYP2D6	*91		Uncertain function	25469868, 26310775, 26666748, 26544071, 26406933, 27109434, 27097346, 27016952, 26542054, 26937172, 26968424, 27203132, 27251229, 27354764, 27538917			Uncertain Function
+CYP2D6	*92	0	No function	25469868, 26310775, 26666748, 26544071, 26406933, 27109434, 27097346, 27016952, 26542054, 26937172, 26968424, 27203132, 27251229, 27354764, 27538917			No Function
+CYP2D6	*93		Uncertain function	25469868, 26310775, 26666748, 26544071, 26406933, 27109434, 27097346, 27016952, 26542054, 26937172, 26968424, 27203132, 27251229, 27354764, 27538917			Uncertain Function
+CYP2D6	*94		Uncertain function	25469868, 26310775, 26666748, 26544071, 26406933, 27109434, 27097346, 27016952, 26542054, 26937172, 26968424, 27203132, 27251229, 27354764, 27538917			Uncertain Function
+CYP2D6	*95		Uncertain function	25469868, 26310775, 26666748, 26544071, 26406933, 27109434, 27097346, 27016952, 26542054, 26937172, 26968424, 27203132, 27251229, 27354764, 27538917			Uncertain Function
+CYP2D6	*96	0	No function	25469868, 26310775, 26666748, 26544071, 26406933, 27109434, 27097346, 27016952, 26542054, 26937172, 26968424, 27203132, 27251229, 27354764, 27538917			No Function
+CYP2D6	*97		Uncertain function	25469868, 26310775, 26666748, 26544071, 26406933, 27016952, 27109434, 27097346, 26542054, 26937172, 26968424, 27203132, 27251229, 27354764, 27538917			Uncertain Function
+CYP2D6	*98		Uncertain function	25469868, 26310775, 26666748, 26544071, 26406933, 27109434, 27097346, 27016952, 26542054, 26937172, 26968424, 27203132, 27251229, 27354764, 27538917			Uncertain Function
+CYP2D6	*99	0	No function	29327975			No Function
+CYP2D6	*100	0	No function	23394389			No Function
+CYP2D6	*101	0	No function	23394389			No Function
+CYP2D6	*102		Uncertain function				Uncertain Function
+CYP2D6	*103		Unknown function				Unknown Function
+CYP2D6	*104		Unknown function				Unknown Function
+CYP2D6	*105		Unknown function	22216145			Unknown Function
+CYP2D6	*106		Uncertain function	26937359, 23897164			Uncertain Function
+CYP2D6	*107		Unknown function	26602992			Unknown Function
+CYP2D6	*108		Unknown function				Unknown Function
+CYP2D6	*109		Uncertain function				Uncertain Function
+CYP2D6	*110		Unknown function	31368850			Unknown Function
+CYP2D6	*111		Unknown function	31368850			Unknown Function
+CYP2D6	*112		Unknown function	31368850			Unknown Function
+CYP2D6	*113		Unknown function	31368850			Unknown Function
+CYP2D6	*114	0	No function	10064570, 18784265, 24647041			No Function
+CYP2D6	*115		Unknown function				Unknown Function
+CYP2D6	*116		Unknown function				Unknown Function
+CYP2D6	*117		Unknown function				Unknown Function
+CYP2D6	*118		Unknown function				Unknown Function
+CYP2D6	*119		Unknown function				Unknown Function
+CYP2D6	*120	0	No function				No Function
+CYP2D6	*121		Unknown function				Unknown Function
+CYP2D6	*122		Unknown function				Unknown Function
+CYP2D6	*123		Unknown function				Unknown Function
+CYP2D6	*124	0	No function				No Function
+CYP2D6	*125		Unknown function				Unknown Function
+CYP2D6	*126		Unknown function				Unknown Function
+CYP2D6	*127		Unknown function				Unknown Function
+CYP2D6	*128		Unknown function				Unknown Function
+CYP2D6	*129	0	No function				No Function
+CYP2D6	*130		Unknown function				Unknown Function
+CYP2D6	*131		Unknown function				Unknown Function
+CYP2D6	*132		Unknown function				Unknown Function
+CYP2D6	*133		Unknown function				Unknown Function
+CYP2D6	*134		Unknown function				Unknown Function
+CYP2D6	*135		Unknown function				Unknown Function
+CYP2D6	*136		Unknown function				Unknown Function
+CYP2D6	*137		Unknown function				Unknown Function
+CYP2D6	*138		Unknown function	31536170			Unknown Function
+CYP2D6	*139		Unknown function				Unknown Function
+CYP3A5	*1		Normal function	12893984			Normal Function
+CYP3A5	*3		No function	15179407			No Function
+CYP3A5	*6		No function	11279519			No Function
+CYP3A5	*7		No function	14515058			No Function
+CYP3A5	*8		Unknown function				Unknown Function
+CYP3A5	*9		Unknown function				Unknown Function
+CFTR	711+3A->G		ivacaftor responsive		rs397508761	G	Uncertain Function
+CFTR	2789+5G->A		ivacaftor responsive		rs80224560	A	Uncertain Function
+CFTR	3272-26A->G		ivacaftor responsive		rs76151804	G	Uncertain Function
+CFTR	3849+10kbC->T		ivacaftor responsive		rs75039782	T	Uncertain Function
+CFTR	A455E		ivacaftor responsive		rs74551128	A	Uncertain Function
+CFTR	A1067T		ivacaftor responsive		rs121909020	A	Uncertain Function
+CFTR	D110E		ivacaftor responsive		rs397508537	A	Uncertain Function
+CFTR	D110H		ivacaftor responsive		rs113993958	C	Uncertain Function
+CFTR	D579G		ivacaftor responsive		rs397508288	G	Uncertain Function
+CFTR	D1152H		ivacaftor responsive		rs75541969	C	Uncertain Function
+CFTR	D1270N		ivacaftor responsive		rs11971167	A	Uncertain Function
+CFTR	E56K		ivacaftor responsive		rs397508256	A	Uncertain Function
+CFTR	E193K		ivacaftor responsive		rs397508759	A	Uncertain Function
+CFTR	E831X		ivacaftor responsive		rs397508387	T	Uncertain Function
+CFTR	F1052V		ivacaftor responsive		rs150212784	G	Uncertain Function
+CFTR	F1074L		ivacaftor responsive		rs186045772	A	Uncertain Function
+CFTR	G178R		ivacaftor responsive		rs80282562	A	Uncertain Function
+CFTR	G551D		ivacaftor responsive		rs75527207	A	Uncertain Function
+CFTR	G551S		ivacaftor responsive		rs121909013	A	Uncertain Function
+CFTR	G1069R		ivacaftor responsive		rs200321110	A	Uncertain Function
+CFTR	G1244E		ivacaftor responsive		rs267606723	A	Uncertain Function
+CFTR	G1349D		ivacaftor responsive		rs193922525	A	Uncertain Function
+CFTR	K1060T		ivacaftor responsive		rs397508513	C	Uncertain Function
+CFTR	L206W		ivacaftor responsive		rs121908752	G	Uncertain Function
+CFTR	P67L		ivacaftor responsive		rs368505753	T	Uncertain Function
+CFTR	R74W		ivacaftor responsive		rs115545701	T	Uncertain Function
+CFTR	R117C		ivacaftor responsive		rs77834169	T	Uncertain Function
+CFTR	R117H		ivacaftor responsive		rs78655421	A	Uncertain Function
+CFTR	R347H		ivacaftor responsive		rs77932196	A	Uncertain Function
+CFTR	R352Q		ivacaftor responsive		rs121908753	A	Uncertain Function
+CFTR	R1070Q		ivacaftor responsive		rs78769542	A	Uncertain Function
+CFTR	R1070W		ivacaftor responsive		rs202179988	T	Uncertain Function
+CFTR	S549N		ivacaftor responsive		rs121908755	A	Uncertain Function
+CFTR	S549R(A>C)		ivacaftor responsive		rs121908757	C	Uncertain Function
+CFTR	S549R(T>G)		ivacaftor responsive		rs121909005	G	Uncertain Function
+CFTR	S945L		ivacaftor responsive		rs397508442	T	Uncertain Function
+CFTR	S977F		ivacaftor responsive		rs141033578	T	Uncertain Function
+CFTR	S1251N		ivacaftor responsive		rs74503330	A	Uncertain Function
+CFTR	S1255P		ivacaftor responsive		rs121909041	C	Uncertain Function
+CFTR	ivacaftor non-responsive CFTR sequence		ivacaftor non-responsive				Normal Function
+DPYD	Reference	1	Normal function				Normal Function
+DPYD	c.46C>G	1	Normal function	24648345	rs150036960	C	Normal Function
+DPYD	c.61C>T	0	No function	24648345	rs72549310	A	No Function
+DPYD	c.62G>A	1	Normal function	24648345	rs80081766	T	Normal Function
+DPYD	c.85T>C (*9A)	1	Normal function	18452418	rs1801265	G	Normal Function
+DPYD	c.295_298delTCAT (*7)	0	No function	24648345	rs72549309	ATGA(1)	No Function
+DPYD	c.313G>A	1	Normal function	24648345	rs150385342	T	Normal Function
+DPYD	c.343A>G	1	Normal function	24648345	rs141462178	C	Normal Function
+DPYD	c.451A>G	1	Normal function	24648345	rs200562975	C	Normal Function
+DPYD	c.496A>G	1	Normal function	24648345	rs2297595	C	Normal Function
+DPYD	c.498G>A	1	Normal function	24648345	rs139834141	T	Normal Function
+DPYD	c.525G>A	1	Normal function	23588312	rs6670886	T	Normal Function
+DPYD	c.557A>G	0.5	Decreased function	24648345	rs115232898	C	Decreased Function
+DPYD	c.601A>C	0	No function	24648345	rs72549308	G	No Function
+DPYD	c.632A>G	0	No function	24648345	rs72549307	C	No Function
+DPYD	c.703C>T (*8)	0	No function	24648345	rs1801266	A	No Function
+DPYD	c.775A>G	1	Normal function	25410891	rs45589337	C	Normal Function
+DPYD	c.868A>G	0.5	Decreased function	24648345	rs146356975	C	Decreased Function
+DPYD	c.929T>C	1	Normal function	24648345	rs150437414	G	Normal Function
+DPYD	c.934C>T	1	Normal function	24648345	rs145112791	A	Normal Function
+DPYD	c.967G>A	1	Normal function	24648345	rs201018345	T	Normal Function
+DPYD	c.1003G>T (*11)	1	Normal function	24648345	rs72549306	A	Normal Function
+DPYD	c.1024G>A	0	No function	24648345	rs183385770	T	No Function
+DPYD	c.1057C>T	0	No function	24648345	rs143154602	A	No Function
+DPYD	c.1108A>G	1	Normal function	24648345	rs72549305	C	Normal Function
+DPYD	c.1129-5923C>G, c.1236G>A (HapB3)	0.5	Decreased function	28295243	rs75017182	C	Decreased Function
+DPYD	c.1129-5923C>G, c.1236G>A (HapB3)	0.5	Decreased function	28295243	rs56038477	T	Decreased Function
+DPYD	c.1156G>T (*12)	0	No function	24648345	rs78060119	A	No Function
+DPYD	c.1180C>T	1	Normal function	24648345	rs140602333	A	Normal Function
+DPYD	c.1181G>T	1	Normal function	24648345	rs143815742	A	Normal Function
+DPYD	c.1218G>A	1	Normal function	24648345	rs61622928	T	Normal Function
+DPYD	c.1260T>A	1	Normal function	24648345	rs200064537	T	Normal Function
+DPYD	c.1278G>T	1	Normal function	24648345	rs764666241	A	Normal Function
+DPYD	c.1294G>A	1	Normal function	24648345	rs142512579	T	Normal Function
+DPYD	c.1314T>G	0.5	Decreased function	24648345	rs186169810	C	Decreased Function
+DPYD	c.1349C>T	1	Normal function	24648345	rs72975710	A	Normal Function
+DPYD	c.1358C>G	1	Normal function	23588312	rs144395748	C	Normal Function
+DPYD	c.1371C>T	1	Normal function	23588312	rs57918000	A	Normal Function
+DPYD	c.1403C>A	1	Normal function	24648345	rs199549923	T	Normal Function
+DPYD	c.1475C>T	0	No function	24648345	rs72549304	A	No Function
+DPYD	c.1484A>G	0	No function	24648345	rs111858276	C	No Function
+DPYD	c.1519G>A	1	Normal function	24648345	rs138391898	T	Normal Function
+DPYD	c.1543G>A	1	Normal function	24648345	rs148994843	T	Normal Function
+DPYD	c.1577C>G	1	Normal function	24648345	rs190951787	C	Normal Function
+DPYD	c.1601G>A (*4)	1	Normal function	23588312	rs1801158	T	Normal Function
+DPYD	c.1615G>A	1	Normal function	24648345	rs142619737	T	Normal Function
+DPYD	c.1627A>G (*5)	1	Normal function	23328581	rs1801159	C	Normal Function
+DPYD	c.1679T>G (*13)	0	No function	23328581	rs55886062	C	No Function
+DPYD	c.1682G>T	1	Normal function	24648345	rs201615754	A	Normal Function
+DPYD	c.1774C>T	0	No function	24648345	rs59086055	A	No Function
+DPYD	c.1775G>A	0	No function	24648345	rs138616379	T	No Function
+DPYD	c.1777G>A	0	No function	24648345	rs145773863	T	No Function
+DPYD	c.1796T>C	1	Normal function	24648345	rs147601618	G	Normal Function
+DPYD	c.1896T>C	1	Normal function	23588312	rs17376848	G	Normal Function
+DPYD	c.1898delC (*3)	0	No function	24648345	rs72549303	delG	No Function
+DPYD	c.1905+1G>A (*2A)	0	No function	23328581	rs3918290	T	No Function
+DPYD	c.1905C>G	1	Normal function	24648345	rs3918289	C	Normal Function
+DPYD	c.1906A>C	1	Normal function	24648345	rs55971861	G	Normal Function
+DPYD	c.1990G>T	1	Normal function	24648345	rs138545885	A	Normal Function
+DPYD	c.2021G>A	0	No function	24648345	rs137999090	T	No Function
+DPYD	c.2161G>A	1	Normal function	24648345	rs145548112	T	Normal Function
+DPYD	c.2186C>T	1	Normal function	24648345	rs146529561	A	Normal Function
+DPYD	c.2194G>A (*6)	1	Normal function	23328581	rs1801160	T	Normal Function
+DPYD	c.2195T>G	1	Normal function	24648345	rs60511679	C	Normal Function
+DPYD	c.2279C>T	0.5	Decreased function	24648345	rs112766203	A	Decreased Function
+DPYD	c.2303C>A	1	Normal function	24648345	rs56005131	T	Normal Function
+DPYD	c.2336C>A	1	Normal function	24648345	rs199634007	T	Normal Function
+DPYD	c.2482G>A	1	Normal function	24648345	rs200687447	T	Normal Function
+DPYD	c.2582A>G	1	Normal function	24648345	rs60139309	C	Normal Function
+DPYD	c.2623A>C	1	Normal function	24648345	rs201035051	G	Normal Function
+DPYD	c.2639G>T	0	No function	24648345	rs55674432	A	No Function
+DPYD	c.2656C>T	1	Normal function	24648345	rs147545709	A	Normal Function
+DPYD	c.2657G>A (*9B)	1	Normal function	24648345	rs1801267	T	Normal Function
+DPYD	c.2846A>T	0.5	Decreased function	24648345	rs67376798	A	Decreased Function
+DPYD	c.2872A>G	0	No function	24648345	rs141044036	C	No Function
+DPYD	c.2915A>G	1	Normal function	24648345	rs145529148	C	Normal Function
+DPYD	c.2921A>T	1	Normal function	24648345	rs72547602	A	Normal Function
+DPYD	c.2933A>G	0	No function	24648345	rs72547601	C	No Function
+DPYD	c.2977C>T	1	Normal function	24648345	rs202144771	A	Normal Function
+DPYD	c.2978T>G	1	Normal function	24648345	rs139459586	C	Normal Function
+DPYD	c.2983G>T (*10)	0	No function	24648345	rs1801268	A	No Function
+DPYD	c.3049G>A	1	Normal function	24648345	rs140114515	T	Normal Function
+DPYD	c.3061G>C	1	Normal function	24648345	rs148799944	G	Normal Function
+DPYD	c.3067C>A	1	Normal function	23588312	rs114096998	T	Normal Function
+G6PD	202G>A_376A>G_1264C>G		I/Deficient with CNSHA	18677765, 22293322			Decreased Function
+G6PD	A		IV/Normal	1303173, 22293322, 32387609, 3446582			Normal Function
+G6PD	A- 202A_376G		III/Deficient	22293322, 32387609, 2572288			Decreased Function
+G6PD	A- 680T_376G		III/Deficient	22293322, 32387609, 2572288			Decreased Function
+G6PD	A- 968C_376G		III/Deficient	22293322, 32387609, 2572288			Decreased Function
+G6PD	Aachen		I/Deficient with CNSHA	22293322, 10772881, 1270075			Decreased Function
+G6PD	Abeno		II/Deficient	22293322, 22963789, 1945893, 11271380			Decreased Function
+G6PD	Acrokorinthos		II/Deficient	22293322, 32387609, 15223006, 2393028			Decreased Function
+G6PD	Alhambra		I/Deficient with CNSHA	22293322, 5413384, 4405605, 7803800			Decreased Function
+G6PD	Amazonia		II/Deficient	22293322, 12367584			Decreased Function
+G6PD	Amiens		I/Deficient with CNSHA	22293322, 22139979			Decreased Function
+G6PD	Amsterdam		I/Deficient with CNSHA	22293322, 12130518			Decreased Function
+G6PD	Anadia		II/Deficient	22293322, 1945893, 18056001			Decreased Function
+G6PD	Ananindeua		II/Deficient	22293322, 32387609, 12367584			Decreased Function
+G6PD	Andalus		II/Deficient	22293322, 12497642, 32425388, 16088936, 2393028			Decreased Function
+G6PD	Arakawa		I/Deficient with CNSHA	22293322, 1945893			Decreased Function
+G6PD	Asahi		III/Deficient	22293322, 32387609, 11852882			Decreased Function
+G6PD	Asahikawa		I/Deficient with CNSHA	22293322, 9192788, 6500558			Decreased Function
+G6PD	Aures		III/Deficient	22293322, 33413378, 22963789, 23006493, 8860007, 7959686, 18226470, 8490627			Decreased Function
+G6PD	Aveiro		I/Deficient with CNSHA	22293322, 10666231			Decreased Function
+G6PD	B (wildtype)		IV/Normal	22293322, 2572288			Normal Function
+G6PD	Bajo Maumere		III/Deficient	22293322, 16927025			Decreased Function
+G6PD	Bangkok		I/Deficient with CNSHA	22293322, 21302115			Decreased Function
+G6PD	Bangkok Noi		I/Deficient with CNSHA	22293322, 21302115			Decreased Function
+G6PD	Bao Loc		II/Deficient	22293322, 17726510			Decreased Function
+G6PD	Bari		I/Deficient with CNSHA	22293322, 8808605, 7959695			Decreased Function
+G6PD	Belem		II/Deficient	22293322, 12367584			Decreased Function
+G6PD	Beverly Hills, Genova, Iwate, Niigata, Yamaguchi		I/Deficient with CNSHA	22293322, 7440223, 2307454, 9192788			Decreased Function
+G6PD	Brighton		I/Deficient with CNSHA	22293322			Decreased Function
+G6PD	Buenos Aires		I/Deficient with CNSHA	22293322, 18086567			Decreased Function
+G6PD	Cairo		II/Deficient	22293322, 1945893, 22770933			Decreased Function
+G6PD	Calvo Mackenna		I/Deficient with CNSHA	22293322, 7655862			Decreased Function
+G6PD	Campinas		I/Deficient with CNSHA	22293322, 8477268			Decreased Function
+G6PD	Canton, Taiwan-Hakka, Gifu-like, Agrigento-like		II/Deficient	22293322, 2263506, 1953767, 22963789			Decreased Function
+G6PD	Cassano		II/Deficient	22293322, 8447319, 10782016			Decreased Function
+G6PD	Chatham		II/Deficient	22293322, 7959686, 3393536			Decreased Function
+G6PD	Chikugo		I/Deficient with CNSHA	22293322, 1945893			Decreased Function
+G6PD	Chinese-1		II/Deficient	22293322, 1459579			Decreased Function
+G6PD	Chinese-5		III/Deficient	22293322, 8471773			Decreased Function
+G6PD	Cincinnati		I/Deficient with CNSHA	22293322, 20949590			Decreased Function
+G6PD	Cleveland Corum		I/Deficient with CNSHA	22293322, 7803800, 7577654			Decreased Function
+G6PD	Clinic		I/Deficient with CNSHA	22293322, 7825590			Decreased Function
+G6PD	Coimbra Shunde		II/Deficient	22293322, 1551674, 8471773			Decreased Function
+G6PD	Cosenza		II/Deficient	22293322, 7959686, 8447319			Decreased Function
+G6PD	Costanzo		II/Deficient	22293322			Decreased Function
+G6PD	Covao do Lobo		I/Deficient with CNSHA	22293322, 16079115			Decreased Function
+G6PD	Crispim		II/Deficient	22293322, 12367584			Decreased Function
+G6PD	Dagua		Uncertain function	22293322			Uncertain Function
+G6PD	Durham		I/Deficient with CNSHA	22293322, 9290617			Decreased Function
+G6PD	Farroupilha		II-III/Deficient	22293322, 10627140			Decreased Function
+G6PD	Figuera da Foz		I/Deficient with CNSHA	22293322, 18056001			Decreased Function
+G6PD	Flores		II/Deficient	22293322, 15065213			Decreased Function
+G6PD	Fukaya		I/Deficient with CNSHA	22293322, 1945893			Decreased Function
+G6PD	Fushan		II/Deficient	22293322, 7803800			Decreased Function
+G6PD	Gaohe		III/Deficient	22293322, 1945893			Decreased Function
+G6PD	Georgia		I/Deficient with CNSHA	22293322, 7803800			Decreased Function
+G6PD	Gidra		Uncertain function	22293322, 9410474			Uncertain Function
+G6PD	Gond		Uncertain function	22293322, 20713184			Uncertain Function
+G6PD	Guadalajara		I/Deficient with CNSHA	22293322, 32387609, 7129446			Decreased Function
+G6PD	Guangzhou		III/Deficient	22293322, 16607506			Decreased Function
+G6PD	Haikou		II/Deficient	22293322, 11295127			Decreased Function
+G6PD	Hammersmith		III/Deficient	22293322, 12064901, 10192449			Decreased Function
+G6PD	Harilaou		I/Deficient with CNSHA	22293322, 2222408			Decreased Function
+G6PD	Harima		I/Deficient with CNSHA	22293322, 1945893			Decreased Function
+G6PD	Hartford		I/Deficient with CNSHA	22293322, 1945893			Decreased Function
+G6PD	Hechi		II/Deficient	22293322, 17018380			Decreased Function
+G6PD	Hermoupolis		II/Deficient	22293322, 10782016			Decreased Function
+G6PD	Honiara		I/Deficient with CNSHA	22293322, 7726184			Decreased Function
+G6PD	Ierapetra		II/Deficient	22293322, 1611091			Decreased Function
+G6PD	Ilesha		III/Deficient	22293322, 7959686, 848857			Decreased Function
+G6PD	Insuli		IV/Normal	22293322, 12737940			Normal Function
+G6PD	Iowa, Walter Reed, Springfield		I/Deficient with CNSHA	22293322, 2602358			Decreased Function
+G6PD	Iwatsuki		I/Deficient with CNSHA	22293322, 1945893			Decreased Function
+G6PD	Japan, Shinagawa		I/Deficient with CNSHA	22293322, 8193373, 1611091			Decreased Function
+G6PD	Kaiping, Anant, Dhon, Sapporo-like, Wosera		II/Deficient	22293322, 8935319, 1953767			Decreased Function
+G6PD	Kalyan-Kerala, Jamnaga, Rohini		III/Deficient	22293322, 1303182, 15996881			Decreased Function
+G6PD	Kambos		III/Deficient	22293322, 15223006			Decreased Function
+G6PD	Kamiube, Keelung		III/Deficient	22293322, 511159, 9192788, 9444913			Decreased Function
+G6PD	Kamogawa		II/Deficient	22293322, 9410474			Decreased Function
+G6PD	Kawasaki		I/Deficient with CNSHA	22293322, 1945893			Decreased Function
+G6PD	Kozukata		I/Deficient with CNSHA	22293322, 9410474			Decreased Function
+G6PD	Krakow		I/Deficient with CNSHA	22293322, 18066402			Decreased Function
+G6PD	La Jolla		I/Deficient with CNSHA	22293322, 12064902			Decreased Function
+G6PD	Lages		III/Deficient	22293322, 9526168			Decreased Function
+G6PD	Lagosanto		III/Deficient	22293322, 8370579			Decreased Function
+G6PD	Laibin		Uncertain function	22293322, 17018380			Uncertain Function
+G6PD	Lille		I/Deficient with CNSHA	22293322, 22139979			Decreased Function
+G6PD	Liuzhou		II/Deficient	22293322, 17018380			Decreased Function
+G6PD	Loma Linda		I/Deficient with CNSHA	22293322, 1999409			Decreased Function
+G6PD	Ludhiana		II/Deficient	22293322, 1945893			Decreased Function
+G6PD	Lynwood		I/Deficient with CNSHA	22293322, 1945893			Decreased Function
+G6PD	Madrid		I/Deficient with CNSHA	22293322, 9332310			Decreased Function
+G6PD	Mahidol		III/Deficient	22293322, 2503817			Decreased Function
+G6PD	Malaga		III/Deficient	22293322, 8956035, 22963789			Decreased Function
+G6PD	Manhattan		I/Deficient with CNSHA	22293322, 1945893			Decreased Function
+G6PD	Mediterranean Haplotype		II/Deficient??	22293322, 1978554			Decreased Function
+G6PD	Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham		II/Deficient	22293322, 7959686, 18226470, 11146567, 7440223, 3393536			Decreased Function
+G6PD	Metaponto		III/Deficient	22293322, 2253938			Decreased Function
+G6PD	Mexico City		III/Deficient	22293322, 1611091			Decreased Function
+G6PD	Miaoli		II/Deficient	22293322, 9444913			Decreased Function
+G6PD	Minnesota, Marion, Gastonia, LeJeune		I/Deficient with CNSHA	22293322, 1999409, 1805484			Decreased Function
+G6PD	Mira d'Aire		IV/Normal	22293322, 1945893			Normal Function
+G6PD	Mizushima		II/Deficient	22293322, 7705842			Decreased Function
+G6PD	Montalbano		III/Deficient	22293322, 11146567, 2321910			Decreased Function
+G6PD	Montpellier		I/Deficient with CNSHA	22293322, 22139979			Decreased Function
+G6PD	Mt Sinai		I/Deficient with CNSHA	22293322, 32387609, 9452072			Decreased Function
+G6PD	Munich		I/Deficient with CNSHA	22293322, 17637841			Decreased Function
+G6PD	Murcia Oristano		III/Deficient	22293322, 7577654, 20621077			Decreased Function
+G6PD	Musashino		III/Deficient	22293322, 3591235			Decreased Function
+G6PD	Namouru		II/Deficient	22293322, 7825590			Decreased Function
+G6PD	Nankang		II/Deficient	22293322, 8807322, 16329560			Decreased Function
+G6PD	Nanning		III/Deficient	22293322, 17018380			Decreased Function
+G6PD	Naone		II/Deficient	22293322, 11852882			Decreased Function
+G6PD	Nara		I/Deficient with CNSHA	22293322, 8241497			Decreased Function
+G6PD	Nashville, Anaheim, Portici		I/Deficient with CNSHA	22293322, 16934959, 1999409, 1536798			Decreased Function
+G6PD	Neapolis		III/Deficient	22293322, 9233561			Decreased Function
+G6PD	Nice		III/Deficient	22293322, 9233561			Decreased Function
+G6PD	Nilgiri		II/Deficient	22293322, 18043863			Decreased Function
+G6PD	No name		I/Deficient with CNSHA	22293322, 32387609, 21446359			Decreased Function
+G6PD	North Dallas		I/Deficient with CNSHA	22293322, 1945893			Decreased Function
+G6PD	Olomouc		I/Deficient with CNSHA	22293322, 7655862			Decreased Function
+G6PD	Omiya		I/Deficient with CNSHA	22293322, 1945893			Decreased Function
+G6PD	Orissa		III/Deficient	22293322, 8533762, 20621077			Decreased Function
+G6PD	Osaka		II/Deficient	22293322, 1945893, 11271380			Decreased Function
+G6PD	Palestrina		III/Deficient	22293322			Decreased Function
+G6PD	Papua		Uncertain function	22293322, 9410474			Uncertain Function
+G6PD	Partenope		II/Deficient	22293322			Decreased Function
+G6PD	Pawnee		II/Deficient	22293322, 1611091			Decreased Function
+G6PD	Pedoplis-Ckaro		I/Deficient with CNSHA	22293322, 18066402			Decreased Function
+G6PD	Piotrkow		I/Deficient with CNSHA	22293322, 18066402			Decreased Function
+G6PD	Plymouth		I/Deficient with CNSHA	22293322, 7577654			Decreased Function
+G6PD	Praha		I/Deficient with CNSHA	22293322, 7803800			Decreased Function
+G6PD	Puerto Limon		I/Deficient with CNSHA	22293322, 7160841			Decreased Function
+G6PD	Quing Yan		III/Deficient	22293322, 8471773			Decreased Function
+G6PD	Radlowo		II/Deficient	22293322, 10571945			Decreased Function
+G6PD	Rehevot		I/Deficient with CNSHA	22293322, 11112389			Decreased Function
+G6PD	Rignano		III/Deficient	22293322, 17524386			Decreased Function
+G6PD	Riley		I/Deficient with CNSHA	22293322, 7655862			Decreased Function
+G6PD	Riverside		I/Deficient with CNSHA	22293322, 2602358			Decreased Function
+G6PD	Roubaix		II/Deficient	22293322, 22139979			Decreased Function
+G6PD	S. Antioco		II/Deficient	22293322			Decreased Function
+G6PD	Salerno Pyrgos		III/Deficient	22293322, 22139979, 20621077			Decreased Function
+G6PD	Santa Maria		II/Deficient	22293322, 7959686, 1879833, 9250351			Decreased Function
+G6PD	Santiago		I/Deficient with CNSHA	22293322, 1611091			Decreased Function
+G6PD	Santiago de Cuba, Morioka		I/Deficient with CNSHA	22293322, 9192788, 3393536			Decreased Function
+G6PD	Sao Borja		IV/Normal	22293322, 8436389			Normal Function
+G6PD	Seattle, Lodi, Modena, Ferrara II, Athens-like		III/Deficient	22293322, 7959686, 11146567, 7705842, 5844610, 7947250			Decreased Function
+G6PD	Seoul		II/Deficient	22293322, 28028996, 1945893			Decreased Function
+G6PD	Serres		I/Deficient with CNSHA	22293322, 9674740			Decreased Function
+G6PD	Shenzen		II/Deficient	22293322, 20582980			Decreased Function
+G6PD	Shinshu		I/Deficient with CNSHA	22293322, 8193373			Decreased Function
+G6PD	Sibari		III/Deficient	22293322, 8447319			Decreased Function
+G6PD	Sierra Leone		III/Deficient	22293322, 32387609, 18452027			Decreased Function
+G6PD	Sinnai		III/Deficient	22293322, 10627140			Decreased Function
+G6PD	Songklanagarind		II/Deficient	22293322, 15727905			Decreased Function
+G6PD	Split		III/Deficient	22293322, 16143877			Decreased Function
+G6PD	Stonybrook		I/Deficient with CNSHA	22293322, 1611091			Decreased Function
+G6PD	Sugao		I/Deficient with CNSHA	22293322, 11594515			Decreased Function
+G6PD	Sumare		I/Deficient with CNSHA	22293322, 9298828			Decreased Function
+G6PD	Sunderland		I/Deficient with CNSHA	22293322, 2005960			Decreased Function
+G6PD	Surabaya		II/Deficient	22293322, 11499668			Decreased Function
+G6PD	Suwalki		I/Deficient with CNSHA	22293322, 14757424			Decreased Function
+G6PD	Swansea		I/Deficient with CNSHA	22293322, 7858267			Decreased Function
+G6PD	Taipei, Chinese-3		II/Deficient	22293322, 1562739			Decreased Function
+G6PD	Telti/Kobe		I/Deficient with CNSHA	22293322, 7327562			Decreased Function
+G6PD	Tenri		I/Deficient with CNSHA	22293322			Decreased Function
+G6PD	Tokyo, Fukushima		I-II/Deficient with CNSHA-Deficient	22293322, 28028996, 7440223, 9192788, 1733837			Decreased Function
+G6PD	Toledo		II/Deficient	22293322, 22139979			Decreased Function
+G6PD	Tomah		I/Deficient with CNSHA	22293322, 7655862			Decreased Function
+G6PD	Tondela		I/Deficient with CNSHA	22293322, 21397531			Decreased Function
+G6PD	Torun		I/Deficient with CNSHA	22293322, 10571945			Decreased Function
+G6PD	Tsukui		I/Deficient with CNSHA	22293322, 3360447			Decreased Function
+G6PD	Ube Konan		III/Deficient	22293322, 511159, 7440223, 20621077			Decreased Function
+G6PD	Union,Maewo, Chinese-2, Kalo		II/Deficient	22293322, 4405605, 8447319, 1303180, 8935319			Decreased Function
+G6PD	Urayasu		I/Deficient with CNSHA	22293322, 7849299			Decreased Function
+G6PD	Utrecht		I/Deficient with CNSHA	22293322, 14757426			Decreased Function
+G6PD	Valladolid		II/Deficient	22293322, 9332310			Decreased Function
+G6PD	Vancouver		I/Deficient with CNSHA	22293322, 1353664			Decreased Function
+G6PD	Vanua Lava		II/Deficient	22293322, 3591235			Decreased Function
+G6PD	Viangchan, Jammu		II/Deficient	22293322, 1805484, 3338798			Decreased Function
+G6PD	Villeurbanne		I/Deficient with CNSHA	22293322, 22139979			Decreased Function
+G6PD	Volendam		I/Deficient with CNSHA	22293322, 10556177			Decreased Function
+G6PD	Wayne		I/Deficient with CNSHA	22293322, 3565372			Decreased Function
+G6PD	West Virginia		I/Deficient with CNSHA	22293322, 7803800			Decreased Function
+G6PD	Wexham		I/Deficient with CNSHA	22293322, 7577654			Decreased Function
+G6PD	Wisconsin		I/Deficient with CNSHA	22293322, 16934959, 7655862			Decreased Function
+G6PD	Yunan		Uncertain function	22293322, 11780463			Uncertain Function
+MT-RNR1	663A>G		uncertain risk of aminoglycoside-induced hearing loss	8414970, 7689389, 7550368			Uncertain Function
+MT-RNR1	669T>C		uncertain risk of aminoglycoside-induced hearing loss	17637808, 20353758			Uncertain Function
+MT-RNR1	747A>G		uncertain risk of aminoglycoside-induced hearing loss	21205314			Uncertain Function
+MT-RNR1	786G>A		uncertain risk of aminoglycoside-induced hearing loss	23969527			Uncertain Function
+MT-RNR1	807A>C		uncertain risk of aminoglycoside-induced hearing loss	18830133			Uncertain Function
+MT-RNR1	807A>G		uncertain risk of aminoglycoside-induced hearing loss	18830133			Uncertain Function
+MT-RNR1	827A>G		normal risk of aminoglycoside-induced hearing loss	16782057, 18261986, 18830133, 20353758			Normal Function
+MT-RNR1	839A>G		uncertain risk of aminoglycoside-induced hearing loss	21205314			Uncertain Function
+MT-RNR1	896A>G		uncertain risk of aminoglycoside-induced hearing loss	18830133			Uncertain Function
+MT-RNR1	930A>G		uncertain risk of aminoglycoside-induced hearing loss	18830133			Uncertain Function
+MT-RNR1	951G>A		uncertain risk of aminoglycoside-induced hearing loss	18830133, 18851951			Uncertain Function
+MT-RNR1	960C>del		uncertain risk of aminoglycoside-induced hearing loss	18851951			Uncertain Function
+MT-RNR1	961T>G		uncertain risk of aminoglycoside-induced hearing loss	18830133			Uncertain Function
+MT-RNR1	961T>del		uncertain risk of aminoglycoside-induced hearing loss	15917167			Uncertain Function
+MT-RNR1	961T>del+Cn		uncertain risk of aminoglycoside-induced hearing loss	10326749, 12037390, 7550368, 20171168			Uncertain Function
+MT-RNR1	988G>A		uncertain risk of aminoglycoside-induced hearing loss	18830133			Uncertain Function
+MT-RNR1	1095T>C		increased risk of aminoglycoside-induced hearing loss	11079536, 11313749, 15555598, 15841390, 16875663, 21205314			Increased Function
+MT-RNR1	1189T>C		uncertain risk of aminoglycoside-induced hearing loss	22030963			Uncertain Function
+MT-RNR1	1243T>C		uncertain risk of aminoglycoside-induced hearing loss	7550368			Uncertain Function
+MT-RNR1	1494C>T		increased risk of aminoglycoside-induced hearing loss	14681830, 16380089, 17085680, 17434445, 17698030, 17698299, 18830133, 19682603, 20100600, 21205314, 27397648, 29876232, 15722487, 14681831, 19687236, 28103015, 25474306			Increased Function
+MT-RNR1	1520T>C		uncertain risk of aminoglycoside-induced hearing loss	7550368			Uncertain Function
+MT-RNR1	1537C>T		uncertain risk of aminoglycoside-induced hearing loss	17637808			Uncertain Function
+MT-RNR1	1555A>G		increased risk of aminoglycoside-induced hearing loss	7689389, 8285309, 8414970, 9039999, 9040738, 9111378, 9164619, 9391883, 9490575, 9779807, 9831149, 9950117, 10633132, 10661905, 11174959, 11857751, 11870684, 12031626, 12920080, 14699607, 14755216, 15708009, 15841390, 15917167, 16168391, 16375862, 16458854, 16935512, 16955413, 17341440, 17637808, 17723226, 17999439, 18386806, 18790089, 18820594, 18830133, 19376484, 19818876, 19835846, 20100600, 20111055, 20353758, 21162657, 21205314, 21504270, 22475488, 23256547, 24252789, 25744662, 26497601, 27397648, 27427311, 29805548, 24703164, 25155176, 8687424, 9315872, 12127547, 19687236, 28103015, 10915767, 12054632, 21828074			Increased Function
+MT-RNR1	1556C>T		uncertain risk of aminoglycoside-induced hearing loss	15141753			Uncertain Function
+MT-RNR1	Reference		Normal risk of aminoglycoside-induced hearing loss	27654872			Normal Function
+NUDT15	*1		Normal Function	26878724			Normal Function
+NUDT15	*2		No Function	26878724			No Function
+NUDT15	*3		No Function	26878724			No Function
+NUDT15	*4		Uncertain Function	26878724			Uncertain Function
+NUDT15	*5		Uncertain Function	26878724			Uncertain Function
+NUDT15	*6		Uncertain Function	26878724			Uncertain Function
+NUDT15	*7		Uncertain Function	28659275			Uncertain Function
+NUDT15	*8		Uncertain Function	28659275			Uncertain Function
+NUDT15	*9		No Function	28659275, 30728528			No Function
+RYR1	Reference		Normal function				Normal Function
+RYR1	c.103T>C		Malignant Hyperthermia associated	9066328, 16163667, 17710899, 20681998, 9334205, 9873004	rs193922747	C	Increased Function
+RYR1	c.130C>T		Malignant Hyperthermia associated	23459219, 12709367, 24433488	rs193922748	T	Increased Function
+RYR1	c.487C>T		Malignant Hyperthermia associated	7547049, 9334205, 7889656, 10051009, 12059893, 12732639, 11524458, 11575529, 12124989, 12208234, 12151923, 12411788, 15448513, 15731587, 16917943, 16163667, 16835904, 16732084, 18564801, 19648156, 20461000, 21965348, 21455645, 23558838, 23459219	rs118192161	T	Increased Function
+RYR1	c.488G>T		Malignant Hyperthermia associated	16163667, 16917943, 25658027	rs193922753	T	Increased Function
+RYR1	c.742G>A		Malignant Hyperthermia associated	1354642, 9334205, 9873004, 11575529, 15448513, 23558838, 12124989, 18564801, 19346234, 19648156, 16917943, 20461000	rs1801086	A	Increased Function
+RYR1	c.742G>C		Malignant Hyperthermia associated	1354642, 9334205, 9873004, 11575529, 15448513, 23558838, 12124989, 18564801, 19346234, 19648156, 16917943, 20461000	rs1801086	C	Increased Function
+RYR1	c.982C>T		Malignant Hyperthermia associated	12883402	rs193922762	T	Increased Function
+RYR1	c.1021G>A		Malignant Hyperthermia associated	8012359, 8825043, 8902717, 9334205, 10051009, 12059893, 12124989, 12151923, 12411788, 16163667, 17710899, 18564801, 19648156, 20681998, 24433488, 25960145, 29101530, 12732639, 15731587, 21455645, 23558838	rs121918592	A	Increased Function
+RYR1	c.1021G>C		Malignant Hyperthermia associated	16163667, 16732084	rs121918592	C	Increased Function
+RYR1	c.1201C>T		Malignant Hyperthermia associated	23459219, 12059893, 16163667, 18564801, 24433488, 25735680	rs193922764	T	Increased Function
+RYR1	c.1209C>G		Malignant Hyperthermia associated	9334205, 9873004, 11524458	rs118192116	G	Increased Function
+RYR1	c.1565A>C		Malignant Hyperthermia associated	7829078, 9334205, 9873004, 11524458, 19246389, 23704352	rs118192162	C	Increased Function
+RYR1	c.1589G>A		Uncertain function	19191329, 19191333	rs111888148	A	Uncertain Function
+RYR1	c.1597C>T		Malignant Hyperthermia associated	23459219, 12709367, 20681998	rs193922768	T	Increased Function
+RYR1	c.1598G>A		Uncertain function	23459219, 16732084	rs144336148	A	Uncertain Function
+RYR1	c.1654C>T		Malignant Hyperthermia associated	9138151, 25658027, 16917943, 9334205	rs193922770	T	Increased Function
+RYR1	c.1840C>T		Malignant Hyperthermia associated	8602662, 9334205, 9873004, 7547049, 7586638, 7751854, 9389851, 10051009, 10484775, 11668625, 11493496, 11575529, 12732639, 12059893, 12124989, 12151923, 12237752, 12411788, 14500992, 14985404, 11553045, 16163667, 16835904, 16917943, 17081152, 17710899, 1774074, 18564801, 19648156, 24433488, 25658027, 25735680, 25960145, 15448513, 21455645, 23558838, 23842196	rs118192172	T	Increased Function
+RYR1	c.1841G>T		Malignant Hyperthermia associated	16917943, 9389851, 10051009, 10484775, 16163667, 17710899, 19346234, 20681998, 24433488	rs193922772	T	Increased Function
+RYR1	c.6487C>T		Malignant Hyperthermia associated	9497245, 10484775, 12124989, 12732639, 15448513	rs118192175	T	Increased Function
+RYR1	c.6488G>A		Malignant Hyperthermia associated	9497245, 12124989, 12208234, 16835904, 19648156, 11524458, 12411786, 16917943, 15731587, 21455645, 23558838	rs118192163	A	Increased Function
+RYR1	c.6502G>A		Malignant Hyperthermia associated	9497245, 10484775, 11668625, 12059893, 12709367, 19648156, 20681998, 24433488, 25735680, 11575529, 12411786, 15448513, 12732639, 15299003, 16917943, 16163667	rs118192176	A	Increased Function
+RYR1	c.6617C>G		Malignant Hyperthermia associated	10484775, 16163667	rs118192177	G	Increased Function
+RYR1	c.6617C>T		Malignant Hyperthermia associated	9497245, 10484775, 12059893, 12208234, 12220451, 16163667, 16835904, 17081152, 18564801, 19648156, 19919814, 24433488, 25735680, 25960145, 11575529, 15448513, 15731587, 23558838, 16917943	rs118192177	T	Increased Function
+RYR1	c.7007G>A		Malignant Hyperthermia associated	19191329, 19648156, 23736090, 24433488, 28403410, 16917943, 23558838	rs112563513	A	Increased Function
+RYR1	c.7042_7044delGAG		Malignant Hyperthermia associated	11389482, 27857962	rs121918596	delGAG	Increased Function
+RYR1	c.7048G>A		Malignant Hyperthermia associated	11525881, 15210166, 15448513, 15731587, 16163667, 16917943, 19648156, 24433488, 25960145	rs193922802	A	Increased Function
+RYR1	c.7063C>T		Malignant Hyperthermia associated	15210166, 16917943, 19648156, 24361844, 25256590, 28403410, 23558838	rs193922803	T	Increased Function
+RYR1	c.7124G>C		Malignant Hyperthermia associated	14641996, 15210166, 24433488	rs193922807	C	Increased Function
+RYR1	c.7282G>A		Malignant Hyperthermia associated	12059893, 16163667	rs193922809	A	Increased Function
+RYR1	c.7300G>A		Malignant Hyperthermia associated	9334205, 9873004, 11668625, 10484775, 12059893, 12124989, 12208234, 12151923, 16163667, 16732128, 16835904, 16917943, 17081152, 18564801, 19648156, 20681998, 21965348, 23628358, 24433488, 25735680, 25960145, 26994242, 11575529, 12411786, 15448513, 15731587, 21455645, 23558838, 23842196	rs121918593	A	Increased Function
+RYR1	c.7304G>A		Malignant Hyperthermia associated	9334205, 9873004, 11524458, 12124989, 15108991, 16835904, 12059893, 16163667, 16917943, 16732084, 17081152, 17710899, 19648156, 20681998, 21965348, 23842196, 25256590	rs28933396	A	Increased Function
+RYR1	c.7354C>T		Malignant Hyperthermia associated	10823104, 12059893, 24433488, 25086907	rs118192124	T	Increased Function
+RYR1	c.7360C>T		Malignant Hyperthermia associated	10484775, 10612851, 12411788, 16163667, 16958617, 24433488, 25611019	rs193922816	T	Increased Function
+RYR1	c.7361G>A		Malignant Hyperthermia associated	10051009, 10484775, 12059893, 12709367, 16163667, 17081152, 19648156, 20681998, 24433488, 25960145, 11575529, 15448513, 21455645, 16917943, 19191333	rs118192122	A	Increased Function
+RYR1	c.7372C>T		Malignant Hyperthermia associated	9334205, 9450902, 10051009, 11668625, 12208234, 16163667, 16835904, 20681998, 24433488, 9873004, 15731587, 16958617	rs28933397	T	Increased Function
+RYR1	c.7373G>A		Malignant Hyperthermia associated	9873004, 9450902, 18564801, 19648156, 29355282, 12732639, 16732084, 16917943, 16958617	rs121918594	A	Increased Function
+RYR1	c.7522C>G		Malignant Hyperthermia associated	16621918, 19346234, 26381711, 20142353	rs118192178	G	Increased Function
+RYR1	c.7522C>T		Malignant Hyperthermia associated	16621918, 16732084, 19685112	rs118192178	T	Increased Function
+RYR1	c.7523G>A		Malignant Hyperthermia associated	16621918, 16732084, 16835904, 25960145, 26381711	rs193922818	A	Increased Function
+RYR1	c.9310G>A		Malignant Hyperthermia associated	16917943, 19648156, 28403410	rs193922832	A	Increased Function
+RYR1	c.11969G>T		Malignant Hyperthermia associated	16917943, 19648156, 28403410	rs193922843	T	Increased Function
+RYR1	c.14387A>G		Malignant Hyperthermia associated	11063719	rs118192167	G	Increased Function
+RYR1	c.14477C>T		Malignant Hyperthermia associated	10888602, 16163667, 18564801, 19648156, 25960145, 12732639, 20461000, 22131268, 16917943, 22139840	rs121918595	T	Increased Function
+RYR1	c.14497C>T		Malignant Hyperthermia associated	18212565, 20482855, 20461000, 23459219	rs193922876	T	Increased Function
+RYR1	c.14512C>G		Malignant Hyperthermia associated	11928716, 16732084, 18306019, 16917943, 19191329	rs193922878	G	Increased Function
+RYR1	c.14545G>A		Malignant Hyperthermia associated	16163667, 16917943, 16372898, 19346234, 19648156, 21965348, 24433488, 25958340, 25960145, 26972305, 28403410, 15731587, 21455645, 23558838	rs118192168	A	Increased Function
+RYR1	c.14582G>A		Malignant Hyperthermia associated	11741831, 14985404, 12565913, 17081152, 23558838	rs63749869	A	Increased Function
+RYR1	c.14693T>C		Malignant Hyperthermia associated	10097181, 11274444, 11524458, 12642598, 15175001, 15299003, 17081152, 20461000, 21149547, 21825032, 28337975	rs118192170	C	Increased Function
+SLCO1B1	*1		Normal function	10601278, 10644574, 10358072, 12811365, 15116054, 15226675, 21245207, 32961594			Normal Function
+SLCO1B1	*2		Uncertain function	11477075, 12490595			Uncertain Function
+SLCO1B1	*3		Uncertain function	11477075, 12490595			Uncertain Function
+SLCO1B1	*4		Uncertain function	11477075, 12490595, 33658230			Uncertain Function
+SLCO1B1	*5		No function	11477075, 32961594, 21245207			No Function
+SLCO1B1	*6		Uncertain function	11477075, 12490595			Uncertain Function
+SLCO1B1	*7		Uncertain function	11477075, 12490595			Uncertain Function
+SLCO1B1	*8		Uncertain function	11477075, 12490595			Uncertain Function
+SLCO1B1	*9		No function	11477075, 12490595, 16697742, 16513443			No Function
+SLCO1B1	*10		Uncertain function	11477075, 12490595			Uncertain Function
+SLCO1B1	*11		Uncertain function	11477075, 12490595			Uncertain Function
+SLCO1B1	*12		Uncertain function	11477075, 12490595			Uncertain Function
+SLCO1B1	*13		Uncertain function	11477075, 12490595			Uncertain Function
+SLCO1B1	*14		Increased function	11477075, 22147369, 23311897, 24122874, 18781850, 24420746, 31777781, 20139798, 32961594			Increased Function
+SLCO1B1	*15		No function	15970799, 21245207, 25350695, 31220337			No Function
+SLCO1B1	*16		Uncertain function	12811365, 33658230			Uncertain Function
+SLCO1B1	*19		Uncertain function	15226675, 22147369, 29898760, 23311897			Uncertain Function
+SLCO1B1	*20		Increased function	15226675, 22147369, 23311897, 32961594			Increased Function
+SLCO1B1	*23		No function	22147369			No Function
+SLCO1B1	*24		Uncertain function	22147369			Uncertain Function
+SLCO1B1	*25		Uncertain function	22147369			Uncertain Function
+SLCO1B1	*26		Uncertain function	22147369, 33658230			Uncertain Function
+SLCO1B1	*27		Uncertain function	22147369, 33658230			Uncertain Function
+SLCO1B1	*28		Uncertain function	22147369			Uncertain Function
+SLCO1B1	*29		Uncertain function	22147369, 33658230			Uncertain Function
+SLCO1B1	*30		Uncertain function	22147369, 33658230			Uncertain Function
+SLCO1B1	*31		No function	22147369			No Function
+SLCO1B1	*32		Uncertain function	22147369			Uncertain Function
+SLCO1B1	*33		Uncertain function	22147369, 33658230			Uncertain Function
+SLCO1B1	*34		Uncertain function	22147369, 33658230			Uncertain Function
+SLCO1B1	*36		Uncertain function	22147369			Uncertain Function
+SLCO1B1	*37		Normal function	32961594, 32961019, 11477075			Normal Function
+SLCO1B1	*38		Uncertain function	11477075			Uncertain Function
+SLCO1B1	*39		Uncertain function	32082363, 22232210			Uncertain Function
+SLCO1B1	*40		Uncertain function	11477075, 21245207, 32961594			Uncertain Function
+SLCO1B1	*41		Uncertain function	22232210			Uncertain Function
+SLCO1B1	*42		Uncertain function	33658230			Uncertain Function
+SLCO1B1	*43		Unknown function				Unknown Function
+SLCO1B1	*44		Unknown function				Unknown Function
+SLCO1B1	*45		Unknown function	22232210			Unknown Function
+SLCO1B1	*46		No function	22232210, 11477075, 32961594, 21245207			No Function
+SLCO1B1	*47		No function	33658230, 11477075, 32961594, 21245207			No Function
+SLCO1B1	*48		No function	22232210			No Function
+SLCO1B1	*49		No function	22232210			No Function
+TPMT	*1		Normal Function				Normal Function
+TPMT	*2		No Function	786267, 16220112, 9177237, 18708949, 8644731			No Function
+TPMT	*3A		No Function	16220112, 9177237, 18708949, 8644731, 8561894			No Function
+TPMT	*3B		No Function	16220112, 18708949, 8644731, 8561894			No Function
+TPMT	*3C		No Function	16220112, 18708949, 8644731, 8561894			No Function
+TPMT	*4		No Function	9246020			No Function
+TPMT	*5		Uncertain Function	18708949, 16220112, 9246020			Uncertain Function
+TPMT	*6		Uncertain Function	18708949, 16220112, 9246020			Uncertain Function
+TPMT	*7		Uncertain Function	18708949, 16220112, 9246020, 13679074			Uncertain Function
+TPMT	*8		Uncertain Function	18708949, 16220112, 27564568, 9931346			Uncertain Function
+TPMT	*9		Uncertain Function	18708949, 18602085, 15226673, 16220112			Uncertain Function
+TPMT	*10		Uncertain Function	18708949, 13679074, 10833476, 16220112			Uncertain Function
+TPMT	*11		No Function	18708949, 12835738, 16220112			No Function
+TPMT	*12		Uncertain Function	18708949, 13679074, 27564568, 16220112			Uncertain Function
+TPMT	*13		Uncertain Function	18708949, 13679074, 16220112			Uncertain Function
+TPMT	*14		No Function	18708949, 15083071			No Function
+TPMT	*15		No Function	15083071			No Function
+TPMT	*16		Uncertain Function	18708949, 15652243, 25564374, 15226673			Uncertain Function
+TPMT	*17		Uncertain Function	18708949, 15226673			Uncertain Function
+TPMT	*18		Uncertain Function	18708949, 15226673			Uncertain Function
+TPMT	*19		Uncertain Function	18708949, 15652243			Uncertain Function
+TPMT	*20		Uncertain Function	18708949, 16917910			Uncertain Function
+TPMT	*21		Uncertain Function	18708949, 18602085, 16917910			Uncertain Function
+TPMT	*22		Uncertain Function	18708949, 16917910			Uncertain Function
+TPMT	*23		No Function	17885628, 18708949			No Function
+TPMT	*24		Uncertain Function	18602085, 18708949			Uncertain Function
+TPMT	*25		Uncertain Function	18602085			Uncertain Function
+TPMT	*26		Uncertain Function	19660010			Uncertain Function
+TPMT	*27		Uncertain Function	19945438			Uncertain Function
+TPMT	*28		Uncertain Function	20945351			Uncertain Function
+TPMT	*29		No Function	22447118			No Function
+TPMT	*30		Unknown Function	23407052, 16946561			Unknown Function
+TPMT	*31		Uncertain Function	23407052, 20881512			Uncertain Function
+TPMT	*32		Uncertain Function	25564374, 23252716			Uncertain Function
+TPMT	*33		Uncertain Function	23252716			Uncertain Function
+TPMT	*34		Uncertain Function	23252716			Uncertain Function
+TPMT	*35		Unknown Function	23252704			Unknown Function
+TPMT	*36		Unknown Function	23252704			Unknown Function
+TPMT	*37		Uncertain Function	24710034			Uncertain Function
+TPMT	*38		Unknown Function	25564374			Unknown Function
+TPMT	*39		Uncertain Function	27703193			Uncertain Function
+TPMT	*40		Uncertain Function	27564568			Uncertain Function
+TPMT	*41		No Function	28462921			No Function
+UGT1A1	*1		Normal function	7565971, 9653159, 15179405			Normal Function
+UGT1A1	*6		Decreased Function	7715297, 8280139, 15179405, 11906189			Decreased Function
+UGT1A1	*27		Decreased Function	7565971, 7715297, 15179405			Decreased Function
+UGT1A1	*28		Decreased Function	9653159, 15179405			Decreased Function
+UGT1A1	*36		Increased Function	9653159			Increased Function
+UGT1A1	*37		Decreased Function	9653159			Decreased Function
+UGT1A1	*80		Unknown Function				Unknown Function
+UGT1A1	*80+*28		Decreased Function	21309756, 19414484, 22085899, 19419973			Decreased Function
+UGT1A1	*80+*37		Decreased Function	21309756, 19414484, 22085899, 19419973			Decreased Function

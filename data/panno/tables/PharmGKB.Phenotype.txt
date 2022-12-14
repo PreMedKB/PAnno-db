@@ -1,0 +1,3585 @@
+ID	PharmGKB Accession Id	Name
+1	PA165108557	11q partial monosomy syndrome
+2	PA128406957	5-fluorouracil associated toxicity
+3	PA446766	Abdominal Abscess
+4	PA165109087	Abdominal fibromatosis
+5	PA446220	Abdominal Pain
+6	PA165109033	Abducens nerve weakness
+7	PA443222	Abetalipoproteinemia
+8	PA166264221	ability to concentrate
+9	PA443224	Abnormalities, Drug-Induced
+10	PA443225	Abnormalities, Multiple
+11	PA165108723	Abnormal tooth spacing NOS
+12	PA443228	Abortion, Habitual
+13	PA443227	Abortion, Spontaneous
+14	PA165109187	Abrasion of teeth NOS
+15	PA443235	Abscess
+16	PA152408019	ACAD9 Deficiency
+17	PA165108199	Acanthamoeba keratitis
+18	PA443238	Acanthosis Nigricans
+19	PA165108641	Acatalasia
+20	PA165108428	Accelerated idioventricular rhythm
+21	PA165108811	Accelerated phase chronic myeloid leukemia
+22	PA165108248	Accretions on teeth NOS
+23	PA443239	Achlorhydria
+24	PA443240	Achondroplasia
+25	PA166048806	Acid-Base Imbalance
+26	PA443242	Acidosis
+27	PA443243	Acidosis, Lactic
+28	PA443244	Acidosis, Renal Tubular
+29	PA166048819	Acidosis, Respiratory
+30	PA166183498	acid-related disorders
+31	PA166048775	Acinetobacter Infections
+32	PA165109141	Acne keloid
+33	PA165109071	Acne keloidalis
+34	PA443247	Acne Vulgaris
+35	PA165108941	Acoustic nerve disorder NOS
+36	PA165108647	Acquired epileptic aphasia
+37	PA165109048	Acquired hallux rigidus
+38	PA165108992	Acquired immune deficiency syndrome-related complex
+39	PA165108133	Acquired immune deficiency syndrome-related nephropathy
+40	PA443250	Acquired Immunodeficiency Syndrome
+41	PA447300	Acquired Long QT Syndrome (aLQTS)
+42	PA152068054	Acquired partial lipodystrophy
+43	PA165108438	Acquired pes
+44	PA165108344	Acquired trigger finger
+45	PA152249159	Acrocephalopolysyndactyly type II
+46	PA443251	Acrocephalosyndactylia
+47	PA165108831	Acrodynia due to mercury
+48	PA443254	Acromegaly
+49	PA166048822	Actinomycetales Infections
+50	PA165108511	Actinomycosis unspecified site NOS
+51	PA446880	Activated Protein C Resistance
+52	PA165109055	Acute abdomen
+53	PA165108963	Acute bovine pulmonary emphysema AND edema
+54	PA166114455	acute cellular rejection
+55	PA165108810	Acute cholecystitis NOS
+56	PA165108452	Acute cholecystitis unspecified
+57	PA165108401	Acute coronary syndrome
+58	PA165108439	Acute hemorrhagic leukoencephalitis
+59	PA165108472	Acute necrosis of liver NOS
+60	PA164924608	Acute Necrotizing Encephalopathy
+61	PA165108252	Acute necrotizing pancreatitis
+62	PA165108653	Acute necrotizing ulcerative gingivostomatitis
+63	PA165109060	Acute paralytic poliomyelitis, bulbar
+64	PA443262	Acute-Phase Reaction
+65	PA165108274	Acute stress reaction NOS
+66	PA165108138	Acute suppurative thyroiditis
+67	PA165109110	Acute ulcerative gingivitis
+68	PA443264	Addison Disease
+69	PA443265	Adenocarcinoma
+70	PA443615	Adenocarcinoma, Bronchiolo-Alveolar
+71	PA443621	Adenocarcinoma, Mucinous
+72	PA443266	Adenocarcinoma, Papillary
+73	PA165108289	Adenolymphoma
+74	PA443269	Adenoma
+75	PA444646	Adenoma, Islet Cell
+76	PA446629	Adenoma, Liver Cell
+77	PA446630	Adenoma, Oxyphilic
+78	PA444957	Adenoma, Pleomorphic
+79	PA445381	Adenomatous Polyposis Coli
+80	PA446637	Adenomatous Polyps
+81	PA443273	Adenoviridae Infections
+82	PA166048900	Adenovirus Infections, Human
+83	PA443275	Adhesion
+84	PA166048866	Adnexal Diseases
+85	PA166048907	Adolescent
+86	PA166048777	Adrenal Cortex Diseases
+87	PA166048902	Adrenal Cortex Neoplasms
+88	PA165108409	Adrenal gland disorder NOS
+89	PA443286	Adrenal Hyperplasia, Congenital
+90	PA166048741	Adrenal Insufficiency
+91	PA446628	Adrenocortical Adenoma
+92	PA446644	Adrenocortical Carcinoma
+93	PA443283	Adrenocortical Hyperfunction
+94	PA165108566	Adrenogenital syndrome NOS
+95	PA443288	Adrenoleukodystrophy
+96	PA165109183	Adult onset Still's disease
+97	PA166165020	adverse cardiovascular events
+98	PA166151827	adverse events
+99	PA165108793	Affective personality disorder NOS
+100	PA443291	Afibrinogenemia
+101	PA165108867	African horse sickness
+102	PA165108148	African swine fever
+103	PA165108761	African trypanosomiasis NOS
+104	PA165108280	Afterimage
+105	PA443294	Agammaglobulinemia
+106	PA166129558	aggression
+107	PA445299	Aggressive Periodontitis
+108	PA166257721	aging
+109	PA446855	Aging, Premature
+110	PA166123306	agitation
+111	PA447194	Agoraphobia
+112	PA443297	Agranulocytosis
+113	PA443298	Agraphia
+114	PA166048738	AIDS-Related Opportunistic Infections
+115	PA443301	Ainhum
+116	PA443302	Airway Obstruction
+117	PA165108837	Akinetic mutism
+118	PA446376	Alagille Syndrome
+119	PA152238082	Al-Awadi/Raas-Rothschild/Schinzel Phocomelia Syndrome
+120	PA443304	Albinism
+121	PA446282	Albinism, Ocular
+122	PA446280	Albinism, Oculocutaneous
+123	PA443305	Albuminuria
+124	PA165109017	Alcohol amnestic disorder
+125	PA165108125	Alcohol amnestic syndrome NOS
+126	PA165108828	Alcoholic fatty liver
+127	PA165108315	Alcoholic polyneuropathy
+128	PA165108900	Alcoholic psychosis NOS
+129	PA166048857	Alcohol-Induced Disorders, Nervous System
+130	PA443309	Alcoholism
+131	PA446879	Alcohol-Related Disorders
+132	PA443307	Alcohol Withdrawal Delirium
+133	PA446985	Alcohol Withdrawal Seizures
+134	PA165108173	Aleutian disease
+135	PA152241270	Alexander Disease
+136	PA443311	Alkalosis
+137	PA443313	Alkaptonuria
+138	PA165108886	Allantoic cyst
+139	PA165108753	Allergic extrinsic alveolitis NOS
+140	PA165108128	Allergic purpura NOS
+141	PA165108908	Allergy to peanuts
+142	PA165108139	Allergy to wheat
+143	PA443314	Alopecia
+144	PA443315	Alopecia Areata
+145	PA165108479	Alopecia mucinosa
+146	PA446874	alpha 1-Antitrypsin Deficiency
+147	PA165108349	Alpha heavy chain disease, enteric form
+148	PA446431	alpha-Thalassemia
+149	PA165108618	Alveolar periostitis
+150	PA165108147	Alveolar soft part sarcoma
+151	PA165109083	Alveolitis of jaw NOS
+152	PA443319	Alzheimer Disease
+153	PA447067	Amaurosis Fugax
+154	PA443320	Amblyopia
+155	PA165108411	Amebiasis NOS
+156	PA443323	Amelogenesis Imperfecta
+157	PA443324	Amenorrhea
+158	PA443327	Amnesia
+159	PA443328	Amnesia, Retrograde
+160	PA443329	Amniotic Band Syndrome
+161	PA165109103	Amoebic dysentery
+162	PA165109032	Amoebic liver abscess
+163	PA166211781	amputation
+164	PA446547	Amyloid Neuropathies
+165	PA443331	Amyloidosis
+166	PA447169	Amyloidosis, Familial
+167	PA443332	Amyotrophic Lateral Sclerosis
+168	PA165108645	Anal ulcer unspecified
+169	PA166123554	anaphylactoid reaction
+170	PA443335	Anaphylaxis
+171	PA443336	Anaplasia
+172	PA152545828	Anauxetic Dysplasia
+173	PA166048833	Ancylostomiasis
+174	PA165108989	Andersen Tawil syndrome
+175	PA445827	Androgen-Insensitivity Syndrome
+176	PA443340	Anemia
+177	PA443341	Anemia, Aplastic
+178	PA447182	Anemia, Diamond-Blackfan
+179	PA443343	Anemia, Hemolytic
+180	PA165857066	Anemia, Hemolytic, Congenital Nonspherocytic
+181	PA166048920	Anemia, Hypochromic
+182	PA446769	Anemia, Iron-Deficiency
+183	PA443349	Anemia, Megaloblastic
+184	PA443352	Anemia, Pernicious
+185	PA443353	Anemia, Refractory
+186	PA443354	Anemia, Refractory, with Excess of Blasts
+187	PA443355	Anemia, Sickle Cell
+188	PA443356	Anemia, Sideroblastic
+189	PA443357	Anencephaly
+190	PA443358	Aneuploidy
+191	PA443359	Aneurysm
+192	PA165108637	Aneurysmal bone cyst
+193	PA443360	Aneurysm, Dissecting
+194	PA165108826	Aneurysm of heart NOS
+195	PA165108681	Aneurysm of iliac artery NOS
+196	PA446460	Angelman Syndrome
+197	PA443362	Angina Pectoris
+198	PA443364	Angina, Unstable
+199	PA443371	Angioedema
+200	PA165108322	Angiofibroma
+201	PA443365	Angioid Streaks
+202	PA165109174	Angioimmunoblastic T-cell lymphoma
+203	PA443366	Angiokeratoma
+204	PA165108934	Angiolipoma
+205	PA446590	Angiomyolipoma
+206	PA166181209	angioplasty
+207	PA446224	Aniridia
+208	PA165109155	Aniseikonia
+209	PA165108769	Anisometropia
+210	PA443374	Ankylosis
+211	PA165108268	Ankylosis of tooth
+212	PA443375	Anodontia
+213	PA443377	Anophthalmos
+214	PA443378	Anorexia
+215	PA447195	Anorexia Nervosa
+216	PA443380	Anovulation
+217	PA443382	Anoxia
+218	PA165108570	Anterior acute poliomyelitis
+219	PA165108416	Anterior spinal artery occlusion syndrome
+220	PA165108727	Anthracosilicosis
+221	PA443385	Anthrax
+222	PA446891	Anticipation, Genetic
+223	PA444317	Anti-Glomerular Basement Membrane Disease
+224	PA446375	Antiphospholipid Syndrome
+225	PA165108865	Antisocial personality disorder
+226	PA166048729	Anuria
+227	PA443389	Anus, Imperforate
+228	PA443388	Anus Neoplasms
+229	PA447196	Anxiety Disorders
+230	PA443390	Aortic Aneurysm
+231	PA446509	Aortic Aneurysm, Abdominal
+232	PA446510	Aortic Aneurysm, Thoracic
+233	PA166048874	Aortic Arch Syndromes
+234	PA443392	Aortic Coarctation
+235	PA443393	Aortic Diseases
+236	PA443394	Aortic Rupture
+237	PA447144	Aortic Stenosis, Supravalvular
+238	PA443396	Aortic Valve Insufficiency
+239	PA443398	Aortic Valve Stenosis
+240	PA165960681	Apathy
+241	PA443401	Aphakia
+242	PA443403	Aphasia
+243	PA165108931	Aphasia-angular gyrus syndrome
+244	PA443407	Apnea
+245	PA166248161	apnea of prematurity
+246	PA443408	Appendiceal Neoplasms
+247	PA165108991	Appendicitis NOS
+248	PA165108990	Appendicitis, unqualified
+249	PA443410	Apraxias
+250	PA165108630	Apudoma of skin
+251	PA443415	Arcus Senilis
+252	PA165108869	Arginase deficiency
+253	PA151958645	Argyrophilic Grain Disease (AGD)
+254	PA443419	Arnold-Chiari Malformation
+255	PA165816410	Aromatase inhibitor-associated musculoskeletal syndrome
+256	PA443421	Arrhythmias, Cardiac
+257	PA443422	Arrhythmia, Sinus
+258	PA446847	Arrhythmogenic Right Ventricular Dysplasia
+259	PA446977	Arsenic Poisoning
+260	PA443423	Arterial Occlusive Diseases
+261	PA165108680	Arterial thoracic outlet syndrome due to cervical rib
+262	PA443425	Arteriosclerosis
+263	PA165108505	Arteriosclerosis obliterans
+264	PA443427	Arteriovenous Fistula
+265	PA443428	Arteriovenous Malformations
+266	PA443429	Arteritis
+267	PA446761	Arthralgia
+268	PA443430	Arthritis
+269	PA443431	Arthritis, Experimental
+270	PA446114	Arthritis, Gouty
+271	PA443432	Arthritis, Infectious
+272	PA443433	Arthritis, Juvenile Rheumatoid
+273	PA446198	Arthritis, Psoriatic
+274	PA445512	Arthritis, Reactive
+275	PA443434	Arthritis, Rheumatoid
+276	PA443435	Arthrogryposis
+277	PA165108709	Arthropod-borne viral disease NOS
+278	PA165108340	Arthus type urticaria
+279	PA443438	Articulation Disorders
+280	PA152545865	Arts Syndrome
+281	PA165108124	Asbestosis NOS
+282	PA166048864	Ascariasis
+283	PA166048834	Ascaridida Infections
+284	PA443442	Ascites
+285	PA166048796	Ascorbic Acid Deficiency
+286	PA165108838	Aspartylglucosaminuria
+287	PA165108187	Asperger's disorder
+288	PA443444	Aspergillosis
+289	PA443445	Aspergillosis, Allergic Bronchopulmonary
+290	PA161845799	Aspergillosis Infection
+291	PA443446	Asphyxia
+292	PA131285571	aspirin-induced asthma
+293	PA443448	Asthenia
+294	PA443450	Asthma
+295	PA443451	Asthma, Exercise-Induced
+296	PA443452	Astigmatism
+297	PA443453	Astrocytoma
+298	PA443454	Ataxia
+299	PA443455	Ataxia Telangiectasia
+300	PA443457	Athetosis
+301	PA165108360	Atony of uterus
+302	PA443459	Atrial Fibrillation
+303	PA443460	Atrial Flutter
+304	PA446780	Atrial Premature Complexes
+305	PA165109129	Atrioventricular block NOS
+306	PA165108262	Atrioventricular block unspecified
+307	PA443461	Atrophy
+308	PA166048724	Attention Deficit and Disruptive Behavior Disorders
+309	PA447197	Attention Deficit Disorder with Hyperactivity
+310	PA165109124	Atypical interstitial pneumonia of cattle
+311	PA153906318	Autism Spectrum Disorder
+312	PA447198	Autistic Disorder
+313	PA443464	Autoimmune Diseases
+314	PA165108717	Autoimmune hemolytic anemia NOS
+315	PA153627493	Autoimmune Thyroid Disease
+316	PA166131574	autoimmunity
+317	PA443465	Autolysis
+318	PA165108257	Autonomic dysreflexia
+319	PA443466	Autonomic Nervous System Diseases
+320	PA165108866	Autosomal recessive hypohidrotic ectodermal dysplasia syndrome
+321	PA165108301	Avian influenza
+322	PA443467	Avian Leukosis
+323	PA165108834	Avian malaria
+324	PA165108220	Avian reticuloendotheliosis
+325	PA165108964	Avian tuberculosis
+326	PA443469	Avitaminosis
+327	PA165108787	AV nodal re-entry tachycardia
+328	PA166048755	Babesiosis
+329	PA165108270	Bacillary angiomatosis
+330	PA443472	Back Pain
+331	PA446327	Bacteremia
+332	PA443474	Bacterial Infections
+333	PA165108470	Bacterial overgrowth syndrome
+334	PA165108506	Bacterial vaginosis
+335	PA166048774	Bacteroides Infections
+336	PA165110543	Balint syndrome
+337	PA165109097	Balkan nephropathy
+338	PA165108235	Bancroftian elephantiasis
+339	PA165108879	Bannwarth syndrome
+340	PA447082	Bardet-Biedl Syndrome
+341	PA443481	Barrett Esophagus
+342	PA166048793	Bartter Syndrome
+343	PA443485	Basal Cell Nevus Syndrome
+344	PA443486	Basal Ganglia Diseases
+345	PA165108597	Basal ganglia hemorrhage
+346	PA165108540	Basosquamous carcinoma of skin
+347	PA443487	Beckwith-Wiedemann Syndrome
+348	PA166048807	Behcet Syndrome
+349	PA165109104	Bell's palsy
+350	PA165108459	Benign mucous membrane pemphigoid NOS
+351	PA443489	Beriberi
+352	PA443490	Bernard-Soulier Syndrome
+353	PA165108596	Beta-D-mannosidosis
+354	PA446432	beta-Thalassemia
+355	PA165109059	Bile duct disorder NOS
+356	PA443494	Bile Duct Neoplasms
+357	PA443497	Biliary Atresia
+358	PA165108402	Biliary dyskinesia
+359	PA165108573	Biliary tract disorders NOS
+360	PA166128807	biliary tract neoplasms
+361	PA165108929	Binge eating disorder
+362	PA166123204	bioavailability
+363	PA165108373	Biotinidase deficiency
+364	PA165108413	Biotin-(propionyl-CoA-carboxylase) ligase deficiency
+365	PA447199	Bipolar Disorder
+366	PA165108359	Bird-fancier's lung NOS
+367	PA443504	Birth Injuries
+368	PA166048721	Bites, Human
+369	PA166278521	bk virus infection
+370	PA165108239	Black water fever
+371	PA165108981	Bladder calculus NOS
+372	PA165108131	Bladder disorders NOS
+373	PA165108703	Bladder outlet obstruction
+374	PA443514	Blast Crisis
+375	PA165108997	Blastocystis hominis infection
+376	PA165108752	Blastomycosis NOS
+377	PA165108410	Blastomycotic infection NOS
+378	PA443517	Blepharitis
+379	PA443518	Blepharoptosis
+380	PA443519	Blepharospasm
+381	PA443521	Blindness
+382	PA446850	Blindness, Cortical
+383	PA443522	Blister
+384	PA443523	Blood Coagulation Disorders
+385	PA166048815	Blood Loss, Surgical
+386	PA166048906	Blood Platelet Disorders
+387	PA165108318	Bloody peritoneal effusion
+388	PA443527	Bloom Syndrome
+389	PA165108851	Bluecomb disease
+390	PA446726	Blue Toe Syndrome
+391	PA443530	Body Weight Changes
+392	PA153627457	Bohring-Opitz Syndrome
+393	PA443531	Bone Cysts
+394	PA446738	Bone Demineralization, Pathologic
+395	PA166128365	bone density
+396	PA443532	Bone Diseases
+397	PA443533	Bone Diseases, Developmental
+398	PA166048772	Bone Diseases, Infectious
+399	PA443536	Bone Diseases, Metabolic
+400	PA166048762	Bone Marrow Diseases
+401	PA443538	Bone Neoplasms
+402	PA443539	Bone Resorption
+403	PA165108632	Bone spur NOS
+404	PA447200	Borderline Personality Disorder
+405	PA443542	Borna Disease
+406	PA165109092	Bovine ephemeral fever
+407	PA165108982	Bovine respiratory disease complex
+408	PA447131	Brachial Plexus Neuritis
+409	PA447051	Brachial Plexus Neuropathies
+410	PA152530793	Brachydactyly type B
+411	PA162168980	brachyolmia
+412	PA443548	Bradycardia
+413	PA443549	Brain Abscess
+414	PA443550	Brain Concussion
+415	PA166048799	Brain Damage, Chronic
+416	PA443552	Brain Death
+417	PA443553	Brain Diseases
+418	PA443554	Brain Diseases, Metabolic
+419	PA443555	Brain Edema
+420	PA447053	Brain Infarction
+421	PA443556	Brain Injuries
+422	PA166048888	Brain Injury, Chronic
+423	PA443671	Brain Ischemia
+424	PA443557	Brain Neoplasms
+425	PA165108791	Brainstem infarction NOS
+426	PA446995	Brain Stem Neoplasms
+427	PA446817	Branchio-Oto-Renal Syndrome
+428	PA166249181	Breast Cancer Free Interval
+429	PA443559	Breast Diseases
+430	PA443560	Breast Neoplasms
+431	PA446745	Breast Neoplasms, Male
+432	PA166159453	breast tenderness
+433	PA165108571	Brenner tumour of ovary
+434	PA162372748	Brittle Cornea Syndrome
+435	PA443562	Bronchial Diseases
+436	PA446342	Bronchial Hyperreactivity
+437	PA443565	Bronchial Spasm
+438	PA443566	Bronchiectasis
+439	PA443567	Bronchiolitis
+440	PA165108140	Bronchiolitis fibrosa obliterans
+441	PA443570	Bronchitis
+442	PA447180	Bronchitis, Chronic
+443	PA443572	Bronchopneumonia
+444	PA165109162	Bronchopulmonary dysplasia of newborn
+445	PA165108757	Brown-Séquard syndrome
+446	PA443575	Brucellosis
+447	PA159018367	Brugada syndrome
+448	PA443577	Bruxism
+449	PA444433	Budd-Chiari Syndrome
+450	PA445234	Bulbar Palsy, Progressive
+451	PA447201	Bulimia
+452	PA443578	Bundle-Branch Block
+453	PA443580	Burkitt Lymphoma
+454	PA443582	Burns
+455	PA165109030	Bursitis NOS
+456	PA443588	Cachexia
+457	PA443589	Cadaver
+458	PA166048786	Cadmium Poisoning
+459	PA446803	Cafe-au-Lait Spots
+460	PA165108202	Calcaneal spur
+461	PA165108112	Calciphylaxis
+462	PA443594	Calculi
+463	PA165108121	California encephalitis virus infection neuroinvasive disease
+464	PA165108307	California serogroup virus neuroinvasive disease
+465	PA166048735	Campylobacter Infections
+466	PA443898	Camurati-Engelmann Syndrome
+467	PA446551	Canavan Disease
+468	PA128407012	cancer or viral infections
+469	PA165108744	Candidal vulvovaginitis NOS
+470	PA443597	Candidiasis
+471	PA443598	Candidiasis, Chronic Mucocutaneous
+472	PA443599	Candidiasis, Cutaneous
+473	PA443600	Candidiasis, Oral
+474	PA165109074	Capillary leak syndrome
+475	PA446795	Carbohydrate-Deficient Glycoprotein Syndrome
+476	PA166048803	Carbon Monoxide Poisoning
+477	PA165108233	Carbuncle NOS
+478	PA443608	Carcinoid Heart Disease
+479	PA443609	Carcinoid Tumor
+480	PA443610	Carcinoma
+481	PA446643	Carcinoma, Acinar Cell
+482	PA443826	Carcinoma, Adenoid Cystic
+483	PA446579	Carcinoma, Adenosquamous
+484	PA443613	Carcinoma, Basal Cell
+485	PA443616	Carcinoma, Bronchogenic
+486	PA446646	Carcinoma, Ductal, Breast
+487	PA443619	Carcinoma, Ehrlich Tumor
+488	PA446619	Carcinoma, Embryonal
+489	PA444447	Carcinoma, Hepatocellular
+490	PA443611	Carcinoma in Situ
+491	PA443618	Carcinoma, Intraductal, Noninfiltrating
+492	PA446660	Carcinoma, Large Cell
+493	PA446774	Carcinoma, Lewis Lung
+494	PA446648	Carcinoma, Lobular
+495	PA446649	Carcinoma, Medullary
+496	PA446651	Carcinoma, Neuroendocrine
+497	PA443622	Carcinoma, Non-Small-Cell Lung
+498	PA165108478	Carcinoma of endocrine pancreas
+499	PA447138	Carcinoma, Pancreatic Ductal
+500	PA443623	Carcinoma, Papillary
+501	PA443624	Carcinoma, Renal Cell
+502	PA446661	Carcinoma, Small Cell
+503	PA443626	Carcinoma, Squamous Cell
+504	PA443627	Carcinoma, Transitional Cell
+505	PA444115	Cardiac Complexes, Premature
+506	PA165108883	Cardiac dysrhythmia NOS
+507	PA165108498	Cardiac oedema
+508	PA443629	Cardiac Output, Low
+509	PA165109181	Cardiac tamponade
+510	PA152208657	Cardio-facio-cutaneous Syndrome
+511	PA444369	Cardiomegaly
+512	PA445018	Cardiomyopathies
+513	PA443632	Cardiomyopathy, Dilated
+514	PA443633	Cardiomyopathy, Hypertrophic
+515	PA447157	Cardiomyopathy, Hypertrophic, Familial
+516	PA165108588	Cardiomyopathy NOS
+517	PA443634	Cardiomyopathy, Restrictive
+518	PA166128121	cardiotoxicity
+519	PA446717	Cardiovascular Abnormalities
+520	PA443635	Cardiovascular Diseases
+521	PA165109068	Cardiovascular syphilis NOS
+522	PA446381	Caroli Disease
+523	PA443636	Carotid Artery Diseases
+524	PA165108382	Carotid artery injury NOS
+525	PA165108743	Carotid artery injury, unspecified
+526	PA165108534	Carotid cavernous fistula
+527	PA446414	Carotid Stenosis
+528	PA443639	Carpal Tunnel Syndrome
+529	PA443640	Cartilage Diseases
+530	PA152545827	Cartilage Hair Hypoplasia
+531	PA443643	Catalepsy
+532	PA443645	Cataract
+533	PA166048909	Catatonia
+534	PA165108545	Catatonic schizophrenia NOS
+535	PA166123311	catecholaminergic polymorphic ventricular tachycardia
+536	PA165108794	Cat scratch disease
+537	PA152240221	Caudal Duplication Anomaly
+538	PA166048911	Causalgia
+539	PA443652	Celiac Disease
+540	PA443653	Cell Transformation, Neoplastic
+541	PA443655	Cellulitis
+542	PA165108464	Cementum caries
+543	PA165108693	Central cord syndrome
+544	PA166048827	Central Nervous System Bacterial Infections
+545	PA443657	Central Nervous System Diseases
+546	PA166048894	Central Nervous System Fungal Infections
+547	PA443658	Central Nervous System Infections
+548	PA446345	Central Nervous System Neoplasms
+549	PA165108747	Central pontine myelinolysis
+550	PA443659	Cerebellar Ataxia
+551	PA443660	Cerebellar Diseases
+552	PA446362	Cerebral Amyloid Angiopathy
+553	PA166048784	Cerebral Arterial Diseases
+554	PA165108578	Cerebral cysticercosis
+555	PA443669	Cerebral Hemorrhage
+556	PA165108636	Cerebral hemorrhage following injury NOS
+557	PA151958644	Cerebral Hemorrhage with Amyloidosis,Hereditary,Dutch Type (HCHWAD)
+558	PA443670	Cerebral Infarction
+559	PA443673	Cerebral Palsy
+560	PA443678	Cerebrovascular Disorders
+561	PA446946	Cerebrovascular Trauma
+562	PA165108590	Cervical incompetence NOS
+563	PA165108658	Cervical incompetence unspecified
+564	PA446663	Cervical Intraepithelial Neoplasia
+565	PA165108760	Cervicitis unspecified
+566	PA166123046	cessation
+567	PA165109023	Cestode infection NOS
+568	PA443687	Chagas Cardiomyopathy
+569	PA445939	Chagas Disease
+570	PA165108660	Chalazion
+571	PA166048734	Chancroid
+572	PA166159280	change in aromatase activity
+573	PA443690	Charcot-Marie-Tooth Disease
+574	PA145007176	CHARGE syndrome
+575	PA443691	Chediak-Higashi Syndrome
+576	PA165108699	Cheilitis granulomatosa of Miescher-Melkersson-Rosenthal
+577	PA166268221	chemotherapy-induced nausea and vomiting
+578	PA443694	Chest Pain
+579	PA443695	Cheyne-Stokes Respiration
+580	PA443697	Chickenpox
+581	PA443698	Chilblains
+582	PA166048745	Child
+583	PA166048897	Child Behavior Disorders
+584	PA166048756	Child Development Disorders, Pervasive
+585	PA165108164	Childhood schizophrenia NOS
+586	PA447149	Chills
+587	PA166048757	Chlamydiaceae Infections
+588	PA166048736	Chlamydia Infections
+589	PA165108517	Chlorine acne
+590	PA443701	Choanal Atresia
+591	PA165108996	Cholangioadenoma
+592	PA446654	Cholangiocarcinoma
+593	PA443703	Cholangitis
+594	PA446113	Cholangitis, Sclerosing
+595	PA443704	Cholecystitis
+596	PA443705	Cholelithiasis
+597	PA443706	Cholera
+598	PA443707	Cholestasis
+599	PA443495	Cholestasis, Extrahepatic
+600	PA443708	Cholestasis, Intrahepatic
+601	PA446117	Cholesterol Ester Storage Disease
+602	PA443710	Choline Deficiency
+603	PA165109013	Chondrocalcinosis due to pyrophosphate crystals, NOS
+604	PA165108120	Chondrocalcinosis NOS
+605	PA165108465	Chondrocalcinosis unspecified, of unspecified site
+606	PA443713	Chondrodysplasia Punctata
+607	PA446787	Chondrodysplasia Punctata, Rhizomelic
+608	PA165108984	Chondromalacia of patella
+609	PA165108448	Chondromatosis
+610	PA443715	Chondrosarcoma
+611	PA446594	Chondrosarcoma, Mesenchymal
+612	PA443716	Chordoma
+613	PA447099	Chorea
+614	PA165108798	Chorea gravidarum
+615	PA443719	Chorioamnionitis
+616	PA443720	Choriocarcinoma
+617	PA443722	Choristoma
+618	PA446974	Choroidal Neovascularization
+619	PA446254	Choroid Diseases
+620	PA165109022	Choroiditis NOS
+621	PA443728	Chromosome Aberrations
+622	PA446834	Chromosome Breakage
+623	PA443729	Chromosome Deletion
+624	PA447160	Chromosome Disorders
+625	PA443730	Chromosome Fragility
+626	PA443731	Chronic Disease
+627	PA165108356	Chronic fluorine poisoning
+628	PA166195784	chronic lung allograft dysfunction
+629	PA165108180	Chronic neutrophilic leukaemia
+630	PA165108624	Chronic pericementitis
+631	PA165108521	Chronic periodontitis NOS
+632	PA165108376	Chronic phase chronic myeloid leukaemia
+633	PA443734	Cicatrix
+634	PA165108429	Ciguatoxin causing toxic effect
+635	PA443735	Ciliary Motility Disorders
+636	PA446907	Citrullinemia
+637	PA444486	Classical Swine Fever
+638	PA165108951	Classic apraxia
+639	PA443736	Cleft Lip
+640	PA443737	Cleft Palate
+641	PA153627681	Cleft Palate, X-Linked
+642	PA165109044	Cleidocranial dysostosis
+643	PA443739	Clonorchiasis
+644	PA165108585	Closed fracture of bones, unspecified
+645	PA166048883	Clostridium Infections
+646	PA443741	Clubfoot
+647	PA443742	Cluster Headache
+648	PA166170668	cns depression
+649	PA166170669	cns depression in infants
+650	PA446900	Coagulation Protein Disorders
+651	PA446878	Cocaine-Related Disorders
+652	PA165108154	Coccidioidomycosis NOS
+653	PA443746	Cockayne Syndrome
+654	PA447250	codeine dependence
+655	PA145007200	Coenzyme Q10 Deficiency, Primary
+656	PA165108363	Coffin-Lowry syndrome
+657	PA166176306	cognitive dysfunction
+658	PA152238068	Cold-Induced Sweating Syndrome
+659	PA443748	Colic
+660	PA443749	Colitis
+661	PA166048927	Colitis, Ischemic
+662	PA443750	Colitis, Ulcerative
+663	PA443751	Collagen Diseases
+664	PA165109009	Collagenous colitis
+665	PA443753	Coloboma
+666	PA443754	Colonic Diseases
+667	PA443755	Colonic Diseases, Functional
+668	PA443756	Colonic Neoplasms
+669	PA443757	Colonic Polyps
+670	PA165108550	Colorado tick fever
+671	PA446108	Colorectal Neoplasms
+672	PA443761	Colorectal Neoplasms, Hereditary Nonpolyposis
+673	PA443759	Color Vision Defects
+674	PA443762	Coma
+675	PA165109166	Combat fatigue
+676	PA443766	Common Cold
+677	PA446430	Common Variable Immunodeficiency
+678	PA443767	Communicable Diseases
+679	PA443768	Communication Disorders
+680	PA166048798	Community-Acquired Infections
+681	PA165108697	Complete avulsion of tooth
+682	PA166170534	complete early virological response
+683	PA165109063	Complex partial epileptic seizure
+684	PA166163794	composite endpoints (stroke, myocardial infarction, or  vascular death)
+685	PA166129537	composite endpoints (transient ischemic attack (tia), stroke, myocardial infarction, or death)
+686	PA165108331	Compulsive personality disorder NOS
+687	PA443770	Condylomata Acuminata
+688	PA443771	Confusion
+689	PA443223	Congenital Abnormalities
+690	PA165109079	Congenital anomaly of unspecified limb NOS
+691	PA165108562	Congenital choledochal cyst
+692	PA165108362	Congenital cystic adenomatoid malformation of lung
+693	PA165109090	Congenital cyst of oesophagus
+694	PA152241952	Congenital diaphragmatic hernia
+695	PA165108863	Congenital dislocation of hip NOS
+696	PA165108422	Congenital haemolytic anaemia
+697	PA445055	Congenital, Hereditary, and Neonatal Diseases and Abnormalities
+698	PA165109121	Congenital hyperammonemia, type I
+699	PA165108983	Congenital hypertrophic pyloric stenosis
+700	PA443811	Congenital Hypothyroidism
+701	PA165109021	Congenital ichthyosiform erythroderma
+702	PA145007194	Congenital lactase deficiency
+703	PA447228	congenital long QT syndrome
+704	PA165108115	Congenital mesenteric cyst
+705	PA165108759	Congenital syphilis NOS
+706	PA165108726	Congenital total lipodystrophy
+707	PA165108408	Congenital tracheobronchomegaly
+708	PA165108855	Congo-Crimean haemorrhagic fever
+709	PA165108513	Conjunctival disorder NOS
+710	PA166176777	conjunctival hemorrhage
+711	PA166048914	Conjunctivitis, Acute Hemorrhagic
+712	PA166048761	Conjunctivitis, Allergic
+713	PA166048904	Conjunctivitis, Viral
+714	PA443780	Connective Tissue Diseases
+715	PA443782	Constipation
+716	PA443783	Constriction, Pathologic
+717	PA165108935	Constrictive pericarditis NOS
+718	PA165108613	Contagious porcine pyoderma
+719	PA443784	Contracture
+720	PA166119021	contralateral breast cancer
+721	PA443785	Contusions
+722	PA443786	Convalescence
+723	PA165108965	Corneal disorder NOS
+724	PA443792	Corneal Dystrophies, Hereditary
+725	PA165108598	Corneal edema NOS
+726	PA446335	Corneal Neovascularization
+727	PA443793	Corneal Opacity
+728	PA165108400	Corneal ulcer NOS
+729	PA166048845	Coronary Aneurysm
+730	PA443796	Coronary Artery Disease
+731	PA443797	Coronary Disease
+732	PA447325	Coronary Restenosis
+733	PA447152	Coronary Stenosis
+734	PA443798	Coronary Thrombosis
+735	PA443799	Coronary Vasospasm
+736	PA152530810	Corpus Callosum, Agenisis Of
+737	PA165110336	Cortical paralysis of fixation syndrome
+738	PA151958647	Corticobasal degeneration
+739	PA165108471	Corticotroph adenoma
+740	PA443790	Cor Triatriatum
+741	PA142297362	Costello Syndrome
+742	PA165108607	Costochondritis NOS
+743	PA443803	Cough
+744	PA162372800	Cousin Syndrome
+745	PA166197121	COVID-19
+746	PA162372591	Cowden-like Syndrome
+747	PA446204	Cowpox
+748	PA165108926	Coxa plana
+749	PA165108149	Coxsackie viral diseases NOS
+750	PA443806	Cranial Nerve Diseases
+751	PA165108530	Cranial nerve injury NOS
+752	PA444353	Craniocerebral Trauma
+753	PA446836	Craniofacial Abnormalities
+754	PA443808	Craniofacial Dysostosis
+755	PA152238055	Craniofrontonasal Syndrome
+756	PA443809	Craniopharyngioma
+757	PA443810	Craniosynostoses
+758	PA166184864	craving
+759	PA166123466	creatine kinase
+760	PA166123756	creatinine clearance
+761	PA444647	Creutzfeldt-Jakob Syndrome
+762	PA443812	Cri-du-Chat Syndrome
+763	PA443813	Crigler-Najjar Syndrome
+764	PA152238067	Crisponi Syndrome
+765	PA165108365	Criss-cross heart
+766	PA446358	Critical Illness
+767	PA443815	Crohn Disease
+768	PA443816	Cross Infection
+769	PA443817	Croup
+770	PA166159389	cryoglobulinemia
+771	PA165108392	Cryptococcal meningitis
+772	PA443820	Cryptococcosis
+773	PA162652718	Cryptococcus neoformans
+774	PA446744	Cryptogenic Organizing Pneumonia
+775	PA443821	Cryptorchidism
+776	PA443822	Cryptosporidiosis
+777	PA165108535	Cubital tunnel syndrome
+778	PA166048868	Current Non-smoker
+779	PA165109047	Curvature of spine NOS
+780	PA165108733	Curvature of spine, unspecified
+781	PA443823	Cushing Syndrome
+782	PA443824	Cutis Laxa
+783	PA443825	Cyanosis
+784	PA165108655	Cyclosporiasis
+785	PA443827	Cystadenocarcinoma
+786	PA446655	Cystadenocarcinoma, Mucinous
+787	PA446656	Cystadenocarcinoma, Papillary
+788	PA446657	Cystadenocarcinoma, Serous
+789	PA443828	Cystadenoma
+790	PA166048831	Cysticercosis
+791	PA443829	Cystic Fibrosis
+792	PA166175756	cystic fibrosis pulmonary exacerbation
+793	PA166048859	Cystinosis
+794	PA443832	Cystinuria
+795	PA443833	Cystitis
+796	PA165108404	Cystitis with bilharziasis
+797	PA165108458	Cyst - pilonidal
+798	PA443835	Cysts
+799	PA447190	Cytochrome-c Oxidase Deficiency
+800	PA166197201	Cytokine storm
+801	PA443836	Cytomegalovirus Infections
+802	PA446540	Cytomegalovirus Retinitis
+803	PA165108788	Dacryocystitis NOS
+804	PA443838	Dandy-Walker Syndrome
+805	PA444362	Deaf-Blind Disorders
+806	PA443840	Deafness
+807	PA145069464	Deafness,nonsyndromic
+808	PA443842	Death
+809	PA443843	Death, Sudden
+810	PA446379	Death, Sudden, Cardiac
+811	PA165108587	Decapitation
+812	PA443846	Decompression Sickness
+813	PA443848	Deficiency Diseases
+814	PA165108784	Deficiency of 1,4-alpha-glucan branching enzyme
+815	PA165108116	Deficiency of alkaline phosphatase
+816	PA165108538	Deficiency of alpha-glucosidase
+817	PA165108580	Deficiency of alpha-mannosidase
+818	PA165108749	Deficiency of amylo-1,6-glucosidase
+819	PA165108168	Deficiency of catalase
+820	PA165108336	Deficiency of glucan 1,4-alpha-glucosidase
+821	PA165108528	Deficiency of mevalonate kinase
+822	PA166248781	deficiency of the interleukin-1 receptor antagonist
+823	PA165108670	Deficiency of tryptophan 2,3-dioxygenase
+824	PA161411144	Degeneration of lumbar intervertebral disc
+825	PA443849	Deglutition Disorders
+826	PA443850	Dehydration
+827	PA443839	De Lange Syndrome
+828	PA166123755	delayed graft function
+829	PA165108273	Delayed recovery from anaesthesia
+830	PA443851	Delirium
+831	PA443853	Dementia
+832	PA446102	Dementia, Multi-Infarct
+833	PA446098	Dementia, Vascular
+834	PA443854	Demyelinating Diseases
+835	PA443855	Dengue
+836	PA446857	Dengue Hemorrhagic Fever
+837	PA165109025	Dens in dente
+838	PA443857	Dental Calculus
+839	PA443858	Dental Caries
+840	PA165108430	Dental fluorosis
+841	PA166048881	Dental Plaque
+842	PA443866	Dental Pulp Calcification
+843	PA443874	Dentinogenesis Imperfecta
+844	PA165108586	Denture stomatitis
+845	PA447186	Denys-Drash Syndrome
+846	PA165108104	Dependent personality disorder
+847	PA165108484	Depressed fracture of skull
+848	PA447278	Depression
+849	PA447294	Depression, Postpartum
+850	PA447207	Depressive Disorder
+851	PA447321	Depressive Disorder, Major
+852	PA165108610	Dermal cellular nevus
+853	PA443875	Dermatitis
+854	PA446488	Dermatitis, Allergic Contact
+855	PA443879	Dermatitis, Atopic
+856	PA443880	Dermatitis, Contact
+857	PA443876	Dermatitis, Exfoliative
+858	PA443877	Dermatitis Herpetiformis
+859	PA165108310	Dermatitis medicamentosa
+860	PA165108191	Dermatomycosis NOS
+861	PA443882	Dermatomyositis
+862	PA443883	Dermoid Cyst
+863	PA165108317	Developmental disorder NOS
+864	PA443884	Dextrocardia
+865	PA446359	Diabetes, Gestational
+866	PA443885	Diabetes Insipidus
+867	PA446742	Diabetes Insipidus, Nephrogenic
+868	PA443886	Diabetes Mellitus
+869	PA165108156	Diabetes mellitus NOS with hyperosmolar coma
+870	PA165109036	Diabetes mellitus NOS with unspecified complication
+871	PA443888	Diabetes Mellitus, Type 1
+872	PA443890	Diabetes Mellitus, Type 2
+873	PA447306	diabetes mellitus type 2 and obesity
+874	PA152530787	Diabetes, Permanent Neonatal (PNDM)
+875	PA443891	Diabetic Angiopathies
+876	PA446408	Diabetic Ketoacidosis
+877	PA443893	Diabetic Nephropathies
+878	PA443894	Diabetic Neuropathies
+879	PA443895	Diabetic Retinopathy
+880	PA165108222	Diaper rash
+881	PA443897	Diaphragmatic Eventration
+882	PA443899	Diarrhea
+883	PA166128187	diastolic blood pressure
+884	PA443674	Diffuse Cerebral Sclerosis of Schilder
+885	PA165109043	Diffuse palmoplantar keratoderma of Thost-Unna
+886	PA165109073	Diffuse spasm of oesophagus
+887	PA443907	DiGeorge Syndrome
+888	PA165109098	Digestive system anomalies NOS
+889	PA165108549	Digestive system diseases NOS
+890	PA443911	Dilatation, Pathologic
+891	PA165108397	Dilated cardiomyopathy secondary to alcohol
+892	PA165109093	Dim vision
+893	PA443913	Diphtheria
+894	PA443915	Diplopia
+895	PA165108283	Disappearing bone disease
+896	PA166123507	discontinuation
+897	PA166048918	Discrete Subaortic Stenosis
+898	PA166129556	disease activity score 28 joint in rheumatoid arthritis
+899	PA165108509	Disease due to Hantanvirus
+900	PA165108236	Disease of larynx unspecified
+901	PA165108481	Disease of spleen NOS
+902	PA165108210	Disease of spleen unspecified
+903	PA446728	Disease Progression
+904	PA165108819	Diseases of lips NOS
+905	PA443919	Disease Susceptibility
+906	PA165108638	Dislocation of hip NOS
+907	PA165108892	Dislocation of knee NOS
+908	PA165108959	Dislocation of shoulder NOS
+909	PA443921	Dislocations
+910	PA165108387	Disorder of calcium metabolism NOS
+911	PA165108946	Disorder of fetal nutrition
+912	PA165108715	Disorder of iron metabolism NOS
+913	PA165108595	Disorder of lactation NOS
+914	PA165108767	Disorder of lactation NOS, unspecified
+915	PA165108171	Disorder of lipoid metabolism NOS
+916	PA165108888	Disorder of phosphorus metabolism NOS
+917	PA165108313	Disorder of sexual differentiation
+918	PA446288	Disorder of the genitourinary system
+919	PA165108944	Disorder of uterus NOS
+920	PA165108238	Disorders of cervix NOS
+921	PA444549	Disorders of Excessive Somnolence
+922	PA165108961	Disseminated idiopathic skeletal hyperostosis
+923	PA443922	Disseminated Intravascular Coagulation
+924	PA165108286	Disturbance of amino acid transport or metabolism NOS
+925	PA165108225	Disturbance of conduct NOS
+926	PA165108918	Diverticulitis NOS
+927	PA165109172	Diverticulitis unspecified
+928	PA443926	Diverticulum
+929	PA165108245	Dizygotic twins
+930	PA443928	Dizziness
+931	PA443930	Dog Diseases
+932	PA166159953	dose reduction
+933	PA443931	Double Outlet Right Ventricle
+934	PA165108378	Double Y syndrome
+935	PA145007152	Dowling-Degos Disease(DDD)
+936	PA443933	Down Syndrome
+937	PA166048928	Dracunculiasis
+938	PA166120926	dress syndrome
+939	PA443935	Drowning
+940	PA166123506	drug discontinued - patient fear/risk
+941	PA166279841	drug-drug pharmacokinetic interaction
+942	PA443936	Drug Hypersensitivity
+943	PA165108527	Drug-induced chronic hepatitis
+944	PA166239242	drug-induced interstitial lung disorder
+945	PA166119041	drug-induced liver injury
+946	PA166205041	drug-induced lupus erythematosus due to hydralazine
+947	PA165108622	Drug interaction with drug
+948	PA165108814	Drug interaction with food
+949	PA166120927	drug reaction with eosinophilia and systemic symptoms
+950	PA165111675	Drug Resistance
+951	PA443937	Drug Toxicity
+952	PA165108768	Drug withdrawal syndrome in newborn
+953	PA165108763	Drunkenness NOS
+954	PA166048925	Dry Eye Syndromes
+955	PA166115462	dry mouth
+956	PA443939	Duane Retraction Syndrome
+957	PA443940	Ductus Arteriosus, Patent
+958	PA443942	Duodenal Diseases
+959	PA166048795	Duodenal Obstruction
+960	PA443945	Duodenal Ulcer
+961	PA443949	Dwarfism
+962	PA443950	Dwarfism, Pituitary
+963	PA443951	Dysarthria
+964	PA443952	Dysautonomia, Familial
+965	PA443955	Dysentery, Bacillary
+966	PA165109137	Dysgammaglobulinaemia
+967	PA443958	Dysgeusia
+968	PA165108177	Dyshidrosis NOS
+969	PA165108403	Dyshidrosis unspecified
+970	PA446872	Dyskeratosis Congenita
+971	PA443959	Dyskinesia, Drug-Induced
+972	PA447097	Dyskinesias
+973	PA443960	Dyslexia
+974	PA165108110	Dyslipidaemia
+975	PA443962	Dysmenorrhea
+976	PA443963	Dysostoses
+977	PA443965	Dyspepsia
+978	PA166185295	dysphoria
+979	PA165108849	Dysplasia of cervix NOS
+980	PA443966	Dysplastic Nevus Syndrome
+981	PA443967	Dyspnea
+982	PA165108542	Dyssynergia cerebellaris myoclonica
+983	PA443970	Dystonia
+984	PA443971	Dystonia Musculorum Deformans
+985	PA447098	Dystonic Disorders
+986	PA165108988	Dystrophy due to malnutrition
+987	PA443975	Earache
+988	PA443973	Ear Diseases
+989	PA152530805	Early Infantile Epileptic Encephalopathy With Suppression-Burst Pattern
+990	PA165108462	Early onset cerebellar ataxia with myoclonus
+991	PA152530886	Eating Disorders
+992	PA165108254	Eaton-Lambert syndrome
+993	PA165108343	Ebola virus disease
+994	PA443976	Ebstein Anomaly
+995	PA165109042	Eccrine hidradenoma
+996	PA165109061	Echinococcus NOS
+997	PA443984	Eclampsia
+998	PA165109077	Ecthyma
+999	PA443987	Ectodermal Dysplasia
+1000	PA165108825	Ectopia cordis
+1001	PA443989	Ectopia Lentis
+1002	PA165109002	Ectopic pregnancy NOS
+1003	PA443990	Ectromelia
+1004	PA443992	Ectropion
+1005	PA443993	Eczema
+1006	PA443994	Edema
+1007	PA165108781	Edema of larynx NOS
+1008	PA165108882	Effects of lightning NOS
+1009	PA165109008	Effusion of joint NOS
+1010	PA443997	Ehlers-Danlos Syndrome
+1011	PA165108261	Eisenmenger's defect
+1012	PA166048829	Elderly Adult
+1013	PA166123369	electrocardiogram qt prolonged
+1014	PA166048861	Elephantiasis
+1015	PA166279881	elevated liver enzymes
+1016	PA444002	Elliptocytosis, Hereditary
+1017	PA444003	Ellis-Van Creveld Syndrome
+1018	PA166048797	Emaciation
+1019	PA444005	Embolism
+1020	PA444006	Embolism, Air
+1021	PA165108304	Embolism and thrombosis NOS
+1022	PA447128	Embryo Loss
+1023	PA165108706	Embryonic fimbrial cyst
+1024	PA444009	Emergencies
+1025	PA444010	Emphysema
+1026	PA165108568	Empty sella syndrome
+1027	PA444013	Empyema, Tuberculous
+1028	PA444014	Encephalitis
+1029	PA447087	Encephalitis, Herpes Simplex
+1030	PA444017	Encephalitis, Japanese
+1031	PA444020	Encephalitis, Tick-Borne
+1032	PA446768	Encephalitis, Viral
+1033	PA444021	Encephalocele
+1034	PA444023	Encephalomyelitis
+1035	PA444024	Encephalomyelitis, Autoimmune, Experimental
+1036	PA446360	Encephalopathy, Bovine Spongiform
+1037	PA152241953	Encephalopathy, Infantile
+1038	PA444032	Endocardial Cushion Defects
+1039	PA444033	Endocardial Fibroelastosis
+1040	PA444034	Endocarditis
+1041	PA444035	Endocarditis, Bacterial
+1042	PA165109147	Endocrine disorder NOS
+1043	PA165108435	Endocrine disturbance NOS
+1044	PA165109116	Endocrine gland disease NOS
+1045	PA444037	Endocrine System Diseases
+1046	PA446623	Endodermal Sinus Tumor
+1047	PA444039	Endometrial Hyperplasia
+1048	PA446411	Endometrial Neoplasms
+1049	PA444040	Endometriosis
+1050	PA165109004	Endomyocardial fibrosis
+1051	PA445150	Endophthalmitis
+1052	PA446832	Endotoxemia
+1053	PA165108449	Enophthalmos NOS
+1054	PA166048917	Enteritis
+1055	PA166048732	Enterobacteriaceae Infections
+1056	PA165108247	Enterobiasis
+1057	PA444047	Enterocolitis
+1058	PA166048821	Enterocolitis, Pseudomembranous
+1059	PA444052	Enuresis
+1060	PA165108525	Environmental allergy
+1061	PA446351	Enzootic Bovine Leukosis
+1062	PA165108795	Enzootic pneumonia of calves
+1063	PA444053	Eosinophilia
+1064	PA446355	Eosinophilia-Myalgia Syndrome
+1065	PA166224501	eosinophilic esophagitis
+1066	PA444055	Ependymoma
+1067	PA165108101	Epidemic encephalitis
+1068	PA165108958	Epidemic pleurodynia
+1069	PA165109058	Epidermal naevus syndrome
+1070	PA444059	Epidermal Necrolysis, Toxic
+1071	PA444061	Epidermodysplasia Verruciformis
+1072	PA444062	Epidermolysis Bullosa
+1073	PA446273	Epidermolysis Bullosa Dystrophica
+1074	PA446275	Epidermolysis Bullosa Simplex
+1075	PA165108789	Epididymitis NOS
+1076	PA165108970	Epididymitis unspecified
+1077	PA444397	Epidural hematoma
+1078	PA444069	Epilepsies, Myoclonic
+1079	PA444066	Epilepsies, Partial
+1080	PA444065	Epilepsy
+1081	PA444070	Epilepsy, Absence
+1082	PA152238518	Epilepsy, Autosomal Dominant Nocturnal Frontal Lobe
+1083	PA166048899	Epilepsy, Benign Neonatal
+1084	PA446425	Epilepsy, Frontal Lobe
+1085	PA444067	Epilepsy, Generalized
+1086	PA446928	Epilepsy, Reflex
+1087	PA446822	Epilepsy, Rolandic
+1088	PA444071	Epilepsy, Temporal Lobe
+1089	PA166048794	Epilepsy, Tonic-Clonic
+1090	PA446867	Epiretinal Membrane
+1091	PA444075	Epistaxis
+1092	PA447242	epithelial cancers
+1093	PA446883	Epstein-Barr Virus Infections
+1094	PA165108213	Equine infectious anemia
+1095	PA444606	Erectile Dysfunction
+1096	PA165108852	Erosion of cervix
+1097	PA165108721	Erosion of teeth NOS
+1098	PA165108420	Erysipelothrix infection NOS
+1099	PA165108922	Erysipelothrix infection, unspecified
+1100	PA444083	Erythema
+1101	PA165108394	Erythema chronica migrans
+1102	PA166120928	erythema exudativum multiforme
+1103	PA446374	Erythema Infectiosum
+1104	PA165108357	Erythema multiforme NOS
+1105	PA444086	Erythema Nodosum
+1106	PA165108127	Erythrasma
+1107	PA165108381	Erythrokeratoderma en cocardes
+1108	PA166048718	Escherichia coli Infections
+1109	PA165109086	Escherichia coli meningitis
+1110	PA444095	Esophageal and Gastric Varices
+1111	PA444096	Esophageal Atresia
+1112	PA444098	Esophageal Diseases
+1113	PA444100	Esophageal Fistula
+1114	PA444101	Esophageal Neoplasms
+1115	PA444103	Esophageal Stenosis
+1116	PA444104	Esophagitis
+1117	PA444105	Esophagitis, Peptic
+1118	PA151958591	Esophogeal Neoplasms
+1119	PA444106	Esotropia
+1120	PA447288	Essential hypertension
+1121	PA447006	Essential Tremor
+1122	PA447304	estrogen-dependent carcinogenesis
+1123	PA165108967	Eunuchism
+1124	PA166123366	event-free survival
+1125	PA166179129	exacerbation of asthma
+1126	PA444109	Exanthema
+1127	PA166128827	exertional rhabdomyolysis
+1128	PA446555	Exfoliation Syndrome
+1129	PA445217	Exocrine Pancreatic Insufficiency
+1130	PA444111	Exophthalmos
+1131	PA444112	Exostoses
+1132	PA444113	Exostoses, Multiple Hereditary
+1133	PA444114	Exotropia
+1134	PA165109168	Exposure of tooth pulp
+1135	PA165108847	Expulsion intrauterine contraceptive device
+1136	PA165109149	Exstrophy of urinary bladder NOS
+1137	PA166170367	extrapyramidal symptoms
+1138	PA166048763	Extravasation of Diagnostic and Therapeutic Materials
+1139	PA165108157	Extreme drug resistant tuberculosis
+1140	PA165108278	Extremely low birth weight infant
+1141	PA444117	Eye Abnormalities
+1142	PA444119	Eye Diseases
+1143	PA446225	Eye Diseases, Hereditary
+1144	PA166048905	Eye Infections
+1145	PA166048733	Eye Infections, Bacterial
+1146	PA166048844	Eye Infections, Fungal
+1147	PA166048760	Eye Infections, Viral
+1148	PA165108732	Eyelid disorder NOS
+1149	PA443367	Fabry Disease
+1150	PA444127	Facial Asymmetry
+1151	PA166048758	Facial Dermatoses
+1152	PA165108751	Facial hemiatrophy
+1153	PA444132	Facial Nerve Diseases
+1154	PA444134	Facial Pain
+1155	PA444135	Facial Paralysis
+1156	PA446802	Facies
+1157	PA166048842	Factor VII Deficiency
+1158	PA444139	Factor XI Deficiency
+1159	PA444142	Failure to Thrive
+1160	PA444144	Fallopian Tube Neoplasms
+1161	PA165108266	Fallot's triad
+1162	PA165108611	Fallot's trilogy
+1163	PA152407979	Familial aplasia of the vermis
+1164	PA165108780	Familial benign pemphigus
+1165	PA165108921	Familial dysalbuminemic hyperthyroxinemia
+1166	PA165108716	Familial generalised lipodystrophy
+1167	PA166114942	familial hypercholesterolemia
+1168	PA166114924	familial hypercholesterolemia - homozygous
+1169	PA165108998	Familial hypokalemia-hypomagnesemia
+1170	PA445293	Familial Mediterranean Fever
+1171	PA165108999	Familial partial lipodystrophy
+1172	PA165108169	Familial renal glucosuria
+1173	PA444146	Fanconi Anemia
+1174	PA444145	Fanconi Syndrome
+1175	PA165108603	Farmers' lung
+1176	PA444148	Fasciculation
+1177	PA165108474	Fasciitis unspecified
+1178	PA165108977	Fatal familial insomnia
+1179	PA444153	Fatigue
+1180	PA446215	Fatigue Syndrome, Chronic
+1181	PA444154	Fatty Liver
+1182	PA165108889	Favism
+1183	PA166170245	febrile neutropenia
+1184	PA165108419	Feet deformities NOS
+1185	PA142188754	Feingold Syndrome
+1186	PA165108475	Feline acquired immune deficiency syndrome
+1187	PA446380	Feline Infectious Peritonitis
+1188	PA165109094	Feline panleucopenia
+1189	PA165108602	Felty's syndrome
+1190	PA166048913	Female Gender
+1191	PA165108345	Female pelvic inflammatory diseases NOS
+1192	PA166048744	Female Urogenital Diseases and Pregnancy Complications
+1193	PA444163	Femoral Fractures
+1194	PA165108371	Femoral hernia NOS
+1195	PA444167	Fetal Alcohol Syndrome
+1196	PA444169	Fetal Death
+1197	PA444170	Fetal Diseases
+1198	PA444171	Fetal Distress
+1199	PA444172	Fetal Growth Retardation
+1200	PA165109126	Fetal-maternal hemorrhage NOS
+1201	PA165108354	Fetal-maternal hemorrhage unspecified
+1202	PA444178	Fever
+1203	PA153626879	FG Syndrome
+1204	PA446609	Fibroadenoma
+1205	PA165108623	Fibrocystic disease of breast
+1206	PA444181	Fibroma
+1207	PA446605	Fibromatosis, Aggressive
+1208	PA444183	Fibromuscular Dysplasia
+1209	PA444186	Fibromyalgia
+1210	PA165108194	Fibro-osteoma
+1211	PA444184	Fibrosarcoma
+1212	PA444185	Fibrosis
+1213	PA444189	Fibrous Dysplasia, Polyostotic
+1214	PA444190	Filariasis
+1215	PA165109031	Fisher's syndrome
+1216	PA444194	Fistula
+1217	PA165108351	Fistula of bile duct NOS
+1218	PA165108158	Fistula of intestine NOS
+1219	PA165108827	Fistula of salivary gland NOS
+1220	PA165108599	Fistulous opening in vagina
+1221	PA166048889	Flail Chest
+1222	PA444196	Flatfoot
+1223	PA444197	Flatulence
+1224	PA165109053	Fluorosis
+1225	PA444199	Flushing
+1226	PA444200	Focal Dermal Hypoplasia
+1227	PA447052	Focal Nodular Hyperplasia
+1228	PA165109080	Foetal haemorrhage into co-twin
+1229	PA444203	Folic Acid Deficiency
+1230	PA444205	Folliculitis
+1231	PA444206	Food Hypersensitivity
+1232	PA165108738	Food poisoning NOS
+1233	PA165108829	Foot-and-mouth disease
+1234	PA444208	Foot Deformities
+1235	PA166048767	Foot Dermatoses
+1236	PA166048873	Foot Ulcer
+1237	PA444220	Fowlpox
+1238	PA165108718	Fracture, cause unspecified
+1239	PA165108431	Fracture of base of skull NOS
+1240	PA165108425	Fracture of bones NOS
+1241	PA165109191	Fracture of humerus NOS
+1242	PA165108132	Fracture of radius NOS
+1243	PA165108705	Fracture of skull NOS
+1244	PA165108332	Fracture of ulna NOS
+1245	PA444222	Fractures, Bone
+1246	PA444225	Fractures, Spontaneous
+1247	PA152207461	Fragile X-associated Tremor/Ataxia Syndrome
+1248	PA444227	Fragile X Syndrome
+1249	PA444229	Friedreich Ataxia
+1250	PA166048820	Frostbite
+1251	PA165109084	Fructose-biphosphatase deficiency
+1252	PA444231	Fructose Intolerance
+1253	PA151958646	FTDP-17
+1254	PA151958642	FTLD
+1255	PA165109045	Fuchs' corneal dystrophy
+1256	PA444233	Fucosidosis
+1257	PA152238081	Fuhrmann Syndrome
+1258	PA165108969	Fukuhara syndrome
+1259	PA166048893	Fungemia
+1260	PA444234	Funnel Chest
+1261	PA444235	Furunculosis
+1262	PA446959	Gait Ataxia
+1263	PA446958	Gait Disorders, Neurologic
+1264	PA444239	Galactorrhea
+1265	PA444240	Galactosemias
+1266	PA444241	Gallbladder Diseases
+1267	PA444242	Gallbladder Neoplasms
+1268	PA446678	Ganglioneuroblastoma
+1269	PA165108686	Ganglion unspecified
+1270	PA446343	Gangliosidosis GM1
+1271	PA444245	Gangrene
+1272	PA444246	Gardner Syndrome
+1273	PA446971	Gastric Antral Vascular Ectasia
+1274	PA445739	Gastric Dilatation
+1275	PA166048846	Gastric Outlet Obstruction
+1276	PA446138	Gastrinoma
+1277	PA444250	Gastritis
+1278	PA444251	Gastritis, Atrophic
+1279	PA444253	Gastroenteritis
+1280	PA166153403	gastroesophageal cancer
+1281	PA444255	Gastroesophageal Reflux
+1282	PA444256	Gastrointestinal Diseases
+1283	PA444418	Gastrointestinal Hemorrhage
+1284	PA444257	Gastrointestinal Neoplasms
+1285	PA151958383	Gastrointestinal Stromal Tumors
+1286	PA166124386	gastrointestinal toxicity
+1287	PA446746	Gastroparesis
+1288	PA446893	Gastroschisis
+1289	PA444258	Gaucher Disease
+1290	PA165109190	General adaptation syndrome
+1291	PA165108848	Generalised lentiginosis
+1292	PA165108678	Generalized glycogenosis
+1293	PA447188	Genetic Diseases, Inborn
+1294	PA446882	Genetic Predisposition to Disease
+1295	PA444259	Genital Diseases, Female
+1296	PA165108754	Genital herpes simplex NOS
+1297	PA165108994	Genital herpes unspecified
+1298	PA444261	Genital Neoplasms, Female
+1299	PA165108487	Genitourinary tuberculosis NOS
+1300	PA165109185	Geographic tongue
+1301	PA446620	Germinoma
+1302	PA165108833	Gerstmann-Straussler-Scheinker syndrome
+1303	PA165110335	Gerstmann Syndrome
+1304	PA165108364	Gestational hypertension
+1305	PA166248001	gestational trophoblastic neoplasia
+1306	PA445818	Giant Cell Arteritis
+1307	PA444265	Giant Cell Tumors
+1308	PA444266	Giant Lymph Node Hyperplasia
+1309	PA165108844	Giant urticaria
+1310	PA444267	Giardiasis
+1311	PA444268	Gigantism
+1312	PA447281	Gilbert's syndrome
+1313	PA444273	Gingival Hyperplasia
+1314	PA446813	Gingival Overgrowth
+1315	PA444276	Gingival Pocket
+1316	PA165109037	Gingival recession NOS
+1317	PA444278	Gingivitis
+1318	PA444280	Glanders
+1319	PA444281	Glaucoma
+1320	PA166048716	Glaucoma, Angle-Closure
+1321	PA444282	Glaucoma, Open-Angle
+1322	PA444283	Glioblastoma
+1323	PA444284	Glioma
+1324	PA446687	Gliosarcoma
+1325	PA444285	Gliosis
+1326	PA447283	glomerular disease
+1327	PA166131631	glomerular filtration rate
+1328	PA444287	Glomerulonephritis
+1329	PA444288	Glomerulonephritis, IGA
+1330	PA446146	Glomerulonephritis, Membranoproliferative
+1331	PA446147	Glomerulonephritis, Membranous
+1332	PA447258	Glomerulosclerosis
+1333	PA444289	Glomerulosclerosis, Focal Segmental
+1334	PA165108917	Glomus tympanicum tumour
+1335	PA165108737	Glossitis NOS
+1336	PA165108183	Glossodynia
+1337	PA444294	Glucagonoma
+1338	PA446560	Glucose Intolerance
+1339	PA166048754	Glucosephosphate Dehydrogenase Deficiency
+1340	PA444297	Glycogen Storage Disease
+1341	PA444295	Glycogen Storage Disease Type I
+1342	PA165108108	Glycogen storage disease, type III
+1343	PA165108499	Glycogen storage disease, type IV
+1344	PA444301	Glycogen Storage Disease Type V
+1345	PA444302	Glycogen Storage Disease Type VI
+1346	PA165108659	Glycogen storage disease, type VII
+1347	PA165108807	Glycogen storage disease type VIII
+1348	PA444305	Glycosuria
+1349	PA444307	Goiter
+1350	PA444311	Goldenhar Syndrome
+1351	PA444313	Gonadal Dysgenesis
+1352	PA165108808	Gonococcal conjunctivitis neonatorum
+1353	PA165108639	Gonococcal infections NOS
+1354	PA444318	Gout
+1355	PA166230361	gouty tophi
+1356	PA166048839	Graft Occlusion, Vascular
+1357	PA444320	Graft vs Host Disease
+1358	PA446415	Gram-Negative Bacterial Infections
+1359	PA166048719	Gram-Positive Bacterial Infections
+1360	PA446353	Granular Cell Tumor
+1361	PA444321	Granuloma
+1362	PA444327	Granulomatous Disease, Chronic
+1363	PA444328	Granulosa Cell Tumor
+1364	PA444329	Graves Disease
+1365	PA165108496	Gray platelet syndrome
+1366	PA165108311	Great vessel transposition NOS
+1367	PA444330	Growth Disorders
+1368	PA166176761	growth hormone deficiency
+1369	PA446988	Guillain-Barre Syndrome
+1370	PA165108861	Gulf war syndrome
+1371	PA444332	Gynecomastia
+1372	PA446229	Gyrate Atrophy
+1373	PA165108976	Haemangiopericytoma
+1374	PA165108876	Haemophagocytic lymphohistiocytosis
+1375	PA166048730	Haemophilus Infections
+1376	PA165108172	Hajdu-Cheney syndrome
+1377	PA165108662	Hallermann-Streiff syndrome
+1378	PA444339	Hallucinations
+1379	PA444340	Hallux Valgus
+1380	PA165108582	Halo nevus
+1381	PA444341	Hamartoma
+1382	PA444342	Hamartoma Syndrome, Multiple
+1383	PA444343	Hand Deformities
+1384	PA166048769	Hand Dermatoses
+1385	PA444214	Hand, Foot and Mouth Disease
+1386	PA166114377	hand-foot syndrome
+1387	PA165108616	Hantavirus pulmonary syndrome
+1388	PA165108634	Harada's disease
+1389	PA152209815	HbH Disease
+1390	PA444354	Headache
+1391	PA447076	Headache Disorders
+1392	PA444352	Head and Neck Neoplasms
+1393	PA166048912	Head Injuries, Closed
+1394	PA444355	Hearing Disorders
+1395	PA444356	Hearing Loss, Bilateral
+1396	PA444358	Hearing Loss, Conductive
+1397	PA444360	Hearing Loss, High-Frequency
+1398	PA444361	Hearing Loss, Noise-Induced
+1399	PA145069467	Hearing Loss, nonsyndromic
+1400	PA444363	Hearing Loss, Sensorineural
+1401	PA444365	Heart Arrest
+1402	PA444366	Heart Block
+1403	PA444380	Heartburn
+1404	PA444367	Heart Defects, Congenital
+1405	PA444368	Heart Diseases
+1406	PA444370	Heart Failure
+1407	PA444372	Heart Murmurs
+1408	PA166159282	heart rate
+1409	PA444377	Heart Septal Defects, Atrial
+1410	PA444378	Heart Septal Defects, Ventricular
+1411	PA166114458	heart transplantation
+1412	PA444379	Heart Valve Diseases
+1413	PA166123431	heart valve replacement
+1414	PA165108415	Heartwater
+1415	PA165108955	Heat prostration NOS
+1416	PA446781	Heat Stress Disorders
+1417	PA446782	Heat Stroke
+1418	PA166048788	Heavy Metal Poisoning, Nervous System
+1419	PA165108974	Hebephrenic schizophrenia NOS
+1420	PA165108541	Heerfordt's syndrome
+1421	PA166048740	Helicobacter Infections
+1422	PA446478	HELLP Syndrome
+1423	PA165108887	Helminthiasis NOS
+1424	PA446695	Hemangioblastoma
+1425	PA444386	Hemangioendothelioma
+1426	PA444387	Hemangioma
+1427	PA446694	Hemangioma, Capillary
+1428	PA444388	Hemangioma, Cavernous
+1429	PA444390	Hemangiosarcoma
+1430	PA165108141	Hemarthrosis NOS
+1431	PA165108215	Hemarthrosis of unspecified site
+1432	PA444392	Hematemesis
+1433	PA444395	Hematologic Diseases
+1434	PA446827	Hematologic Neoplasms
+1435	PA444396	Hematoma
+1436	PA444398	Hematoma, Subdural
+1437	PA166123007	hematopoietic stem cell transplantation
+1438	PA166252442	hematotoxicity
+1439	PA444400	Hematuria
+1440	PA444401	Hemianopsia
+1441	PA444403	Hemiplegia
+1442	PA165108816	Hemobilia
+1443	PA444405	Hemochromatosis
+1444	PA444408	Hemoglobinopathies
+1445	PA166160326	hemoglobin ss disease with vasoocclusive crisis
+1446	PA444409	Hemoglobinuria
+1447	PA444411	Hemolysis
+1448	PA165109127	Hemolytic disease due to isoimmunization NOS
+1449	PA165108920	Hemolytic disease of fetus and newborn due to isoimmunization NOS
+1450	PA444412	Hemolytic-Uremic Syndrome
+1451	PA444414	Hemophilia A
+1452	PA443726	Hemophilia B
+1453	PA166122646	hemopoietic stem cell transplant
+1454	PA444416	Hemoptysis
+1455	PA444417	Hemorrhage
+1456	PA165108973	Hemorrhagic disease of the newborn due to vitamin K deficiency
+1457	PA444421	Hemorrhagic Disorders
+1458	PA165108230	Hemorrhagic nephroso-nephritis
+1459	PA165109041	Hemorrhoids NOS
+1460	PA165108267	Hemosiderosis NOS
+1461	PA446895	Hemostatic Disorders
+1462	PA444431	Hemothorax
+1463	PA166180791	henoch-schonlein purpura nephritis
+1464	PA447264	heparin-induced thrombocytopenia
+1465	PA166177880	hepatic cytolysis
+1466	PA444432	Hepatic Encephalopathy
+1467	PA165108777	Hepatic glycogen phosphorylase kinase deficiency
+1468	PA166129565	hepatic necrosis
+1469	PA165108796	Hepatic peliosis
+1470	PA166122489	hepatic steatosis
+1471	PA444434	Hepatic Veno-Occlusive Disease
+1472	PA444435	Hepatitis
+1473	PA444436	Hepatitis A
+1474	PA444438	Hepatitis, Alcoholic
+1475	PA446861	Hepatitis, Autoimmune
+1476	PA444437	Hepatitis B
+1477	PA446862	Hepatitis B, Chronic
+1478	PA444445	Hepatitis C
+1479	PA446863	Hepatitis C, Chronic
+1480	PA444440	Hepatitis, Chronic
+1481	PA446864	Hepatitis D, Chronic
+1482	PA444442	Hepatitis, Toxic
+1483	PA446580	Hepatoblastoma
+1484	PA444446	Hepatolenticular Degeneration
+1485	PA444448	Hepatomegaly
+1486	PA165108142	Hepatopulmonary syndrome
+1487	PA444449	Hepatorenal Syndrome
+1488	PA152132901	Hereditary Breast/Ovarian Cancer Syndrome
+1489	PA165108150	Hereditary factor V deficiency disease
+1490	PA165108385	Hereditary hemolytic anemia NOS
+1491	PA144997875	Hereditary Hypophosphatemic Rickets with Hypercalciuria(HHRH)
+1492	PA446139	Hereditary Motor and Sensory Neuropathies
+1493	PA445111	Hereditary Sensory and Autonomic Neuropathies
+1494	PA447148	Hermanski-Pudlak Syndrome
+1495	PA444450	Hermaphroditism
+1496	PA444451	Hernia
+1497	PA444452	Hernia, Diaphragmatic
+1498	PA444456	Hernia, Inguinal
+1499	PA444458	Hernia, Umbilical
+1500	PA444459	Hernia, Ventral
+1501	PA444460	Heroin Dependence
+1502	PA165108859	Herpangina
+1503	PA165108339	Herpes gestationis NOS
+1504	PA165108529	Herpes gestationis unspecified
+1505	PA166048898	Herpes Labialis
+1506	PA444465	Herpes Simplex
+1507	PA165108502	Herpes simplex dendritic keratitis
+1508	PA166048785	Herpesviridae Infections
+1509	PA444466	Herpes Zoster
+1510	PA165108804	Herpes zoster auricularis
+1511	PA165108190	Herpes zoster encephalitis
+1512	PA165108820	Hiatus hernia NOS
+1513	PA166048725	Hiccup
+1514	PA165109062	Hidradenoma
+1515	PA165108175	High density lipoid deficiency
+1516	PA166163563	high on-treatment platelet reactivity
+1517	PA166048896	High Pressure Neurological Syndrome
+1518	PA444476	Hip Fractures
+1519	PA447166	Hip Injuries
+1520	PA444478	Hirschsprung Disease
+1521	PA444479	Hirsutism
+1522	PA165108906	Histiocytic necrotizing lymphadenitis
+1523	PA165109095	Histiocytic sarcoma
+1524	PA446602	Histiocytoma, Benign Fibrous
+1525	PA446205	Histiocytosis
+1526	PA444749	Histiocytosis, Langerhans-Cell
+1527	PA446207	Histiocytosis, Non-Langerhans-Cell
+1528	PA444482	Histoplasmosis
+1529	PA165108361	Histrionic personality disorder NOS
+1530	PA447230	HIV Infections
+1531	PA444483	HIV Seropositivity
+1532	PA444485	Hodgkin Disease
+1533	PA165108666	Hog cholera
+1534	PA165108333	Holocarboxylase synthase deficiency
+1535	PA446287	Holoprosencephaly
+1536	PA150516584	Homocysteinemia
+1537	PA444487	Homocystinuria
+1538	PA444490	Horner Syndrome
+1539	PA446852	Hot Flashes
+1540	PA162372881	H Syndrome
+1541	PA165108987	Human immunodeficiency virus enteropathy
+1542	PA165109177	Human T-lymphotropic virus 2 infection
+1543	PA162373095	Humero-spinal Dysostosis
+1544	PA444494	Huntington Disease
+1545	PA444495	Hyaline Membrane Disease
+1546	PA444496	Hydatidiform Mole
+1547	PA444498	Hydranencephaly
+1548	PA165108868	Hydroa vacciniforme
+1549	PA165108594	Hydrocele NOS
+1550	PA444502	Hydrocephalus
+1551	PA444504	Hydronephrosis
+1552	PA444505	Hydrophthalmos
+1553	PA165109154	Hydropneumothorax
+1554	PA446101	Hydrops Fetalis
+1555	PA444507	Hydrothorax
+1556	PA166048838	Hymenolepiasis
+1557	PA445500	Hyperacusis
+1558	PA444509	Hyperaldosteronism
+1559	PA444510	Hyperalgesia
+1560	PA447146	Hyperammonemia
+1561	PA444511	Hyperbilirubinemia
+1562	PA444512	Hyperbilirubinemia, Hereditary
+1563	PA444513	Hypercalcemia
+1564	PA166048891	Hypercapnia
+1565	PA165108463	Hypercementosis
+1566	PA444516	Hypercholesterolemia
+1567	PA165108504	Hypercortisolism due to nonpituitary tumor
+1568	PA444519	Hyperemia
+1569	PA446529	Hypereosinophilic Syndrome
+1570	PA165108406	Hyperglobulinemic purpura
+1571	PA444522	Hyperglycemia
+1572	PA444524	Hyperhidrosis
+1573	PA446892	Hyperhomocysteinemia
+1574	PA444525	Hyperinsulinism
+1575	PA444526	Hyperkalemia
+1576	PA446493	Hyperkeratosis, Epidermolytic
+1577	PA444527	Hyperkinesis
+1578	PA444529	Hyperlipidemia, Familial Combined
+1579	PA444528	Hyperlipidemias
+1580	PA444530	Hyperlipoproteinemias
+1581	PA444792	Hyperlipoproteinemia Type I
+1582	PA444517	Hyperlipoproteinemia Type II
+1583	PA444531	Hyperlipoproteinemia Type III
+1584	PA444532	Hyperlipoproteinemia Type IV
+1585	PA444534	Hypernatremia
+1586	PA444535	Hyperopia
+1587	PA446200	Hyperostosis
+1588	PA165108745	Hyperostosis interna frontalis
+1589	PA444538	Hyperoxaluria
+1590	PA446740	Hyperoxia
+1591	PA444540	Hyperparathyroidism
+1592	PA444541	Hyperparathyroidism, Secondary
+1593	PA444542	Hyperphagia
+1594	PA446496	Hyperpigmentation
+1595	PA444543	Hyperpituitarism
+1596	PA444544	Hyperplasia
+1597	PA444545	Hyperprolactinemia
+1598	PA444546	Hypersensitivity
+1599	PA165108170	Hypersensitivity angiitis NOS
+1600	PA444547	Hypersensitivity, Delayed
+1601	PA444548	Hypersensitivity, Immediate
+1602	PA165108520	Hypersensitivity pneumonitis NOS
+1603	PA166232142	hypersexuality state
+1604	PA166232141	hypersexuality state
+1605	PA444551	Hypertelorism
+1606	PA444552	Hypertension
+1607	PA166048792	Hypertension, Malignant
+1608	PA165108500	Hypertension of pregnancy NOS
+1609	PA166048924	Hypertension, Portal
+1610	PA444555	Hypertension, Pulmonary
+1611	PA444556	Hypertension, Renal
+1612	PA444557	Hypertension, Renovascular
+1613	PA165108899	Hypertensive encephalopathy
+1614	PA165108237	Hypertensive lower oesophageal sphincter
+1615	PA166105294	Hypertensive Nephropathy
+1616	PA166152848	hypertensive nephrosclerosis
+1617	PA444558	Hyperthyroidism
+1618	PA444560	Hypertrichosis
+1619	PA446120	Hypertriglyceridemia
+1620	PA165108812	Hypertrophic cicatrix
+1621	PA165108698	Hypertrophic gastropathy
+1622	PA444561	Hypertrophy
+1623	PA446479	Hypertrophy, Left Ventricular
+1624	PA446480	Hypertrophy, Right Ventricular
+1625	PA166048814	Hyperuricemia
+1626	PA444562	Hyperventilation
+1627	PA444563	Hypervitaminosis A
+1628	PA444564	Hypesthesia
+1629	PA444565	Hyphema
+1630	PA165108661	Hypoalbuminaemia
+1631	PA444566	Hypoaldosteronism
+1632	PA165108765	Hypobaropathy NOS
+1633	PA165108797	Hypo-beta-lipoproteinemia
+1634	PA444567	Hypobetalipoproteinemias
+1635	PA444568	Hypocalcemia
+1636	PA165108701	Hypocapnia
+1637	PA444570	Hypoglycemia
+1638	PA162372808	Hypogonadism
+1639	PA444572	Hypohidrosis
+1640	PA165108875	Hypohidrotic X-linked ectodermal dysplasia
+1641	PA444573	Hypokalemia
+1642	PA447050	Hypokalemic Periodic Paralysis
+1643	PA446736	Hypokinesia
+1644	PA165108412	Hypolipoproteinemia
+1645	PA166161973	hypomagnesemia primary
+1646	PA444575	Hyponatremia
+1647	PA444576	Hypoparathyroidism
+1648	PA444577	Hypopharyngeal Neoplasms
+1649	PA446526	Hypophosphatemia
+1650	PA444579	Hypophosphatemia, Familial
+1651	PA446497	Hypopigmentation
+1652	PA444580	Hypopituitarism
+1653	PA446752	Hypoplastic Left Heart Syndrome
+1654	PA444581	Hypoproteinemia
+1655	PA444582	Hypoprothrombinemias
+1656	PA444583	Hypospadias
+1657	PA444584	Hypotension
+1658	PA444585	Hypotension, Orthostatic
+1659	PA162372751	Hypothalamic Hamartomas
+1660	PA444587	Hypothalamic Neoplasms
+1661	PA444588	Hypothermia
+1662	PA444589	Hypothyroidism
+1663	PA145007197	Hypotonia-Cystinuria Syndrome(HCS)
+1664	PA444590	Hypotrichosis
+1665	PA162370425	Hypouricemia
+1666	PA444591	Hypoventilation
+1667	PA166048804	Hypoxia, Brain
+1668	PA447118	Hypoxia-Ischemia, Brain
+1669	PA165109052	Hysteria NOS
+1670	PA165108722	Hysteria unspecified
+1671	PA444593	Ichthyosis
+1672	PA165108896	Ichthyosis bullosa of Siemens
+1673	PA446494	Ichthyosis, Lamellar
+1674	PA446277	Ichthyosis Vulgaris
+1675	PA446279	Ichthyosis, X-Linked
+1676	PA165108255	Idiopathic livedo reticularis with systemic involvement
+1677	PA446440	IgA Deficiency
+1678	PA444594	Ileal Diseases
+1679	PA444596	Ileitis
+1680	PA165108696	Illegally induced abortion NOS
+1681	PA444597	Illusions
+1682	PA444602	Immune System Diseases
+1683	PA166175912	immunological response
+1684	PA444601	Immunologic Deficiency Syndromes
+1685	PA165109046	Immunoproliferative small intestinal disease
+1686	PA165108533	Impetigo NOS
+1687	PA166048750	Impotence, Vasculogenic
+1688	PA165108633	Impulse control disorder NOS
+1689	PA165108843	Impulse control disorder, unspecified
+1690	PA444607	Inappropriate ADH Syndrome
+1691	PA165108702	Inclusion body myositis
+1692	PA165108677	Incomplete spontaneous abortion NOS
+1693	PA165108111	Incontinentia pigmenti syndrome
+1694	PA166128372	increased creatine kinase level
+1695	PA165108628	Induced psychotic disorder
+1696	PA165108293	Induratio penis plastica
+1697	PA165108510	Inebriety NOS
+1698	PA166048828	Inert Gas Narcosis
+1699	PA166048746	Infant
+1700	PA165108165	Infantile cortical hyperostosis
+1701	PA165108936	Infantile Refsum's disease
+1702	PA166048880	Infant Nutrition Disorders
+1703	PA166048886	Infant, Premature, Diseases
+1704	PA444613	Infarction
+1705	PA446968	Infarction, Middle Cerebral Artery
+1706	PA444614	Infection
+1707	PA165109072	Infection by Blastomyces dermatitidis
+1708	PA165108775	Infection by Legionella pneumophilia
+1709	PA165109028	Infection by Setaria
+1710	PA165108241	Infection by Strongylus equinus
+1711	PA165108654	Infection by Trichuris trichiura
+1712	PA165108756	Infection by Trypanosoma equiperdum
+1713	PA165108690	Infection due to Mycobacterium avium
+1714	PA165108424	Infection due to Mycobacterium bovis
+1715	PA165108418	Infectious bovine rhinotracheitis
+1716	PA165108263	Infectious canine hepatitis
+1717	PA165109078	Infectious diarrhea NOS
+1718	PA444616	Infectious Mononucleosis
+1719	PA165108242	Infective diarrhoea
+1720	PA444617	Infertility
+1721	PA444618	Infertility, Female
+1722	PA444619	Infertility, Male
+1723	PA165108776	Infiltrating duct carcinoma of breast
+1724	PA444620	Inflammation
+1725	PA446116	Inflammatory Bowel Diseases
+1726	PA444621	Influenza, Human
+1727	PA166128190	infusion related reaction
+1728	PA165108840	Ingrowing nail NOS
+1729	PA166159283	inhibitory concentration 50
+1730	PA165108195	Injury arm NOS
+1731	PA165109152	Injury due to explosion
+1732	PA165108443	Injury leg NOS
+1733	PA166123307	insomnia
+1734	PA165109111	Insulin coma
+1735	PA444627	Insulinoma
+1736	PA444626	Insulin Resistance
+1737	PA166159432	intelligence
+1738	PA165108518	Interdigital necrobacillosis
+1739	PA444628	Intermittent Claudication
+1740	PA166160459	international normalized ratio variability (inr-var)
+1741	PA166123006	interstitial fibrosis
+1742	PA444631	Intestinal Atresia
+1743	PA165108986	Intestinal diphyllobothriasis
+1744	PA444632	Intestinal Diseases
+1745	PA444635	Intestinal Neoplasms
+1746	PA444636	Intestinal Obstruction
+1747	PA165108551	Intestinal parasitism NOS
+1748	PA444637	Intestinal Perforation
+1749	PA444638	Intestinal Polyps
+1750	PA444639	Intestinal Pseudo-Obstruction
+1751	PA443663	Intracranial Aneurysm
+1752	PA443665	Intracranial Arteriosclerosis
+1753	PA443666	Intracranial Arteriovenous Malformations
+1754	PA447074	Intracranial Embolism
+1755	PA166048871	Intracranial Embolism and Thrombosis
+1756	PA446997	Intracranial Hemorrhages
+1757	PA446854	Intracranial Hypertension
+1758	PA166123203	intragastric ph
+1759	PA444640	Intraoperative Complications
+1760	PA444641	Intussusception
+1761	PA165108937	Invasive hydatidiform mole
+1762	PA165108858	Invasive pulmonary aspergillosis
+1763	PA444642	Inversion (Genetics)
+1764	PA446255	Iridocyclitis
+1765	PA166048816	Iris Diseases
+1766	PA166048811	Iritis
+1767	PA446812	Iron Overload
+1768	PA166048887	Irritable Bowel Syndrome
+1769	PA447024	Isaacs Syndrome
+1770	PA444645	Ischemia
+1771	PA443672	Ischemic Attack, Transient
+1772	PA446719	Isochromosomes
+1773	PA165108928	Jaagziekte
+1774	PA444648	Jaundice
+1775	PA444649	Jaundice, Chronic Idiopathic
+1776	PA444650	Jaundice, Neonatal
+1777	PA444652	Jaw Cysts
+1778	PA165108461	Jaw diseases NOS
+1779	PA165108675	Jaw fracture NOS
+1780	PA447183	Jervell-Lange Nielsen Syndrome
+1781	PA166048812	Jet Lag Syndrome
+1782	PA444660	Job's Syndrome
+1783	PA165108386	Johne's disease
+1784	PA444661	Joint Diseases
+1785	PA165109148	Joint effusion of unspecified site
+1786	PA444662	Joint Instability
+1787	PA152407980	Joubert Syndrome-Related Disorders
+1788	PA152407981	JSRD-SLS
+1789	PA165108801	Junctional ectopic tachycardia
+1790	PA165108227	Juvenile chronic myeloid leukaemia
+1791	PA165108184	Juvenile epithelial corneal dystrophy
+1792	PA165108113	Juvenile myopathy, encephalopathy, lactic acidosis AND stroke
+1793	PA165108453	Juvenile osteochondritis of hip AND/OR pelvis
+1794	PA152238047	Juvenile Polyposis of Infancy
+1795	PA446481	Kallmann Syndrome
+1796	PA444665	Kartagener Syndrome
+1797	PA444666	Kearns-Sayer Syndrome
+1798	PA444667	Keloid
+1799	PA444668	Keratitis
+1800	PA166048759	Keratoconjunctivitis, Infectious
+1801	PA165109099	Keratoconus NOS
+1802	PA444677	Keratoderma, Palmoplantar
+1803	PA444675	Keratosis
+1804	PA444678	Kernicterus
+1805	PA444679	Ketosis
+1806	PA444680	Kidney Calculi
+1807	PA444682	Kidney Diseases
+1808	PA444688	Kidney Diseases, Cystic
+1809	PA446438	Kidney Failure
+1810	PA444683	Kidney Failure, Acute
+1811	PA444684	Kidney Failure, Chronic
+1812	PA444685	Kidney Neoplasms
+1813	PA165817016	Kidney Transplantation
+1814	PA166048813	Kidney Tubular Necrosis, Acute
+1815	PA166129555	king denborough syndrome
+1816	PA165108512	Klatskin's tumour
+1817	PA166048723	Klebsiella Infections
+1818	PA165108682	Kleine-Levin syndrome
+1819	PA444693	Klinefelter Syndrome
+1820	PA444694	Klippel-Feil Syndrome
+1821	PA165108329	Klippel-Trenaunay-Weber syndrome
+1822	PA165108615	Kojevnikov's epilepsy
+1823	PA165109015	Koro
+1824	PA447110	Korsakoff Syndrome
+1825	PA165108130	Krukenberg tumor
+1826	PA444699	Kuru
+1827	PA444700	Kwashiorkor
+1828	PA165109176	Kyasanur forest disease
+1829	PA444702	Kyphosis
+1830	PA165109138	Labyrinthine disorders NOS
+1831	PA165108806	Labyrinthitis NOS
+1832	PA447147	Lacerations
+1833	PA165108604	Lacrimal system disorder NOS
+1834	PA166048751	Lactation
+1835	PA152530790	Lactic Acidosis, Fatal Infantile
+1836	PA444711	Lactose Intolerance
+1837	PA165109112	Lafora disease
+1838	PA446240	Langer-Giedion Syndrome
+1839	PA444713	Language Development Disorders
+1840	PA444714	Language Disorders
+1841	PA166169562	laparoscopic sleeve gastrectomy
+1842	PA165108476	Large granular lymphocytic leukemia
+1843	PA162373094	Larsen Syndrome
+1844	PA166048929	Larva Migrans
+1845	PA444719	Laryngeal Neoplasms
+1846	PA165108102	Laryngeal spasm
+1847	PA166048908	Laryngitis
+1848	PA444722	Laryngostenosis
+1849	PA165108152	Lassa fever
+1850	PA165108489	Latent syphilis unspecified
+1851	PA165108494	Lateral epicondylitis
+1852	PA165108629	Latex allergy
+1853	PA444725	Laurence-Moon Syndrome
+1854	PA165108441	Lead compound causing toxic effect NOS
+1855	PA166048926	Lead Poisoning, Nervous System, Childhood
+1856	PA444727	Learning Disorders
+1857	PA152407984	Leber's amaurosis
+1858	PA166048768	Leg Dermatoses
+1859	PA165108417	Leg ulcer NOS
+1860	PA444736	Leigh Disease
+1861	PA444737	Leiomyoma
+1862	PA444738	Leiomyosarcoma
+1863	PA444739	Leishmaniasis
+1864	PA444740	Leishmaniasis, Mucocutaneous
+1865	PA444741	Leishmaniasis, Visceral
+1866	PA166170362	lennox gastaut syndrome
+1867	PA444742	Lens Diseases
+1868	PA165109182	Lentigo maligna
+1869	PA165108902	Lentigo maligna melanoma
+1870	PA446295	Lentivirus Infections
+1871	PA444745	Leprosy
+1872	PA446152	Leprosy, Lepromatous
+1873	PA446153	Leprosy, Tuberculoid
+1874	PA165108762	Leptospirosis NOS
+1875	PA444747	Leriche Syndrome
+1876	PA444748	Lesch-Nyhan Syndrome
+1877	PA152545809	Lethal Congenital Contractual Syndrome Type 2
+1878	PA152545810	Lethal Congenital Contractual Syndrome Type 3
+1879	PA165108764	Lethal midline granuloma
+1880	PA165108720	Leucoplakia of penis
+1881	PA444750	Leukemia
+1882	PA166048910	Leukemia, Basophilic, Acute
+1883	PA446156	Leukemia, B-Cell
+1884	PA446157	Leukemia, B-Cell, Acute
+1885	PA446163	Leukemia, Biphenotypic, Acute
+1886	PA446179	Leukemia, Eosinophilic, Acute
+1887	PA444090	Leukemia, Erythroblastic, Acute
+1888	PA444754	Leukemia, Experimental
+1889	PA446350	Leukemia, Feline
+1890	PA444755	Leukemia, Hairy Cell
+1891	PA444751	Leukemia L1210
+1892	PA446169	Leukemia, Lymphocytic, Chronic, B-Cell
+1893	PA444756	Leukemia, Lymphoid
+1894	PA446167	Leukemia-Lymphoma, Adult T-Cell
+1895	PA444757	Leukemia, Mast-Cell
+1896	PA444758	Leukemia, Megakaryoblastic, Acute
+1897	PA444759	Leukemia, Monocytic, Acute
+1898	PA446171	Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+1899	PA444761	Leukemia, Myeloid
+1900	PA444760	Leukemia, Myeloid, Acute
+1901	PA446175	Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative
+1902	PA446183	Leukemia, Myelomonocytic, Acute
+1903	PA446182	Leukemia, Myelomonocytic, Chronic
+1904	PA446177	Leukemia, Nonlymphocytic, Acute
+1905	PA444762	Leukemia, Plasma Cell
+1906	PA446168	Leukemia, Prolymphocytic, T-Cell
+1907	PA446180	Leukemia, Promyelocytic, Acute
+1908	PA446165	Leukemia, T-Cell
+1909	PA444767	Leukocytosis
+1910	PA444768	Leukodystrophy, Globoid Cell
+1911	PA444769	Leukodystrophy, Metachromatic
+1912	PA444771	Leukoencephalopathy, Progressive Multifocal
+1913	PA444773	Leukopenia
+1914	PA444774	Leukoplakia
+1915	PA165108644	Leukoplakia of vulva
+1916	PA447127	Lewy Body Disease
+1917	PA444778	Leydig Cell Tumor
+1918	PA166185712	libido
+1919	PA166048780	Lice Infestations
+1920	PA165108649	Lichen nitidus
+1921	PA165108197	Lichen planus NOS
+1922	PA165108497	Lichen sclerosus et atrophicus of the vulva
+1923	PA165108952	Li-Fraumeni syndrome
+1924	PA165109169	Linear sebaceous naevus sequence
+1925	PA165108503	Lingual goiter
+1926	PA444787	Lipidoses
+1927	PA165108905	Lipidoses NOS
+1928	PA444785	Lipodystrophy
+1929	PA444788	Lipoid Proteinosis of Urbach and Wiethe
+1930	PA444789	Lipoma
+1931	PA165108303	Lipomatosis dolorosa
+1932	PA165108346	Lipoprotein deficiency NOS
+1933	PA444793	Liposarcoma
+1934	PA446591	Liposarcoma, Myxoid
+1935	PA165108748	Listeriosis NOS
+1936	PA166048922	Lithiasis
+1937	PA165108564	Liveborn with birth asphyxia NOS
+1938	PA165108665	Liver abscess NOS
+1939	PA444797	Liver Cirrhosis
+1940	PA444798	Liver Cirrhosis, Alcoholic
+1941	PA444799	Liver Cirrhosis, Biliary
+1942	PA444801	Liver Diseases
+1943	PA444802	Liver Diseases, Alcoholic
+1944	PA165108109	Liver echinococcus unspecified
+1945	PA446436	Liver Failure
+1946	PA446443	Liver Failure, Acute
+1947	PA444804	Liver Neoplasms
+1948	PA444805	Liver Neoplasms, Experimental
+1949	PA447247	liver transplantation
+1950	PA166123310	loeys-dietz syndrome
+1951	PA444807	Long QT Syndrome
+1952	PA446859	Loss of Heterozygosity
+1953	PA165108771	Louping ill
+1954	PA446444	Low Back Pain
+1955	PA165108323	Lower limb anomaly, unspecified
+1956	PA165108631	Lown-Ganong-Levine syndrome
+1957	PA166163564	low on-treatment platelet reactivity
+1958	PA165109012	Ludwig's angina
+1959	PA161614136	Lumbar Disc Herniation
+1960	PA165108271	Lumpy skin disease
+1961	PA444813	Lung Abscess
+1962	PA444814	Lung Diseases
+1963	PA166048739	Lung Diseases, Fungal
+1964	PA446512	Lung Diseases, Interstitial
+1965	PA444816	Lung Diseases, Obstructive
+1966	PA165108755	Lung empyema NOS
+1967	PA444818	Lung Neoplasms
+1968	PA166114457	lung transplantation
+1969	PA165108326	Lupoid rosacea
+1970	PA444819	Lupus erythematosus
+1971	PA444820	Lupus Erythematosus, Cutaneous
+1972	PA444821	Lupus Erythematosus, Discoid
+1973	PA444822	Lupus Erythematosus, Systemic
+1974	PA444823	Lupus Nephritis
+1975	PA444824	Lutembacher Syndrome
+1976	PA444825	Lyme Disease
+1977	PA444826	Lymphadenitis
+1978	PA446575	Lymphangioleiomyomatosis
+1979	PA446574	Lymphangioma, Cystic
+1980	PA165109035	Lymphangioma of unspecified site
+1981	PA165108126	Lymphangiosarcoma
+1982	PA444833	Lymphatic Diseases
+1983	PA165108391	Lymph cyst
+1984	PA444835	Lymphedema
+1985	PA444837	Lymphocytic Choriomeningitis
+1986	PA165108676	Lymphocytic-plasmacytic colitis
+1987	PA444838	Lymphocytosis
+1988	PA165108377	Lymphoid leukemia NOS
+1989	PA444840	Lymphoma
+1990	PA446304	Lymphoma, B-Cell
+1991	PA446727	Lymphoma, B-Cell, Marginal Zone
+1992	PA444841	Lymphoma, Follicular
+1993	PA160680212	Lymphoma, Large B-Cell, Diffuse
+1994	PA446541	Lymphoma, Large-Cell, Anaplastic
+1995	PA446313	Lymphoma, Large-Cell, Diffuse
+1996	PA446307	Lymphoma, Low-Grade
+1997	PA447055	Lymphoma, Mantle-Cell
+1998	PA444845	Lymphoma, Non-Hodgkin
+1999	PA446309	Lymphoma, T-Cell
+2000	PA446320	Lymphoma, T-Cell, Cutaneous
+2001	PA446321	Lymphoma, T-Cell, Peripheral
+2002	PA444848	Lymphopenia
+2003	PA444849	Lymphoproliferative Disorders
+2004	PA446325	Lysosomal Storage Diseases
+2005	PA446552	Machado-Joseph Disease
+2006	PA165109118	Macrocytic anemia of unspecified cause
+2007	PA444851	Macroglossia
+2008	PA165108857	Macrophage activation syndrome
+2009	PA444852	Macrostomia
+2010	PA134850558	Macular Degeneration
+2011	PA444854	Macular Edema
+2012	PA162316739	Maculopapular Exanthema
+2013	PA444856	Magnesium Deficiency
+2014	PA166129560	major adverse cardiac events (mace)
+2015	PA444857	Malabsorption Syndromes
+2016	PA166123209	malaise
+2017	PA444859	Malaria
+2018	PA446391	Malaria, Cerebral
+2019	PA446390	Malaria, Falciparum
+2020	PA446392	Malaria, Vivax
+2021	PA165108877	Male genital organ disease NOS
+2022	PA165108240	Male hematocele
+2023	PA445996	Male Urogenital Diseases
+2024	PA165108358	Malignant atrophic papulosis
+2025	PA444481	Malignant histiocytosis NOS
+2026	PA444863	Malignant Hyperthermia
+2027	PA165108642	Malignant melanoma of soft tissues
+2028	PA165108160	Malignant meningitis
+2029	PA165108276	Malignant myopia
+2030	PA165108134	Malignant tumor of Islets of Langerhans
+2031	PA447295	Malignant tumor of peritoneum
+2032	PA165109165	Mallory-Weiss syndrome
+2033	PA165108669	Malnutrition NOS
+2034	PA444865	Malocclusion
+2035	PA165108695	Malocclusion, Angle class I
+2036	PA165109161	Malocclusion, Angle class II, division 2
+2037	PA444875	Mannosidosis
+2038	PA166048862	Mansonelliasis
+2039	PA165108319	Marburg virus disease
+2040	PA165108546	March fracture
+2041	PA165108269	Marchiafava-Bignami disease
+2042	PA165108181	Marek's disease
+2043	PA444880	Marfan Syndrome
+2044	PA443602	Marijuana Abuse
+2045	PA145007155	Martsolf Syndrome
+2046	PA445600	Mast-Cell Sarcoma
+2047	PA444881	Mastitis
+2048	PA444883	Mastocytosis
+2049	PA165109193	Mastoiditis NOS
+2050	PA165108691	Maternal phenylketonuria
+2051	PA152239578	Matthew-Wood Syndrome
+2052	PA153627658	Maturity-onset Diabetes of the Young Type 5
+2053	PA166048865	Maxillary Sinusitis
+2054	PA444890	Measles
+2055	PA166186062	mechanical heart valve replacement
+2056	PA444891	Meckel Diverticulum
+2057	PA143414733	Meckel syndrome (MKS)
+2058	PA444892	Meconium Aspiration Syndrome
+2059	PA165108731	Median nerve lesions NOS
+2060	PA444690	Medullary Sponge Kidney
+2061	PA444898	Medulloblastoma
+2062	PA444899	Megacolon
+2063	PA166048715	Megacolon, Toxic
+2064	PA165108374	Megakaryocytic leukaemia
+2065	PA165109136	Meige syndrome
+2066	PA444902	Meigs Syndrome
+2067	PA444903	Melanoma
+2068	PA166048727	Melanoma, Amelanotic
+2069	PA444904	Melanoma, Experimental
+2070	PA444905	Melanosis
+2071	PA444906	Melena
+2072	PA165108145	Melkersson's syndrome
+2073	PA444909	Melorheostosis
+2074	PA444910	Memory Disorders
+2075	PA444911	Meniere Disease
+2076	PA166048867	Meningeal Neoplasms
+2077	PA444913	Meningioma
+2078	PA444914	Meningism
+2079	PA444915	Meningitis
+2080	PA446421	Meningitis, Bacterial
+2081	PA166048895	Meningitis, Fungal
+2082	PA166048782	Meningitis, Haemophilus
+2083	PA166048781	Meningitis, Meningococcal
+2084	PA444920	Meningitis, Pneumococcal
+2085	PA165108592	Meningitis - viral NOS
+2086	PA444922	Meningocele
+2087	PA165108207	Meningococcal infection NOS
+2088	PA444924	Meningoencephalitis
+2089	PA165108972	Meningoencephalitis due to acquired toxoplasmosis
+2090	PA444925	Meningomyelocele
+2091	PA444691	Menkes Kinky Hair Syndrome
+2092	PA166048848	Menopause
+2093	PA444926	Menopause, Premature
+2094	PA444927	Menorrhagia
+2095	PA165108954	Menstruation disorder NOS
+2096	PA447208	Mental Disorders
+2097	PA444929	Mental Retardation
+2098	PA161615744	Mental Retardation, Autosomal Recessive
+2099	PA152238066	Mental Retardation, X-Linked
+2100	PA145007173	Mental Retardation, X-Linked, Nonsyndromic
+2101	PA166048787	Mercury Poisoning, Nervous System
+2102	PA165109020	Merkel cell carcinoma
+2103	PA166048869	Mesenteric Vascular Occlusion
+2104	PA165109170	Mesoblastic nephroma
+2105	PA444937	Mesothelioma
+2106	PA166048728	Mesothelioma, Cystic
+2107	PA444938	Metabolic Diseases
+2108	PA162370415	Metabolic Syndrome
+2109	PA444939	Metabolism, Inborn Errors
+2110	PA444941	Metaplasia
+2111	PA166119022	methamphetamine dependence
+2112	PA444942	Methemoglobinemia
+2113	PA162370428	Methylmalonic acidemia
+2114	PA162372626	Microcephalic Osteodysplastic Primordial Dwarfism Type II (MOPD II)
+2115	PA444944	Microcephaly
+2116	PA165108483	Microcephaly, normal intelligence and immunodeficiency
+2117	PA165108803	Micrognathism unspecified
+2118	PA444946	Microphthalmos
+2119	PA165109167	Microscopic colitis
+2120	PA166180889	microscopic polyangiitis
+2121	PA166048901	Microsporidiosis
+2122	PA165108685	Microstomia
+2123	PA162372625	Microtia
+2124	PA446515	Microvascular Angina
+2125	PA162355648	microvillus inclusion disease
+2126	PA165108773	Midborderline leprosy
+2127	PA165108144	Middle lobe syndrome
+2128	PA165108779	Migraine NOS
+2129	PA447004	Migraine with Aura
+2130	PA444949	Migraine without Aura
+2131	PA165108444	Mikulicz's disease
+2132	PA446261	Miosis
+2133	PA165108407	Missed abortion
+2134	PA444952	Mite Infestations
+2135	PA447172	Mitochondrial Diseases
+2136	PA446467	Mitochondrial Encephalomyopathies
+2137	PA446468	Mitochondrial Myopathies
+2138	PA444953	Mitral Valve Insufficiency
+2139	PA444954	Mitral Valve Prolapse
+2140	PA444955	Mitral Valve Stenosis
+2141	PA165108671	Mixed gonadal dysgenesis
+2142	PA446581	Mixed Tumor, Malignant
+2143	PA447008	Mobius Syndrome
+2144	PA444958	Molluscum Contagiosum
+2145	PA165108725	Monckeberg's medial sclerosis
+2146	PA165108890	Mongolian spot
+2147	PA444962	Monosomy
+2148	PA447209	Mood Disorders
+2149	PA444965	Morphine Dependence
+2150	PA165108423	Mossy foot disease
+2151	PA444966	Motion Sickness
+2152	PA446329	Motor Neuron Disease
+2153	PA165109119	Mousepox
+2154	PA166048882	Mouth Diseases
+2155	PA444972	Mouth Neoplasms
+2156	PA444974	Movement Disorders
+2157	PA152238063	Mowat-Wilson Syndrome
+2158	PA444975	Moyamoya Disease
+2159	PA165108321	MPTP-induced parkinsonism
+2160	PA446982	MPTP Poisoning
+2161	PA165108915	Mucocutaneous-lymphangitic paracoccidioidomycosis
+2162	PA444977	Mucocutaneous Lymph Node Syndrome
+2163	PA165108316	Mucoid otitis media NOS
+2164	PA444978	Mucolipidoses
+2165	PA444979	Mucopolysaccharidoses
+2166	PA444784	Mucopolysaccharidosis I
+2167	PA446340	Mucopolysaccharidosis II
+2168	PA446344	Mucopolysaccharidosis VII
+2169	PA166122058	mucositis
+2170	PA165108656	Muir–Torre syndrome
+2171	PA165108995	Mulibrey nanism syndrome
+2172	PA166128826	multi-core congenital myopathy
+2173	PA447140	Multicystic Dysplastic Kidney
+2174	PA445070	Multiple Endocrine Neoplasia
+2175	PA446760	Multiple Endocrine Neoplasia Type 1
+2176	PA446772	Multiple Endocrine Neoplasia Type 2a
+2177	PA446773	Multiple Endocrine Neoplasia Type 2b
+2178	PA165108903	Multiple lentigines syndrome
+2179	PA444985	Multiple Myeloma
+2180	PA444986	Multiple Organ Failure
+2181	PA165108547	Multiple personality disorder
+2182	PA165108492	Multiple pregnancy NOS, unspecified
+2183	PA152238425	Multiple Pterygium Syndrome
+2184	PA444987	Multiple Sclerosis
+2185	PA447057	Multiple Sclerosis, Chronic Progressive
+2186	PA447058	Multiple Sclerosis, Relapsing-Remitting
+2187	PA165108898	Multiple sulphatase deficiency
+2188	PA165108710	Multiple symmetrical lipomatosis
+2189	PA145007166	Multiple synostosis syndrome
+2190	PA446851	Multiple System Atrophy
+2191	PA444988	Multiple Trauma
+2192	PA444989	Mumps
+2193	PA165108196	Munchausen's syndrome
+2194	PA165108477	Murine typhus
+2195	PA444990	Muscle Cramp
+2196	PA153627690	Muscle Glycogen Storage Disease 0
+2197	PA444992	Muscle Hypotonia
+2198	PA446796	Muscle Neoplasms
+2199	PA165109117	Muscle phosphofructokinase deficiency
+2200	PA444993	Muscle Rigidity
+2201	PA444994	Muscle Spasticity
+2202	PA446788	Muscle Weakness
+2203	PA444995	Muscular Atrophy
+2204	PA444996	Muscular Atrophy, Spinal
+2205	PA444997	Muscular Diseases
+2206	PA447129	Muscular Disorders, Atrophic
+2207	PA444998	Muscular Dystrophies
+2208	PA447025	Muscular Dystrophy, Duchenne
+2209	PA447026	Muscular Dystrophy, Emery-Dreifuss
+2210	PA447027	Muscular Dystrophy, Facioscapulohumeral
+2211	PA165109130	Muscular hypertonicity
+2212	PA445000	Musculoskeletal Abnormalities
+2213	PA445001	Musculoskeletal Diseases
+2214	PA166122208	musculoskeletal pain
+2215	PA445003	Mutism
+2216	PA157379134	Myalgia unspecified
+2217	PA445004	Myasthenia Gravis
+2218	PA447060	Myasthenia Gravis, Autoimmune, Experimental
+2219	PA447122	Myasthenia Gravis, Neonatal
+2220	PA446994	Myasthenic Syndromes, Congenital
+2221	PA444855	Mycetoma
+2222	PA165109067	Mycobacterial disease NOS
+2223	PA165108143	Mycobacterial infection
+2224	PA166048776	Mycobacterium avium-intracellulare Infection
+2225	PA128407009	Mycobacterium Infections
+2226	PA445007	Mycoplasma Infections
+2227	PA445009	Mycoses
+2228	PA445010	Mycosis Fungoides
+2229	PA446262	Mydriasis
+2230	PA445011	Myelitis
+2231	PA166048856	Myelitis, Transverse
+2232	PA445013	Myelodysplastic Syndromes
+2233	PA165108786	Myelophthisic anaemia
+2234	PA445016	Myeloproliferative Disorders
+2235	PA165817398	Myelosuppression
+2236	PA445019	Myocardial Infarction
+2237	PA446459	Myocardial Ischemia
+2238	PA446145	Myocardial Reperfusion Injury
+2239	PA446530	Myocardial Stunning
+2240	PA445020	Myocarditis
+2241	PA446925	Myoclonic Epilepsies, Progressive
+2242	PA446924	Myoclonic Epilepsy, Juvenile
+2243	PA445021	Myoclonus
+2244	PA165108414	Myoclonus epilepsy AND ragged red fibers
+2245	PA445024	Myoglobinuria
+2246	PA447023	Myokymia
+2247	PA445025	Myoma
+2248	PA446534	Myopathies, Nemaline
+2249	PA447109	Myopathies, Structural, Congenital
+2250	PA447048	Myopathy, Central Core
+2251	PA165108692	Myopathy secondary to deficiency of selenium and/or vitamin E
+2252	PA445027	Myosarcoma
+2253	PA445028	Myositis
+2254	PA445030	Myotonia
+2255	PA445032	Myotonia Congenita
+2256	PA447130	Myotonic Disorders
+2257	PA445031	Myotonic Dystrophy
+2258	PA166048742	Myxedema
+2259	PA445034	Myxoma
+2260	PA166114909	n-acetyl glutamate synthetase deficiency
+2261	PA165108966	Naevus of Ota
+2262	PA165108569	Nail disease NOS
+2263	PA445038	Nail-Patella Syndrome
+2264	PA445042	Narcolepsy
+2265	PA445044	Nasal Polyps
+2266	PA445046	Nasopharyngeal Neoplasms
+2267	PA445047	Nasopharyngitis
+2268	PA165109102	Natal tooth
+2269	PA445048	Nausea
+2270	PA166048837	Necatoriasis
+2271	PA446840	Neck Pain
+2272	PA445051	Necrosis
+2273	PA165108785	Necrosis of the pulp NOS
+2274	PA165108451	Necrotizing sialometaplasia
+2275	PA166048878	Neisseriaceae Infections
+2276	PA165108536	Nelson syndrome
+2277	PA445053	Nematode Infections
+2278	PA165108809	Neonatal Abstinence Syndrome
+2279	PA165108135	Neonatal alloimmune thrombocytopenia
+2280	PA151958338	Neonatal death
+2281	PA166248761	neonatal-onset multisystemic inflammatory disease
+2282	PA166048779	Neonate
+2283	PA445057	Neoplasm Invasiveness
+2284	PA445058	Neoplasm Metastasis
+2285	PA165108442	Neoplasm of unspecified nature of digestive system
+2286	PA446714	Neoplasm, Residual
+2287	PA445062	Neoplasms
+2288	PA446668	Neoplasms, Basal Cell
+2289	PA445066	Neoplasms, Germ Cell and Embryonal
+2290	PA445068	Neoplasms, Glandular and Epithelial
+2291	PA166048737	Neoplasms, Hormone-Dependent
+2292	PA446675	Neoplasms, Neuroepithelial
+2293	PA445074	Neoplasms, Radiation-Induced
+2294	PA446357	Neoplasms, Second Primary
+2295	PA446680	Neoplasms, Squamous Cell
+2296	PA445056	Neoplastic Cells, Circulating
+2297	PA445078	Neoplastic Processes
+2298	PA445079	Neoplastic Syndromes, Hereditary
+2299	PA165108574	Neovascular glaucoma
+2300	PA445080	Neovascularization, Pathologic
+2301	PA445081	Nephritis
+2302	PA445083	Nephritis, Interstitial
+2303	PA445085	Nephrocalcinosis
+2304	PA165108186	Nephrogenic systemic fibrosis
+2305	PA162355520	nephrolithiasis
+2306	PA445086	Nephrosclerosis
+2307	PA445087	Nephrosis
+2308	PA445089	Nephrotic Syndrome
+2309	PA162263533	nephrotoxicity
+2310	PA445090	Nerve Compression Syndromes
+2311	PA445091	Nerve Degeneration
+2312	PA446688	Nerve Sheath Neoplasms
+2313	PA447061	Nervous System Autoimmune Disease, Experimental
+2314	PA445093	Nervous System Diseases
+2315	PA445092	Nervous System Malformations
+2316	PA445094	Nervous System Neoplasms
+2317	PA445096	Neuralgia
+2318	PA445095	Neural Tube Defects
+2319	PA445097	Neurilemmoma
+2320	PA445098	Neuritis
+2321	PA445099	Neuritis, Autoimmune, Experimental
+2322	PA446875	Neurobehavioral Manifestations
+2323	PA445100	Neuroblastoma
+2324	PA446858	Neurodegenerative Diseases
+2325	PA446522	Neuroectodermal Tumors
+2326	PA446625	Neuroectodermal Tumors, Primitive
+2327	PA446713	Neuroendocrine Tumors
+2328	PA445102	Neurofibroma
+2329	PA446473	Neurofibromatoses
+2330	PA445103	Neurofibromatosis 1
+2331	PA446338	Neurofibromatosis 2
+2332	PA446690	Neurofibrosarcoma
+2333	PA165108815	Neurogenic bowel
+2334	PA165108980	Neuroinvasive Eastern equine encephalitis virus infection
+2335	PA445104	Neuroleptic Malignant Syndrome
+2336	PA445105	Neurologic Manifestations
+2337	PA445107	Neuroma, Acoustic
+2338	PA445108	Neuromuscular Diseases
+2339	PA445109	Neuromyelitis Optica
+2340	PA445110	Neuronal Ceroid-Lipofuscinoses
+2341	PA162263525	neuropathic pain
+2342	PA445112	Neurosyphilis
+2343	PA447210	Neurotic Disorders
+2344	PA446975	Neurotoxicity Syndromes
+2345	PA165108516	Neutropaenic enterocolitis
+2346	PA445113	Neutropenia
+2347	PA166123555	neutropenic sepsis
+2348	PA446696	Nevi and Melanomas
+2349	PA445114	Nevus
+2350	PA445116	Nevus, Pigmented
+2351	PA445117	Newcastle Disease
+2352	PA445118	Niemann-Pick Diseases
+2353	PA165108312	Niemann-Pick disease, type A
+2354	PA165109085	Niemann-Pick disease, type B
+2355	PA445129	Night Blindness
+2356	PA165108923	Nocardiosis NOS
+2357	PA446923	Nocturnal Myoclonus Syndrome
+2358	PA445120	Noma
+2359	PA447296	nondiabetic proteinuric nephropathy
+2360	PA165109010	Nonspecific mesenteric lymphadenitis NOS
+2361	PA152246680	Nonsyndromic Enlargement of Vestibular Aqueduct
+2362	PA445123	Noonan Syndrome
+2363	PA165108285	Normal pressure hydrocephalus
+2364	PA164946504	normal tension glaucoma
+2365	PA166048726	Nutritional and Metabolic Diseases
+2366	PA165109164	Nutritional deficiency NOS
+2367	PA445127	Nutrition Disorders
+2368	PA447028	Nystagmus, Congenital
+2369	PA445130	Nystagmus, Pathologic
+2370	PA165108390	Oat cell carcinoma of lung
+2371	PA445131	Obesity
+2372	PA445321	Obesity Hypoventilation Syndrome
+2373	PA445133	Obesity, Morbid
+2374	PA447211	Obsessive-Compulsive Disorder
+2375	PA444703	Obstetric Labor Complications
+2376	PA165108189	Obstructive jaundice NOS
+2377	PA165108841	Obturator hernia NOS
+2378	PA165108337	Occupational allergic contact dermatitis
+2379	PA165108421	Occupational dermatitis
+2380	PA445135	Occupational Diseases
+2381	PA445137	Ocular Hypertension
+2382	PA446233	Ocular Hypotension
+2383	PA446246	Ocular Motility Disorders
+2384	PA165108467	Ocular onchocerciasis
+2385	PA165108193	Ocular penetration, unspecified
+2386	PA165108341	Ocular toxoplasmosis
+2387	PA445138	Oculocerebrorenal Syndrome
+2388	PA165108250	Oculodermal melanocytosis
+2389	PA165108353	Oculopharyngeal muscular dystrophy
+2390	PA445139	Odontogenic Cysts
+2391	PA153627455	Odonto-onycho-dermal Dysplasia
+2392	PA443379	Olfaction Disorders
+2393	PA165108129	Olfactory neuroblastoma
+2394	PA445143	Oligodendroglioma
+2395	PA446271	Oligohydramnios
+2396	PA445145	Oligospermia
+2397	PA445146	Oliguria
+2398	PA445147	Olivopontocerebellar Atrophies
+2399	PA165108388	Omsk hemorrhagic fever
+2400	PA166048860	Onchocerciasis
+2401	PA166048809	Onychomycosis
+2402	PA445149	Oophoritis
+2403	PA165108911	Open-bite unspecified
+2404	PA165108962	Open fracture of bones, unspecified
+2405	PA165108742	Operation wound disruption NOS
+2406	PA165108874	Ophthalmic herpes simplex NOS
+2407	PA445153	Ophthalmoplegia
+2408	PA446471	Ophthalmoplegia, Chronic Progressive External
+2409	PA445043	Opioid-Related Disorders
+2410	PA166048832	Opisthorchiasis
+2411	PA152241932	Opitz-Kaveggia syndrome
+2412	PA153627456	Opitz Trigonocephaly
+2413	PA445155	Opportunistic Infections
+2414	PA165108348	Opsoclonus-myoclonus syndrome
+2415	PA446140	Optic Atrophies, Hereditary
+2416	PA445156	Optic Atrophy
+2417	PA447176	Optic Atrophy, Autosomal Dominant
+2418	PA447177	Optic Atrophy, Hereditary, Leber
+2419	PA445157	Optic Nerve Diseases
+2420	PA447013	Optic Nerve Glioma
+2421	PA165108519	Optic neuritis NOS
+2422	PA165108399	Oral aphthae NOS
+2423	PA166048843	Oral Hemorrhage
+2424	PA445159	Oral Manifestations
+2425	PA165108300	Oral mucosa leukoplakia NOS
+2426	PA165108650	Oral submucosal fibrosis
+2427	PA165108211	Oral tuberculosis
+2428	PA446815	Oral Ulcer
+2429	PA165109144	Orbital cellulitis
+2430	PA446373	Orbital Pseudotumor
+2431	PA165109188	Orbit disorder NOS
+2432	PA165108919	Orchitis NOS
+2433	PA165108558	Orchitis unspecified
+2434	PA165108543	Orf virus disease
+2435	PA133888799	Organ Transplantation
+2436	PA165108778	Ornithine carbamoyltransferase deficiency
+2437	PA165109105	Orofacial granulomatosis
+2438	PA445168	Oropharyngeal Neoplasms
+2439	PA445172	Osteitis Deformans
+2440	PA165108436	Osteitis fibrosa cystica generalisata
+2441	PA445174	Osteoarthritis
+2442	PA446111	Osteoarthritis, Hip
+2443	PA447021	Osteoarthritis, Knee
+2444	PA165108832	Osteochondritis NOS
+2445	PA445179	Osteochondrodysplasias
+2446	PA446244	Osteochondroma
+2447	PA445180	Osteogenesis Imperfecta
+2448	PA162630456	Osteogenesis imperfecta, perinatal lethal
+2449	PA166048923	Osteolysis
+2450	PA445183	Osteoma
+2451	PA445185	Osteomalacia
+2452	PA445187	Osteonecrosis
+2453	PA166256642	osteonecrosis of jaw caused by drug
+2454	PA445188	Osteopetrosis
+2455	PA445189	Osteopoikilosis
+2456	PA445190	Osteoporosis
+2457	PA446214	Osteoporosis, Postmenopausal
+2458	PA445601	Osteosarcoma
+2459	PA445192	Osteosclerosis
+2460	PA165108393	Ostium secundum type atrial septal defect
+2461	PA445194	Otitis
+2462	PA165108880	Otitis externa NOS
+2463	PA445196	Otitis Media
+2464	PA445201	Otosclerosis
+2465	PA162263534	Ototoxicity
+2466	PA445202	Ovarian Cysts
+2467	PA445203	Ovarian Diseases
+2468	PA446361	Ovarian Failure, Premature
+2469	PA165108853	Ovarian hyperstimulation syndrome
+2470	PA445204	Ovarian Neoplasms
+2471	PA166123207	overall survival
+2472	PA166123298	over-anticoagulation
+2473	PA446199	Overdose
+2474	PA165108924	Overgrowth of filiform papillae
+2475	PA165109057	Ovotestis
+2476	PA165108617	Pachydermoperiostosis of nail
+2477	PA165108548	Pachydermoperiostosis syndrome
+2478	PA445207	Paget's Disease, Extramammary
+2479	PA445206	Paget's Disease, Mammary
+2480	PA165108105	Paget's disease NOS
+2481	PA165108396	Paget's disease OS
+2482	PA445208	Pain
+2483	PA166181003	pain crisis
+2484	PA443334	Pain Insensitivity, Congenital
+2485	PA166048854	Pain, Intractable
+2486	PA445210	Pain, Postoperative
+2487	PA165108862	Pallister-Hall syndrome
+2488	PA445212	Pallor
+2489	PA445213	Pancoast Syndrome
+2490	PA166114459	pancreas transplant
+2491	PA445215	Pancreatic Diseases
+2492	PA165108713	Pancreatic fistula
+2493	PA445218	Pancreatic Neoplasms
+2494	PA445220	Pancreatitis
+2495	PA445221	Pancytopenia
+2496	PA447212	Panic Disorder
+2497	PA446148	Panniculitis
+2498	PA446149	Panniculitis, Lupus Erythematosus
+2499	PA165109133	Panophthalmitis
+2500	PA444338	Pantothenate Kinase-Associated Neurodegeneration
+2501	PA445224	Papilledema
+2502	PA445225	Papilloma
+2503	PA446673	Papilloma, Intraductal
+2504	PA447189	Papillomavirus Infections
+2505	PA165108287	Papillon–Lefèvre syndrome
+2506	PA165108272	Papulosquamous dermatosis
+2507	PA165108635	Paracoccidioidomycosis NOS
+2508	PA445229	Paraganglioma
+2509	PA445230	Paraganglioma, Extra-Adrenal
+2510	PA445232	Parakeratosis
+2511	PA445235	Paralyses, Familial Periodic
+2512	PA445233	Paralysis
+2513	PA447049	Paralysis, Hyperkalemic Periodic
+2514	PA165108948	Parametritis unspecified
+2515	PA165108347	Paraneoplastic cerebellar degeneration
+2516	PA445077	Paraneoplastic Endocrine Syndromes
+2517	PA445241	Paraneoplastic Syndromes
+2518	PA447017	Paraneoplastic Syndromes, Nervous System
+2519	PA165108325	Paranoid personality disorder
+2520	PA165108688	Paranoid psychosis NOS
+2521	PA165108818	Paranoid schizophrenia NOS
+2522	PA447010	Paraparesis
+2523	PA447011	Paraparesis, Spastic
+2524	PA165109114	Paraphimosis
+2525	PA445243	Paraplegia
+2526	PA165108554	Paraproteinemia NOS
+2527	PA165109145	Parapsoriasis NOS
+2528	PA165109056	Parapsoriasis unspecified
+2529	PA446743	Parasitemia
+2530	PA445246	Parasitic Diseases
+2531	PA447046	Parasomnias
+2532	PA165108163	Parathyroid disorder NOS
+2533	PA165108482	Paratyphoid fever NOS
+2534	PA445252	Paresis
+2535	PA445253	Paresthesia
+2536	PA165108956	Parkes Weber syndrome
+2537	PA445254	Parkinson Disease
+2538	PA445256	Parkinson Disease, Secondary
+2539	PA447062	Parkinsonian Disorders
+2540	PA161907430	Parkinsonian-pyramidal syndrome
+2541	PA445259	Parotid Neoplasms
+2542	PA445260	Parotitis
+2543	PA165108648	Paroxysmal hemoglobinuria NOS
+2544	PA166122772	paroxysmal nocturnal hemoglobinuria
+2545	PA165108155	Paroxysmal tachycardia NOS
+2546	PA165109051	Pars planitis
+2547	PA164924611	Partial congenital absence of teeth
+2548	PA445263	Parvoviridae Infections
+2549	PA165108501	Passive aggressive personality disorder
+2550	PA165109140	Pasteurellosis NOS
+2551	PA165109175	Patent foramen ovale
+2552	PA165108469	Pathological tooth resorption NOS
+2553	PA445265	Pathologic Processes
+2554	PA445267	Pelger-Huet Anomaly
+2555	PA165109064	Peliosis hepatis
+2556	PA447022	Pelizaeus-Merzbacher Disease
+2557	PA165108589	Pelvic cellulitis unspecified
+2558	PA164924624	Pelvic Floor Disorders
+2559	PA443279	Pelvic Inflammatory Disease
+2560	PA446535	Pelvic Pain
+2561	PA445272	Pemphigoid, Bullous
+2562	PA445273	Pemphigus
+2563	PA152246679	Pendred's syndrome
+2564	PA165109003	Penile disorders NOS
+2565	PA445275	Penile Induration
+2566	PA447240	Peptic Ulcer
+2567	PA445278	Peptic Ulcer Hemorrhage
+2568	PA165109135	Periarthritis NOS
+2569	PA445287	Pericardial Effusion
+2570	PA445288	Pericarditis
+2571	PA165108626	Perinatal necrotizing enterocolitis
+2572	PA165108515	Perinephritis
+2573	PA165108799	Perineurial cyst
+2574	PA445296	Periodontal Diseases
+2575	PA445297	Periodontal Pocket
+2576	PA445298	Periodontitis
+2577	PA166176782	periorbital edema
+2578	PA445301	Peripheral Nervous System Diseases
+2579	PA165108619	Peripheral neuroepithelioma
+2580	PA153619833	Peripheral Vascular Diseases
+2581	PA445303	Peritoneal Diseases
+2582	PA445305	Peritonitis
+2583	PA445958	Peritonitis, Tuberculous
+2584	PA165108159	Peritonsillar abscess
+2585	PA165108579	Periventricular leucomalacia
+2586	PA446786	Peroxisomal Disorders
+2587	PA162373036	Perry syndrome
+2588	PA165108495	Persistent fetal circulation
+2589	PA165109139	Persistent fetal circulation syndrome
+2590	PA150527845	Persistent Hyperinsulinemia Hypoglycemia of Infancy
+2591	PA165108790	Persistent hyperplasia of thymus
+2592	PA165108891	Persistent hyperplastic primary vitreous
+2593	PA165109040	Persistent pulmonary hypertension of the newborn
+2594	PA165108612	Persistent vegetative state
+2595	PA447213	Personality Disorders
+2596	PA165108468	Peste des petits ruminants
+2597	PA445307	Peutz-Jeghers Syndrome
+2598	PA165109089	Phantom limb syndrome
+2599	PA165108279	Pharyngeal disease unspecified
+2600	PA445311	Pharyngeal Neoplasms
+2601	PA445312	Pharyngitis
+2602	PA445314	Phenylketonurias
+2603	PA445315	Pheochromocytoma
+2604	PA445316	Philadelphia Chromosome
+2605	PA445318	Phlebitis
+2606	PA165108256	Phlebotomus fever NOS
+2607	PA447214	Phobic Disorders
+2608	PA165108405	Phosphatidylcholine-sterol acyltransferase deficiency
+2609	PA447085	Photophobia
+2610	PA445320	Photosensitivity Disorders
+2611	PA447077	Pick Disease of the Brain
+2612	PA446281	Piebaldism
+2613	PA445323	Piedra
+2614	PA445325	Pigmentation Disorders
+2615	PA165108350	Pigmented neuroectodermal tumour of infancy
+2616	PA165108927	Pilonidal sinus/cyst NOS
+2617	PA165108294	Pinealoma
+2618	PA165108485	Pinta NOS
+2619	PA152238062	Pitt-Hopkins Syndrome
+2620	PA152210107	Pituitary adenoma
+2621	PA165108950	Pituitary apoplexy
+2622	PA165108352	Pituitary dependent hypercortisolism
+2623	PA445330	Pituitary Diseases
+2624	PA445331	Pituitary Neoplasms
+2625	PA165108560	Pityriasis NOS
+2626	PA165108205	Pityriasis rosea
+2627	PA165108219	Pityriasis versicolor
+2628	PA165108674	Placental abruption NOS
+2629	PA165108932	Placental abruption unspecified
+2630	PA445337	Placental Insufficiency
+2631	PA165108800	Placental site trophoblastic tumor
+2632	PA445336	Placenta Previa
+2633	PA445338	Plague
+2634	PA166048872	Plant Poisoning
+2635	PA166159324	plasma alanine aminotransferase level
+2636	PA446372	Plasma Cell Granuloma, Pulmonary
+2637	PA445340	Plasmacytoma
+2638	PA166123766	platelet aggregation
+2639	PA166128371	platelet aggregation inhibition
+2640	PA166124406	platelet reactivity
+2641	PA445341	Platelet Storage Pool Deficiency
+2642	PA165108119	Platybasia
+2643	PA445343	Pleural Diseases
+2644	PA445344	Pleural Effusion
+2645	PA446266	Pleural Effusion, Malignant
+2646	PA165108895	Pleural empyema NOS
+2647	PA165108651	Pleural fibroma
+2648	PA445346	Pleurisy
+2649	PA165108993	Pleurobronchopneumonia
+2650	PA165108259	Plexiform neurofibroma
+2651	PA165109128	Plummer-Vinson syndrome
+2652	PA165108940	Pneumatosis cystoides intestinalis
+2653	PA166048790	Pneumococcal Infections
+2654	PA165108473	Pneumoconiosis NOS
+2655	PA446370	Pneumocystis Infections
+2656	PA445355	Pneumonia
+2657	PA445356	Pneumonia, Aspiration
+2658	PA446721	Pneumonia, Bacterial
+2659	PA166048876	Pneumonia, Mycoplasma
+2660	PA166048849	Pneumonia, Pneumococcal
+2661	PA445361	Pneumonia, Pneumocystis
+2662	PA445365	Pneumonia, Viral
+2663	PA166124223	pneumonitis
+2664	PA165108188	Pneumoretroperitoneum
+2665	PA445368	Pneumothorax
+2666	PA445371	Poisoning
+2667	PA165108684	Poisoning due to venomous spider NOS
+2668	PA165109005	Poland anomaly
+2669	PA445373	Poliomyelitis
+2670	PA165108488	Polyarteritis nodosa NOS
+2671	PA445375	Polychondritis, Relapsing
+2672	PA446413	Polycystic Kidney, Autosomal Dominant
+2673	PA446429	Polycystic Kidney, Autosomal Recessive
+2674	PA444689	Polycystic Kidney Diseases
+2675	PA445376	Polycystic Ovary Syndrome
+2676	PA445377	Polycythemia
+2677	PA445378	Polycythemia Vera
+2678	PA446532	Polydactyly
+2679	PA446409	Polyendocrinopathies, Autoimmune
+2680	PA444497	Polyhydramnios
+2681	PA445379	Polymyalgia Rheumatica
+2682	PA446477	Polymyositis
+2683	PA445380	Polyneuropathies
+2684	PA165108979	Polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy, and skin changes
+2685	PA445382	Polyps
+2686	PA445385	Polyuria
+2687	PA165108730	Pompholyx unspecified
+2688	PA153627462	Pontocerebellar Hypoplasia
+2689	PA166048717	Porphyria, Acute Intermittent
+2690	PA446446	Porphyria Cutanea Tarda
+2691	PA446435	Porphyria, Erythropoietic
+2692	PA446447	Porphyria, Hepatoerythropoietic
+2693	PA165108700	Porphyria NOS
+2694	PA445388	Porphyrias
+2695	PA446437	Porphyrias, Hepatic
+2696	PA165108389	Porphyrinopathy
+2697	PA166048921	Positive-Pressure Respiration, Intrinsic
+2698	PA166122649	postanesthesia apnea
+2699	PA165108214	Postcardiotomy syndrome
+2700	PA165108914	Postcholecystectomy syndrome
+2701	PA165109096	Postconcussion syndrome
+2702	PA165108572	Postencephalitic parkinsonism
+2703	PA165110266	Posterior Cortical Atrophy
+2704	PA165108591	Posterior cyclitis
+2705	PA165108161	Posterior inferior cerebellar artery syndrome
+2706	PA165108122	Posterior tibial neuropathy
+2707	PA165108328	Posterior uveitis NOS
+2708	PA165108264	Postgastric surgery syndrome NOS
+2709	PA445391	Postoperative Complications
+2710	PA446805	Postoperative Hemorrhage
+2711	PA446970	Postoperative Nausea and Vomiting
+2712	PA165108206	Postoperative wound breakdown
+2713	PA165108460	Postoperative wound infection, unspecified
+2714	PA154400823	post-orthopedic
+2715	PA165108823	Postpartum hemorrhage NOS
+2716	PA165108383	Postpartum thyroiditis
+2717	PA165108151	Post-pericardiotomy syndrome
+2718	PA165108565	Postphlebitic syndrome
+2719	PA165108223	Post poliomyelitis syndrome
+2720	PA162263526	Poststroke depression
+2721	PA165108584	Post-term pregnancy NOS
+2722	PA165108912	Post-term pregnancy unspecified
+2723	PA165109081	Post-traumatic coma
+2724	PA165108945	Post-traumatic epilepsy
+2725	PA165108526	Postural orthostatic tachycardia syndrome
+2726	PA165108657	Postvaricella encephalitis
+2727	PA446833	Pouchitis
+2728	PA445397	Prader-Willi Syndrome
+2729	PA445401	Precancerous Conditions
+2730	PA446155	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+2731	PA446166	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+2732	PA445398	Pre-Eclampsia
+2733	PA166048714	Pregnancy
+2734	PA166048752	Pregnancy, Abdominal
+2735	PA445403	Pregnancy Complications
+2736	PA166048919	Pregnancy Complications, Hematologic
+2737	PA166048789	Pregnancy Complications, Infectious
+2738	PA166048771	Pregnancy First Trimester
+2739	PA165108711	Pregnancy-related A-G syndrome
+2740	PA166048879	Pregnancy Second Trimester
+2741	PA166048749	Pregnancy Third Trimester
+2742	PA445413	Preleukemia
+2743	PA444704	Premature Birth
+2744	PA165109014	Premature rupture of membranes NOS
+2745	PA165108567	Premature rupture of membranes unspecified
+2746	PA166048826	Premenstrual Syndrome
+2747	PA445416	Presbyopia
+2748	PA165109123	Presenile gangrene
+2749	PA166048778	Preterm Infant
+2750	PA165108606	Preterm rupture of membranes
+2751	PA445417	Priapism
+2752	PA166252441	primary central nervous system lymphoma
+2753	PA165108198	Primary chronic pseudo-obstruction of colon
+2754	PA162370424	Primary Failure of Tooth Eruption
+2755	PA166248341	primary graft failure
+2756	PA445015	Primary Myelofibrosis
+2757	PA165108893	Prinzmetal angina
+2758	PA446439	Prion Diseases
+2759	PA135057241	Proarrhythmia
+2760	PA445418	Proctitis
+2761	PA166048916	Proctocolitis
+2762	PA445420	Progeria
+2763	PA445421	Prognathism
+2764	PA166123026	progression-free survival
+2765	PA165108296	Progressive cerebellar tremor
+2766	PA165108454	Progressive pneumonia of sheep
+2767	PA446107	Prolactinoma
+2768	PA445422	Prolapse
+2769	PA165108450	Prolonged pregnancy NOS
+2770	PA162370426	Propionic acidemia
+2771	PA165108830	Prostatic disorders NOS
+2772	PA445424	Prostatic Hyperplasia
+2773	PA446799	Prostatic Intraepithelial Neoplasia
+2774	PA445425	Prostatic Neoplasms
+2775	PA165109171	Prostatitis NOS
+2776	PA166245601	protein adduct
+2777	PA165108817	Protein-calorie malnutrition NOS
+2778	PA446903	Protein C Deficiency
+2779	PA445428	Protein Deficiency
+2780	PA165108904	Protein deficiency disease
+2781	PA445430	Protein-Losing Enteropathies
+2782	PA446729	Protein S Deficiency
+2783	PA445431	Proteinuria
+2784	PA165109113	Proteus infection NOS
+2785	PA446369	Proteus Syndrome
+2786	PA166048885	Protozoan Infections
+2787	PA445436	Prurigo
+2788	PA165108736	Prurigo NOS
+2789	PA445437	Pruritus
+2790	PA165108292	Pruritus ani
+2791	PA165108320	Pruritus of vulva
+2792	PA445440	Pseudarthrosis
+2793	PA445441	Pseudohermaphroditism
+2794	PA445442	Pseudohypoaldosteronism
+2795	PA445443	Pseudohypoparathyroidism
+2796	PA446823	Pseudolymphoma
+2797	PA166048731	Pseudomonas Infections
+2798	PA445445	Pseudomyxoma Peritonei
+2799	PA446856	Pseudophakia
+2800	PA445446	Pseudopregnancy
+2801	PA165108942	Pseudopseudohypoparathyroidism
+2802	PA445448	Pseudorabies
+2803	PA445449	Pseudotumor Cerebri
+2804	PA445450	Pseudoxanthoma Elasticum
+2805	PA445165	Psittacosis
+2806	PA445451	Psoriasis
+2807	PA165108284	Psychogenic syndromes NOS
+2808	PA165108770	Psychologic vaginismus
+2809	PA445452	Psychomotor Agitation
+2810	PA165108839	Psychomotor epilepsy
+2811	PA445454	Psychophysiologic Disorders
+2812	PA165109034	Psychosomatic disorder NOS
+2813	PA447215	Psychotic Disorders
+2814	PA445457	Pterygium
+2815	PA445458	Puberty, Delayed
+2816	PA445459	Puberty, Precocious
+2817	PA165108302	Pulmonary alveolar proteinosis
+2818	PA446751	Pulmonary Atresia
+2819	PA447178	Pulmonary Disease, Chronic Obstructive
+2820	PA445464	Pulmonary Edema
+2821	PA445465	Pulmonary Embolism
+2822	PA445466	Pulmonary Emphysema
+2823	PA445467	Pulmonary Eosinophilia
+2824	PA445468	Pulmonary Fibrosis
+2825	PA445469	Pulmonary Heart Disease
+2826	PA165108384	Pulmonary infundibular stenosis
+2827	PA445471	Pulmonary Valve Insufficiency
+2828	PA445472	Pulmonary Valve Stenosis
+2829	PA165109186	Pulmonary veno-occlusive disease
+2830	PA165109150	Pulpitis NOS
+2831	PA165108687	Pure autonomic failure
+2832	PA165108203	Pure gonadal dysgenesis 46,XY
+2833	PA445476	Purine-Pyrimidine Metabolism, Inborn Errors
+2834	PA445477	Purpura
+2835	PA166048753	Purpura, Thrombocytopenic
+2836	PA166048851	Purpura, Thrombocytopenic, Idiopathic
+2837	PA445481	Purpura, Thrombotic Thrombocytopenic
+2838	PA165108229	Purulent conjunctivitis
+2839	PA165109131	Purulent otitis media NOS
+2840	PA165108724	Pyelitis unspecified
+2841	PA445483	Pyelonephritis
+2842	PA445485	Pyloric Stenosis
+2843	PA445486	Pyoderma
+2844	PA446500	Pyoderma Gangrenosum
+2845	PA165108621	Pyogenic granuloma NOS
+2846	PA165109018	Pyogenic granuloma unspecified
+2847	PA165108212	Pyogenic hepatic abscess
+2848	PA165109192	Pyometra unspecified
+2849	PA165109016	Pyonephrosis unspecified
+2850	PA165108719	Pyruvate carboxylase deficiency
+2851	PA165108683	Pyruvate dehydrogenase complex deficiency
+2852	PA445489	Quadriplegia
+2853	PA165108379	Queensland tick typhus
+2854	PA166048805	Rabies
+2855	PA165108673	Radial styloid tenosynovitis
+2856	PA445491	Radiation Injuries
+2857	PA166048892	Radiation Injuries, Experimental
+2858	PA165108136	Radicular cyst NOS
+2859	PA445494	Radiculopathy
+2860	PA153627686	Raine Syndrome
+2861	PA165108537	Ranula
+2862	PA166131628	rapid virological response (rvr)
+2863	PA165108704	Rat-bite fever NOS
+2864	PA445499	Raynaud Disease
+2865	PA445503	Rectal Neoplasms
+2866	PA445504	Rectal Prolapse
+2867	PA445506	Recurrence
+2868	PA166127658	Recurrence free survival
+2869	PA166048858	Red-Cell Aplasia, Pure
+2870	PA165108456	Refeeding syndrome
+2871	PA445509	Reflex, Abnormal
+2872	PA443471	Reflex, Babinski
+2873	PA445510	Refractive Errors
+2874	PA445511	Refsum Disease
+2875	PA165108539	Regional odontodysplasia
+2876	PA165108445	Relapsing febrile nodular nonsuppurative panniculitis
+2877	PA165108774	Relapsing fever NOS
+2878	PA165108739	Relapsing pancreatitis
+2879	PA165108185	REM sleep behavior disorder
+2880	PA162372590	Renal agenesis
+2881	PA445514	Renal Artery Obstruction
+2882	PA150481190	Renal carnitine transport defect
+2883	PA165108455	Renal diabetes
+2884	PA153627659	Renal Disease, Pediatric
+2885	PA152407983	Renal dysplasia and retinal aplasia
+2886	PA445515	Renal Osteodystrophy
+2887	PA166180841	renal transplant failure
+2888	PA446144	Reperfusion Injury
+2889	PA165108153	Repetitive strain injury
+2890	PA445520	Respiratory Distress Syndrome, Adult
+2891	PA165108938	Respiratory distress syndrome in the newborn
+2892	PA166048890	Respiratory Hypersensitivity
+2893	PA445522	Respiratory Insufficiency
+2894	PA445524	Respiratory Sounds
+2895	PA166048810	Respiratory Syncytial Virus Infections
+2896	PA165108335	Respiratory system anomaly NOS
+2897	PA165108192	Respiratory system diseases NOS
+2898	PA445525	Respiratory Tract Diseases
+2899	PA166048841	Respiratory Tract Fistula
+2900	PA445526	Respiratory Tract Infections
+2901	PA445528	Restless Legs Syndrome
+2902	PA165109109	Retained menstruation
+2903	PA165108943	Retained placenta NOS
+2904	PA165108930	Retained products after spontaneous abortion
+2905	PA445530	Retinal Degeneration
+2906	PA445531	Retinal Detachment
+2907	PA445532	Retinal Diseases
+2908	PA446201	Retinal Drusen
+2909	PA446227	Retinal Dysplasia
+2910	PA445533	Retinal Hemorrhage
+2911	PA446253	Retinal Neovascularization
+2912	PA165108953	Retinal vasculitis NOS
+2913	PA153627687	Retinal Vasculopathy with Cerebral Leukodystrophy (RVCL)
+2914	PA165108137	Retinitis NOS
+2915	PA445537	Retinitis Pigmentosa
+2916	PA445538	Retinoblastoma
+2917	PA445539	Retinopathy of Prematurity
+2918	PA165109000	Retinoschisis unspecified
+2919	PA166188561	retreatment failure
+2920	PA165108608	Retrobulbar haemorrhage
+2921	PA445541	Retrognathism
+2922	PA446537	Retropharyngeal Abscess
+2923	PA445546	Retroviridae Infections
+2924	PA446191	Rett Syndrome
+2925	PA445547	Reye Syndrome
+2926	PA446704	Rhabdoid Tumor
+2927	PA445549	Rhabdomyolysis
+2928	PA165108822	Rhabdomyoma
+2929	PA445551	Rhabdomyosarcoma
+2930	PA446615	Rhabdomyosarcoma, Alveolar
+2931	PA446616	Rhabdomyosarcoma, Embryonal
+2932	PA165108179	Rhesus isoimmunization NOS
+2933	PA165108524	Rhesus isoimmunization unspecified
+2934	PA445555	Rheumatic Diseases
+2935	PA445552	Rheumatic Fever
+2936	PA445553	Rheumatic Heart Disease
+2937	PA445556	Rheumatoid Nodule
+2938	PA165108251	Rheumatoid pneumoconiosis
+2939	PA445557	Rhinitis
+2940	PA445558	Rhinitis, Allergic, Perennial
+2941	PA447279	Rhinitis, Allergic, Seasonal
+2942	PA165108446	Rhinophyma
+2943	PA165108265	Rhinoscleroma
+2944	PA445564	Rib Fractures
+2945	PA445566	Rickets
+2946	PA165108208	Rickettsial pneumonia
+2947	PA165109179	Rickettsioses NOS
+2948	PA165108380	Rift valley fever
+2949	PA165108600	Rinderpest
+2950	PA445572	Ring Chromosomes
+2951	PA142189041	Roberts-SC phocomelia syndrome
+2952	PA165108324	Robin sequence
+2953	PA447184	Romano-Ward Syndrome
+2954	PA165108609	Rosacea NOS
+2955	PA445578	Rotavirus Infections
+2956	PA445369	Rothmund-Thomson Syndrome
+2957	PA445579	Rubella
+2958	PA445581	Rubinstein-Taybi Syndrome
+2959	PA445582	Rupture
+2960	PA165108118	Ruptured spleen NOS
+2961	PA446953	Sagittal Sinus Thrombosis
+2962	PA165108640	Salivary gland disease NOS
+2963	PA165108802	Salmonella food poisoning
+2964	PA165108114	Salmonella gastroenteritis
+2965	PA445589	Salmonella Infections
+2966	PA166048808	Salmonella Infections, Animal
+2967	PA165109011	Salmon patch naevus
+2968	PA165108782	Salpingitis unspecified
+2969	PA445592	Sandhoff Disease
+2970	PA165108652	SAPHO syndrome
+2971	PA445593	Sarcoidosis
+2972	PA445594	Sarcoma
+2973	PA445595	Sarcoma 180
+2974	PA443468	Sarcoma, Avian
+2975	PA446586	Sarcoma, Endometrial Stromal
+2976	PA445597	Sarcoma, Ewing's
+2977	PA445598	Sarcoma, Experimental
+2978	PA445599	Sarcoma, Kaposi
+2979	PA447154	Sarcoma, Myeloid
+2980	PA445792	Sarcoma, Synovial
+2981	PA445604	Scabies
+2982	PA166048770	Scalp Dermatoses
+2983	PA445607	Scheuermann Disease
+2984	PA165109038	Schistosoma haematobium infection
+2985	PA165108878	Schistosoma japonicum infection
+2986	PA165108167	Schistosoma mansonii infection
+2987	PA445608	Schistosomiasis
+2988	PA166152644	schizencephaly
+2989	PA166123368	schizoaffective disorder
+2990	PA165108555	Schizoid personality disorder NOS
+2991	PA447216	Schizophrenia
+2992	PA161660866	Schmid Metaphyseal Chondrodysplasia
+2993	PA445612	Sciatica
+2994	PA165109024	Scimitar syndrome
+2995	PA165108758	Scleredema
+2996	PA165108856	Sclerema neonatorum NOS
+2997	PA445616	Scleroderma, Localized
+2998	PA445617	Scleroderma, Systemic
+2999	PA165109163	Scleromyxedema
+3000	PA445618	Sclerosis
+3001	PA445619	Scoliosis
+3002	PA445620	Scotoma
+3003	PA445621	Scrapie
+3004	PA165109120	Scrub typhus
+3005	PA165108182	Seal finger
+3006	PA165108583	Seasonal affective disorder
+3007	PA165108146	Sebaceous adenocarcinoma
+3008	PA165109069	Sebaceous gland diseases NOS
+3009	PA165108231	Seborrhea NOS
+3010	PA166129538	secondary composite endpoints (transient ischemic attack (tia), stroke, or death)
+3011	PA165108577	Secondary dentin
+3012	PA150799050	secondary leukemia
+3013	PA166129521	sedation
+3014	PA165108432	Segmental uterine aplasia
+3015	PA445629	Seizures
+3016	PA443788	Seizures, Febrile
+3017	PA165108728	Selective immunoglobulin G deficiency
+3018	PA446622	Seminoma
+3019	PA165108486	Senile keratoma
+3020	PA152407982	Senior-Loken Syndrom
+3021	PA445631	Sensation Disorders
+3022	PA446771	Sepsis
+3023	PA165108166	Septal defect NOS
+3024	PA445632	Septicemia
+3025	PA447165	Septo-Optic Dysplasia
+3026	PA162372760	SERKAL Syndrome
+3027	PA445633	Serositis
+3028	PA446956	Serotonin Syndrome
+3029	PA166048773	Serratia Infections
+3030	PA166123787	serum anticholinergic activity
+3031	PA445635	Serum Sickness
+3032	PA136400566	Severe Acute Respiratory Syndrome
+3033	PA446336	Severe Combined Immunodeficiency
+3034	PA166120929	severe cutaneous adverse reactions
+3035	PA166227521	severe myoclonic epilepsy in infancy
+3036	PA445637	Sex Chromosome Aberrations
+3037	PA446685	Sex Cord-Gonadal Stromal Tumors
+3038	PA447218	Sexual Dysfunctions, Psychological
+3039	PA445640	Sexually Transmitted Diseases
+3040	PA166048877	Sexually Transmitted Diseases, Bacterial
+3041	PA445641	Sezary Syndrome
+3042	PA165108746	Shared paranoid disorder
+3043	PA165108232	Shell shock
+3044	PA165109146	Shell teeth
+3045	PA445644	Shock
+3046	PA445645	Shock, Cardiogenic
+3047	PA445646	Shock, Hemorrhagic
+3048	PA445647	Shock, Septic
+3049	PA445648	Shock, Surgical
+3050	PA445649	Shock, Traumatic
+3051	PA165108290	Short bowel syndrome
+3052	PA165818136	Shortened QT interval
+3053	PA166183773	short qt syndrome
+3054	PA166183774	short qt syndrome 1
+3055	PA166183775	short qt syndrome 2
+3056	PA166183776	short qt syndrome 3
+3057	PA165108714	Short rib polydactyly syndrome
+3058	PA165108508	Shy-Drager syndrome
+3059	PA447179	Sialic Acid Storage Disease
+3060	PA165109029	Sialoadenitis NOS
+3061	PA165108885	Sialodocholithiasis NOS
+3062	PA165109180	Sialolithiasis NOS
+3063	PA445658	Sialorrhea
+3064	PA165108605	Sick building syndrome
+3065	PA165109153	Sick-euthyroid syndrome
+3066	PA445660	Sickle Cell Trait
+3067	PA445659	Sick Sinus Syndrome
+3068	PA445664	Signs and Symptoms
+3069	PA165108327	Silica pneumoconiosis NOS
+3070	PA165108123	Silicotuberculosis
+3071	PA165108576	Silo-fillers' disease
+3072	PA165108939	Simian acquired immune deficiency syndrome
+3073	PA165108949	Single lung cyst
+3074	PA165108117	Sinoatrial block
+3075	PA165108910	Sinus histiocytosis with massive lymphadenopathy
+3076	PA445672	Sinusitis
+3077	PA165109157	Sinus pericranii
+3078	PA445671	Sinus Thrombosis, Intracranial
+3079	PA153619780	Sitosterolemia
+3080	PA445673	Situs Inversus
+3081	PA165108846	Situs inversus with levocardia
+3082	PA165108395	Sjögren–Larsson syndrome
+3083	PA445674	Sjogren's Syndrome
+3084	PA162373099	Skeletal Dysplasia
+3085	PA445675	Skin Abnormalities
+3086	PA446482	Skin and Connective Tissue Diseases
+3087	PA445676	Skin Diseases
+3088	PA166048720	Skin Diseases, Bacterial
+3089	PA166048801	Skin Diseases, Eczematous
+3090	PA445678	Skin Diseases, Genetic
+3091	PA166048791	Skin Diseases, Infectious
+3092	PA166048800	Skin Diseases, Parasitic
+3093	PA446487	Skin Diseases, Vascular
+3094	PA166048903	Skin Diseases, Vesiculobullous
+3095	PA166048766	Skin Diseases, Viral
+3096	PA445682	Skin Manifestations
+3097	PA445683	Skin Neoplasms
+3098	PA165108845	Skull fracture NOS
+3099	PA446916	Sleep Apnea, Obstructive
+3100	PA445687	Sleep Apnea Syndromes
+3101	PA445688	Sleep Deprivation
+3102	PA445689	Sleep Disorders
+3103	PA444624	Sleep Initiation and Maintenance Disorders
+3104	PA166048824	Sleep Paralysis
+3105	PA165108740	Sleep-related dystonia
+3106	PA165108426	Small-for-dates baby
+3107	PA445691	Smallpox
+3108	PA165109122	Smith-Lemli-Opitz syndrome
+3109	PA446112	Smoke Inhalation Injury
+3110	PA445693	Sneezing
+3111	PA446734	Soft Tissue Infections
+3112	PA166048850	Soft Tissue Neoplasms
+3113	PA165108433	Solitary anal ulcer
+3114	PA165108249	Solitary cutaneous mastocytoma
+3115	PA165109184	Somatostatinoma
+3116	PA165108708	Somatotroph adenoma
+3117	PA445697	Somnambulism
+3118	PA166185626	somnolence
+3119	PA165109151	Sore on skin
+3120	PA446739	Space Motion Sickness
+3121	PA445699	Spasm
+3122	PA445700	Spasms, Infantile
+3123	PA446141	Spastic Paraplegia, Hereditary
+3124	PA445701	Speech Disorders
+3125	PA165108735	Spermatocele
+3126	PA446286	Spina Bifida Cystica
+3127	PA165108707	Spina bifida occulta
+3128	PA165109100	Spinal cord compression NOS
+3129	PA445707	Spinal Cord Diseases
+3130	PA445708	Spinal Cord Injuries
+3131	PA166048855	Spinal Cord Ischemia
+3132	PA166048853	Spinal Cord Neoplasms
+3133	PA445711	Spinal Diseases
+3134	PA446284	Spinal Dysraphism
+3135	PA445712	Spinal Injuries
+3136	PA446067	Spinal Muscular Atrophies of Childhood
+3137	PA445714	Spinal Osteophytosis
+3138	PA165109026	Spinal stenosis NOS
+3139	PA165108226	Spinal stenosis of unspecified region
+3140	PA447066	Spinocerebellar Ataxias
+3141	PA445716	Spinocerebellar Degenerations
+3142	PA165108277	Spirochetal infection NOS
+3143	PA445722	Splenomegaly
+3144	PA165109049	Splenosis
+3145	PA447162	Spondylarthritis
+3146	PA447163	Spondylarthropathies
+3147	PA445723	Spondylitis
+3148	PA445724	Spondylitis, Ankylosing
+3149	PA145007205	spondylocostal dysostoses (SCDs)
+3150	PA447305	spondyloepimetaphyseal dysplasia
+3151	PA445725	Spondylolisthesis
+3152	PA166048852	Spondylolysis
+3153	PA162364308	Spondylothoracic Dysostosis
+3154	PA165108741	Sporotrichosis NOS
+3155	PA445728	Sprains and Strains
+3156	PA145007163	SRS-A
+3157	PA166048722	Staphylococcal Infections
+3158	PA445732	Staphylococcal Scalded Skin Syndrome
+3159	PA166048783	Staphylococcal Skin Infections
+3160	PA445734	Starvation
+3161	PA166163391	statin-related myopathy
+3162	PA445735	Status Asthmaticus
+3163	PA445736	Status Epilepticus
+3164	PA165108275	Stenosing tenosynovitis
+3165	PA166165397	stenosis of intracranial vessel
+3166	PA445738	Stevens-Johnson Syndrome
+3167	PA446377	Stiff-Person Syndrome
+3168	PA446366	Still's Disease, Adult-Onset
+3169	PA165108355	St. Louis encephalitis virus neuroinvasive disease
+3170	PA165108295	Stokes-Adams attack
+3171	PA165109050	Stokes-Adams-Morgagni syndrome
+3172	PA165109142	Stokes-Adams syndrome
+3173	PA166048884	Stomach Diseases
+3174	PA445742	Stomach Neoplasms
+3175	PA445744	Stomach Ulcer
+3176	PA445746	Stomatitis
+3177	PA445750	Strabismus
+3178	PA445751	Streptococcal Infections
+3179	PA445752	Stress
+3180	PA165108901	Striatonigral degeneration
+3181	PA447054	Stroke
+3182	PA165108561	Stroke and cerebrovascular accident unspecified
+3183	PA165108178	Stroke NOS
+3184	PA166048836	Strongylida Infections
+3185	PA166048863	Strongyloidiasis
+3186	PA165108398	Sturge-Weber syndrome
+3187	PA445757	Stuttering
+3188	PA165108850	Subacromial impingement
+3189	PA165108174	Subacute bacterial endocarditis
+3190	PA165108544	Subacute combined degeneration of spinal cord
+3191	PA445758	Subacute Sclerosing Panencephalitis
+3192	PA445759	Subarachnoid Hemorrhage
+3193	PA165108330	Subclavian steal syndrome
+3194	PA446236	Substance Abuse, Intravenous
+3195	PA446876	Substance-Related Disorders
+3196	PA445768	Substance Withdrawal Syndrome
+3197	PA165108750	Substernal goiter
+3198	PA165109027	Sudden hearing loss
+3199	PA445769	Sudden Infant Death
+3200	PA166186039	suicidal ideation
+3201	PA165374639	suicide
+3202	PA447252	sulfamethoxazole idiosyncratic adverse drug reactions
+3203	PA165108871	Sulfhemoglobinemia
+3204	PA445771	Sunburn
+3205	PA445772	Sunstroke
+3206	PA165108291	Suntan
+3207	PA446103	Superinfection
+3208	PA165109082	Superior mesenteric artery syndrome
+3209	PA445775	Suppuration
+3210	PA445776	Supranuclear Palsy, Progressive
+3211	PA166131629	sustained virological response (svr)
+3212	PA165108664	Swayback of sheep
+3213	PA165109091	Sweat gland disorder NOS
+3214	PA446324	Sweet Syndrome
+3215	PA165108366	Swine vesicular disease
+3216	PA165109019	Sympathetic uveitis
+3217	PA445787	Syncope
+3218	PA446835	Syncope, Vasovagal
+3219	PA445788	Syndactyly
+3220	PA445789	Syndrome
+3221	PA165108209	Syndrome of apparent mineralocorticoid excess
+3222	PA445790	Synostosis
+3223	PA165108643	Synovial chondromatosis
+3224	PA165108531	Synovial cyst unspecified
+3225	PA445793	Synovitis
+3226	PA445795	Syphilis
+3227	PA445800	Syringomyelia
+3228	PA446758	Systemic Inflammatory Response Syndrome
+3229	PA165108870	Systemic sclerosis, diffuse
+3230	PA166128188	systolic blood pressure
+3231	PA445802	Tachycardia
+3232	PA445806	Tachycardia, Paroxysmal
+3233	PA445808	Tachycardia, Sinus
+3234	PA445809	Tachycardia, Supraventricular
+3235	PA446450	Tachycardia, Ventricular
+3236	PA165108297	Tailor's bunion
+3237	PA445811	Takayasu Arteritis
+3238	PA445812	Tangier Disease
+3239	PA447268	tardive dyskinesia
+3240	PA165108729	Tarsal tunnel syndrome
+3241	PA447158	Tauopathies
+3242	PA445815	Tay-Sachs Disease
+3243	PA165108553	Tay-Sachs disease, variant AB
+3244	PA445816	Telangiectasia, Hereditary Hemorrhagic
+3245	PA445817	Telangiectasis
+3246	PA445819	Temporomandibular Joint Disorders
+3247	PA165108308	Temporomandibular joint-pain-dysfunction syndrome
+3248	PA445821	Tendinopathy
+3249	PA446764	Tension-Type Headache
+3250	PA446626	Teratocarcinoma
+3251	PA445825	Teratoma
+3252	PA445826	Testicular Diseases
+3253	PA445828	Testicular Neoplasms
+3254	PA445829	Tetanus
+3255	PA166048764	Tetany
+3256	PA445831	Tetralogy of Fallot
+3257	PA445833	Thalassemia
+3258	PA445834	Thanatophoric Dysplasia
+3259	PA445835	Thecoma
+3260	PA165108162	Therapeutic abortion
+3261	PA447322	therapy-related acute myeloid leukemia (t-ML)
+3262	PA445837	Thiamine Deficiency
+3263	PA445838	Thinness
+3264	PA161907438	Thoracic Aortic Aneurysms and Dissections (TAAD)
+3265	PA165108204	Thorax abscess NOS
+3266	PA165108614	Threatened abortion NOS
+3267	PA165108854	Threatened abortion unspecified
+3268	PA445843	Thrombasthenia
+3269	PA165108246	Thromboangiitis obliterans NOS
+3270	PA445845	Thrombocythemia, Essential
+3271	PA445846	Thrombocytopenia
+3272	PA445847	Thrombocytosis
+3273	PA445848	Thromboembolism
+3274	PA447241	thrombolytic disease
+3275	PA446870	Thrombophilia
+3276	PA165109134	Thrombophlebitis NOS
+3277	PA445850	Thrombosis
+3278	PA447276	Thrombosis of cerebral veins
+3279	PA165108593	Thrombosis of lateral venous sinus
+3280	PA165109158	Thrombosis transverse sinus
+3281	PA445851	Thymoma
+3282	PA165108491	Thyroglossal duct cyst
+3283	PA166048802	Thyroid Crisis
+3284	PA445856	Thyroid Diseases
+3285	PA446718	Thyroid Hormone Resistance Syndrome
+3286	PA445858	Thyroiditis
+3287	PA445859	Thyroiditis, Autoimmune
+3288	PA445857	Thyroid Neoplasms
+3289	PA446356	Thyroid Nodule
+3290	PA445862	Thyrotoxicosis
+3291	PA165108507	Tibial neuropathy
+3292	PA445864	Tic Disorders
+3293	PA165108601	Tick paralysis
+3294	PA447002	Tics
+3295	PA165108556	Tietze's disease
+3296	PA166129534	time above therapeutic range
+3297	PA166129562	time below therapeutic range
+3298	PA166129531	time in therapeutic range
+3299	PA166129530	time to achieve stable dose
+3300	PA166184274	time to delivery
+3301	PA166159278	time to relapse
+3302	PA166129532	time to therapeutic inr
+3303	PA166048748	Tinea
+3304	PA166048825	Tinea Capitis
+3305	PA166048747	Tinea Pedis
+3306	PA445875	Tinnitus
+3307	PA445876	Tobacco Use Disorder
+3308	PA166048823	Toddler
+3309	PA166123206	tolerance
+3310	PA447009	Tolosa-Hunt Syndrome
+3311	PA165109156	Tongue diseases NOS
+3312	PA165108907	Tonic pupillary reaction
+3313	PA166169457	tonsillectomy
+3314	PA445883	Tonsillitis
+3315	PA166048870	Toothache
+3316	PA445887	Tooth Diseases
+3317	PA446303	Tooth Loss
+3318	PA165108563	Tooth malformation
+3319	PA445896	Tooth, Supernumerary
+3320	PA446294	Torsades de Pointes
+3321	PA445899	Torsion
+3322	PA165108909	Torsion of testis NOS
+3323	PA165109107	Torsion of testis unspecified
+3324	PA445900	Torticollis
+3325	PA165108309	Total great vessel transposition
+3326	PA444270	Tourette Syndrome
+3327	PA445901	Toxemia
+3328	PA165108234	Toxic effect of carbon tetrachloride
+3329	PA164925725	Toxic liver disease
+3330	PA166048835	Toxocariasis
+3331	PA165108216	Toxoplasma encephalitis
+3332	PA445903	Toxoplasmosis
+3333	PA165108897	Tracheobronchomalacia
+3334	PA445912	Tracheoesophageal Fistula
+3335	PA445913	Trachoma
+3336	PA162168973	transient neonatal diabetes
+3337	PA445914	Translocation, Genetic
+3338	PA165109075	Transmissible gastroenteritis of swine
+3339	PA134850491	Transplantation
+3340	PA166114394	transplanted organ rejection
+3341	PA166114454	transplant rejection
+3342	PA165108792	Transsexualism NOS
+3343	PA165108176	Transvestism
+3344	PA165108864	Traumatic diaphragmatic hernia
+3345	PA165108306	Traumatic facial neuropathy
+3346	PA165109132	Traumatic injury of abducens nerve
+3347	PA165108835	Traumatic optic neuropathy
+3348	PA166128095	treatment failure
+3349	PA166159284	treatment interruptions
+3350	PA166124372	treatment modification
+3351	PA166165063	treatment related mortality
+3352	PA166159285	treatment success
+3353	PA165108672	Trematode infection NOS
+3354	PA445917	Tremor
+3355	PA165109006	Trench fever
+3356	PA445920	Trichinosis
+3357	PA165108663	Trichomonas NOS
+3358	PA165108440	Trichotillomania
+3359	PA446767	Tricuspid Atresia
+3360	PA445926	Tricuspid Valve Insufficiency
+3361	PA165109143	Tricuspid valve prolapse
+3362	PA165108836	Trigeminal nerve disorder NOS
+3363	PA165108694	Trigeminal neuralgia [no drugs here]
+3364	PA165108228	Trigeminal neuralgia NOS
+3365	PA134850479	trimethylaminuria
+3366	PA445931	Trismus
+3367	PA445932	Trisomy
+3368	PA445934	Trophoblastic Neoplasms
+3369	PA165108925	Tropical sprue
+3370	PA445935	Truncus Arteriosus, Persistent
+3371	PA165108514	Trypanosomiasis NOS
+3372	PA165108813	Tubal pregnancy NOS
+3373	PA165108218	Tuberculoma of brain
+3374	PA445941	Tuberculosis
+3375	PA166048765	Tuberculosis, Cutaneous
+3376	PA165108960	Tuberculosis cutis indurativa
+3377	PA445954	Tuberculosis, Miliary
+3378	PA446558	Tuberculosis, Multidrug-Resistant
+3379	PA165109007	Tuberculosis of central nervous system NOS
+3380	PA165108490	Tuberculosis of eye NOS
+3381	PA165108968	Tuberculosis of gastrointestinal tract NOS
+3382	PA165109160	Tuberculosis of kidney NOS
+3383	PA165108620	Tuberculosis of liver
+3384	PA165108689	Tuberculosis of spleen
+3385	PA445957	Tuberculosis, Osteoarticular
+3386	PA445960	Tuberculosis, Pulmonary
+3387	PA165108978	Tuberculous abscess of brain
+3388	PA165108466	Tuberculous meningitis NOS
+3389	PA165108947	Tuberculous pleurisy NOS
+3390	PA445965	Tuberous Sclerosis
+3391	PA165108305	Tularemia NOS
+3392	PA446126	Tumor Lysis Syndrome
+3393	PA445967	Tumor Virus Infections
+3394	PA445968	Turner Syndrome
+3395	PA445969	Twins, Conjoined
+3396	PA165108821	Tympanic membrane perforation NOS
+3397	PA445970	Typhoid Fever
+3398	PA445972	Typhus, Epidemic Louse-Borne
+3399	PA446912	Tyrosinemias
+3400	PA445973	Ulcer
+3401	PA165108334	Ulnar neuropathy
+3402	PA445975	Unconsciousness
+3403	PA447155	Uniparental Disomy
+3404	PA165108253	Unspecified abdominal cavity hernia NOS
+3405	PA165109106	Unspecified affective personality disorder
+3406	PA165108447	Unspecified Boutonneuse fever
+3407	PA165108434	Unspecified catatonic schizophrenia
+3408	PA165108103	Unspecified choroidal hemorrhage
+3409	PA165108552	Unspecified conjunctivitis
+3410	PA165108881	Unspecified corneal edema
+3411	PA165108427	Unspecified corneal ulcer
+3412	PA165108298	Unspecified dacryocystitis
+3413	PA165108712	Unspecified disturbance of conduct
+3414	PA165108532	Unspecified entropion
+3415	PA165108679	Unspecified femoral hernia NOS
+3416	PA165108625	Unspecified hebephrenic schizophrenia
+3417	PA165108575	Unspecified histrionic personality disorder
+3418	PA165108200	Unspecified illegal abortion NOS
+3419	PA165109076	Unspecified injury of hand
+3420	PA165108783	Unspecified injury of wrist
+3421	PA165109159	Unspecified keratoconjunctivitis
+3422	PA165108824	Unspecified keratoconus
+3423	PA165109065	Unspecified labyrinthitis
+3424	PA165108842	Unspecified obturator hernia
+3425	PA165108299	Unspecified optic neuritis
+3426	PA165108368	Unspecified osteomyelitis NOS
+3427	PA165109173	Unspecified osteomyelitis of unspecified site
+3428	PA165108288	Unspecified paranoid schizophrenia
+3429	PA165108244	Unspecified peptic ulcer with perforation
+3430	PA165108971	Unspecified radiation effects NOS
+3431	PA165109070	Unspecified schizoid personality disorder
+3432	PA165108480	Unspecified scleritis
+3433	PA165108338	Unspecified teniasis
+3434	PA165108766	Unspecified tympanic membrane perforation
+3435	PA165108201	Unspecified yaws
+3436	PA165108559	Unverricht-Lundborg syndrome
+3437	PA165108734	Upper limb anomaly, unspecified
+3438	PA445977	Uremia
+3439	PA445981	Ureteral Obstruction
+3440	PA445982	Ureterocele
+3441	PA166048818	Urethral Diseases
+3442	PA166048840	Urethral Obstruction
+3443	PA445986	Urethral Stricture
+3444	PA165108627	Urethritis unspecified
+3445	PA443512	Urinary Bladder Neoplasms
+3446	PA443513	Urinary Bladder, Neurogenic
+3447	PA166183362	urinary bladder toxicity
+3448	PA445988	Urinary Calculi
+3449	PA165108667	Urinary fistula NOS
+3450	PA445990	Urinary Incontinence
+3451	PA445991	Urinary Incontinence, Stress
+3452	PA446264	Urinary Retention
+3453	PA445992	Urinary Tract Infections
+3454	PA166048743	Urination Disorders
+3455	PA445994	Urogenital Abnormalities
+3456	PA445995	Urogenital Neoplasms
+3457	PA166048847	Urological Manifestations
+3458	PA445997	Urologic Diseases
+3459	PA445998	Urologic Neoplasms
+3460	PA445999	Urticaria
+3461	PA443685	Uterine Cervical Neoplasms
+3462	PA446002	Uterine Hemorrhage
+3463	PA446004	Uterine Neoplasms
+3464	PA446006	Uterine Prolapse
+3465	PA446010	Uveitis
+3466	PA447192	Uveitis, Anterior
+3467	PA446013	Vaccinia
+3468	PA166159451	vaginal bleeding
+3469	PA446838	Vaginal Discharge
+3470	PA165109115	Vaginal disorder NOS
+3471	PA166159452	vaginal dryness
+3472	PA165108369	Vaginal trichomoniasis
+3473	PA165109054	Vaginitis unspecified
+3474	PA446018	Varicocele
+3475	PA446020	Varicose Veins
+3476	PA165108985	Varus deformity of great toe
+3477	PA446021	Vascular Diseases
+3478	PA166048830	Vascular Headaches
+3479	PA143488504	Vascular Resistance
+3480	PA446023	Vasculitis
+3481	PA446993	Vasculitis, Central Nervous System
+3482	PA165108258	Vasoactive intestinal peptide-secreting tumour
+3483	PA165108437	Vasomotor rhinitis
+3484	PA165109088	Vein of Galen malformation
+3485	PA165108916	Velopharyngeal inadequacy
+3486	PA165109189	Venous stasis syndrome
+3487	PA447298	venous thromboembolism
+3488	PA446969	Venous Thrombosis
+3489	PA165108957	Venous ulcer of leg
+3490	PA165108894	Ventilator-acquired pneumonia
+3491	PA446759	Ventricular Dysfunction
+3492	PA446737	Ventricular Dysfunction, Left
+3493	PA446741	Ventricular Dysfunction, Right
+3494	PA446028	Ventricular Fibrillation
+3495	PA446029	Ventricular Outflow Obstruction
+3496	PA446779	Ventricular Premature Complexes
+3497	PA165108260	Vertebral artery dissection
+3498	PA165109039	Vertebrobasilar artery syndrome
+3499	PA446031	Vertigo
+3500	PA162364314	Very-long-chain Acyl-coenzyme A Dehydrogenase Deficiency
+3501	PA446032	Vesico-Ureteral Reflux
+3502	PA165108372	Vesicular exanthema of swine
+3503	PA165108873	Vesicular pharyngitis
+3504	PA165108375	Vincent's infection
+3505	PA165109178	Viral meningitis NOS
+3506	PA446036	Viremia
+3507	PA166170066	virological response
+3508	PA446038	Virus Diseases
+3509	PA447286	visceral obesity
+3510	PA447310	Vision Disorders
+3511	PA446041	Vitamin A Deficiency
+3512	PA446043	Vitamin B 12 Deficiency
+3513	PA165108884	Vitamin B deficiency NOS
+3514	PA446044	Vitamin D Deficiency
+3515	PA446046	Vitamin K Deficiency
+3516	PA446047	Vitiligo
+3517	PA446049	Vocal Cord Paralysis
+3518	PA165108933	Vogt-Koyanagi-Harada disease
+3519	PA165109001	Vogt-Koyanagi syndrome
+3520	PA446050	Voice Disorders
+3521	PA165108523	Volkmann's ischemic contracture following injury
+3522	PA165108913	Volume depletion NOS
+3523	PA165108872	Volvulus NOS
+3524	PA446051	Vomiting
+3525	PA444477	von Hippel-Lindau Disease
+3526	PA446053	von Willebrand Disease
+3527	PA165108646	Voyeurism
+3528	PA446054	Vulvar Diseases
+3529	PA446055	Vulvar Neoplasms
+3530	PA165109108	Vulvar vestibulitis
+3531	PA165108975	Vulvitis unspecified
+3532	PA165108860	Vulvovaginitis unspecified
+3533	PA154081794	Waardenburg-Hirschsprung Disease
+3534	PA446058	Waardenburg's Syndrome
+3535	PA446525	WAGR Syndrome
+3536	PA444850	Waldenstrom Macroglobulinemia
+3537	PA446060	Wallerian Degeneration
+3538	PA165108224	Wandering spleen
+3539	PA446061	Warts
+3540	PA446818	Wasting Syndrome
+3541	PA166048875	Water-Electrolyte Imbalance
+3542	PA165108217	Water intoxication syndrome
+3543	PA446065	Wegener Granulomatosis
+3544	PA128406954	Weight gain
+3545	PA446066	Weil Disease
+3546	PA446068	Werner Syndrome
+3547	PA165108522	Wernicke's disease
+3548	PA165109125	Wernicke's dysphasia
+3549	PA446070	West Nile Fever
+3550	PA446071	Whiplash Injuries
+3551	PA444786	Whipple Disease
+3552	PA165108367	White blood cell disease NOS
+3553	PA165108805	White sponge naevus
+3554	PA446073	Whooping Cough
+3555	PA446794	Williams Syndrome
+3556	PA445084	Wilms Tumor
+3557	PA446074	Wiskott-Aldrich Syndrome
+3558	PA165109066	Wissler-Fanconi syndrome
+3559	PA165108370	Wolff-Parkinson-White pattern
+3560	PA446077	Wolfram Syndrome
+3561	PA162372765	Woodhouse-Sakati Syndrome
+3562	PA446078	Wound Infection
+3563	PA446079	Wounds and Injuries
+3564	PA446080	Wounds, Gunshot
+3565	PA446081	Wounds, Nonpenetrating
+3566	PA446083	Wounds, Stab
+3567	PA161149039	xanthinuria
+3568	PA446085	Xanthogranuloma, Juvenile
+3569	PA165108493	Xanthogranulomatous pyelonephritis
+3570	PA446086	Xanthomatosis
+3571	PA446821	Xanthomatosis, Cerebrotendinous
+3572	PA165109101	Xanthomatosis, familial
+3573	PA446087	Xeroderma Pigmentosum
+3574	PA165108581	X-linked hyper-IgM syndrome
+3575	PA153626883	X-linked mental retardation with marfanoid habitus syndrome
+3576	PA162372622	X-linked Recessive Myopathies
+3577	PA165108243	X-linked severe combined immunodeficiency
+3578	PA446368	Yang Deficiency
+3579	PA165108314	Yellow fever unspecified
+3580	PA166048817	Young Child
+3581	PA446115	Zellweger Syndrome
+3582	PA165108668	Zenker's diverticulum
+3583	PA446095	Zollinger-Ellison Syndrome
+3584	PA446890	Zygomycosis

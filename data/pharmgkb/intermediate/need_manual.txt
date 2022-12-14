@@ -1,1 +1,0 @@
-Clinical Annotation ID	Gene	Level of Evidence	Level Override	Level Modifiers	Score	PMID Count	Evidence Count	Drug(s)	Phenotype(s)	Latest History Date (YYYY-MM-DD)	URL	Specialty Population	Genotype/Allele	Annotation Text	Allele Function	Variant/Haplotype	Phenotype Category	Comment

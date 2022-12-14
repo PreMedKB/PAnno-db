@@ -1,114 +1,82 @@
 {
-  "citations" : [ {
-    "@id" : "https://pharmgkb.org/literature/15113542",
-    "@context" : "https://api.pharmgkb.org/jsonld/literature.jsonld",
-    "id" : 15113542,
-    "title" : "Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2C19 and Proton Pump Inhibitor Dosing.",
-    "_sameAs" : "https://www.ncbi.nlm.nih.gov/pubmed/32770672",
-    "authors" : [ "Lima John J", "Thomas Cameron D", "Barbarino Julia", "Desta Zeruesenay", "Van Driest Sara L", "El Rouby Nihal", "Johnson Julie A", "Cavallari Larisa H", "Shakhnovich Valentina", "Thacker David L", "Scott Stuart A", "Schwab Matthias", "Uppugunduri Chakradhara Rao S", "Formea Christine M", "Franciosi James P", "Sangkuhl Katrin", "Gaedigk Andrea", "Klein Teri E", "Gammal Roseann S", "Furuta Takahisa" ],
-    "crossReferences" : [ {
-      "@id" : "https://pharmgkb.org/crossReference/pubMed/32770672",
-      "@context" : "https://api.pharmgkb.org/jsonld/crossReference.jsonld",
-      "id" : 1451242280,
-      "resource" : "PubMed",
-      "resourceId" : "32770672",
-      "_url" : "https://www.ncbi.nlm.nih.gov/pubmed/32770672",
-      "version" : 0
-    }, {
-      "@id" : "https://pharmgkb.org/crossReference/doi/10.1002/cpt.2015",
-      "@context" : "https://api.pharmgkb.org/jsonld/crossReference.jsonld",
-      "id" : 1451242281,
-      "resource" : "DOI",
-      "resourceId" : "10.1002/cpt.2015",
-      "_url" : "http://dx.doi.org/10.1002%2Fcpt.2015",
-      "version" : 0
-    } ],
-    "hasKeyword" : true,
-    "journal" : "Clinical pharmacology and therapeutics",
-    "meshDiseases" : [ ],
-    "meshTerms" : [ ],
-    "month" : 8,
-    "nonHuman" : false,
-    "objCls" : "Literature",
-    "pediatric" : false,
-    "pgkbPublication" : false,
-    "pubDate" : "2020-08-01T00:00:00-07:00",
-    "summary" : "Proton pump inhibitors (PPIs) are widely used for acid suppression in the treatment and prevention of many conditions including gastroesophageal reflux disease, gastric and duodenal ulcers, erosive esophagitis, H. pylori infection, and pathological hypersecretory conditions. Most PPIs are metabolized primarily by CYP2C19 into inactive metabolites, and CYP2C19 genotype has been linked to PPI exposure, efficacy, and adverse effects. We summarize the evidence from the literature and provide therapeutic recommendations for PPI prescribing based on CYP2C19 genotype (updates at www.cpicpgx.org). The potential benefits of using CYP2C19 genotype data to guide PPI therapy include 1) identifying patients with genotypes predictive of lower plasma exposure and prescribing them a higher dose that will increase the likelihood of efficacy; and 2) identifying patients on chronic therapy with genotypes predictive of higher plasma exposure and prescribing them a decreased dose to minimize the risk of toxicity that is associated with long-term PPI use, particularly at higher plasma concentrations.",
-    "version" : 0,
-    "year" : 2020
-  } ],
-  "guideline" : {
-    "@id" : "https://pharmgkb.org/guidelineAnnotation/PA166220321",
-    "@context" : "https://api.pharmgkb.org/jsonld/guidelineAnnotation.jsonld",
-    "objCls" : "Guideline Annotation",
-    "id" : "PA166220321",
-    "name" : "Annotation of CPIC Guideline for esomeprazole, rabeprazole and CYP2C19",
-    "cancerGenome" : false,
-    "crossReferences" : [ {
-      "@id" : "https://pharmgkb.org/crossReference/url/https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/",
-      "@context" : "https://api.pharmgkb.org/jsonld/crossReference.jsonld",
-      "id" : 1451254360,
-      "resource" : "URL",
-      "resourceId" : "https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/",
-      "_url" : "https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/",
-      "version" : 0
-    } ],
-    "descriptiveVideoId" : "KgRrti8dIRs",
-    "guidelineGenes" : [ ],
-    "history" : [ {
-      "id" : 1451243920,
-      "date" : "2020-08-11T13:55:36.349-07:00",
-      "description" : "posted",
-      "type" : "Update",
-      "version" : 0
-    }, {
-      "id" : 1451612282,
-      "date" : "2021-12-09T14:02:57.535-08:00",
-      "description" : "Added video",
-      "type" : "Update",
-      "version" : 0
-    } ],
-    "literature" : [ {"@id":"https://pharmgkb.org/literature/15113542","@context":"https://api.pharmgkb.org/jsonld/literature.jsonld","id":15113542,"title":"Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2C19 and Proton Pump Inhibitor Dosing.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/32770672","crossReferences":[{"@id":"https://pharmgkb.org/crossReference/pubMed/32770672","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1451242280,"resource":"PubMed","resourceId":"32770672","_url":"https://www.ncbi.nlm.nih.gov/pubmed/32770672"},{"@id":"https://pharmgkb.org/crossReference/doi/10.1002/cpt.2015","@context":"https://api.pharmgkb.org/jsonld/crossReference.jsonld","id":1451242281,"resource":"DOI","resourceId":"10.1002/cpt.2015","_url":"http://dx.doi.org/10.1002%2Fcpt.2015"}],"objCls":"Literature"} ],
-    "pediatric" : false,
-    "recommendation" : false,
-    "relatedAlleles" : [ ],
-    "relatedChemicals" : [ {
-      "@id" : "https://pharmgkb.org/chemical/PA10075",
-      "@context" : "https://api.pharmgkb.org/jsonld/chemical.jsonld",
-      "objCls" : "Chemical",
-      "id" : "PA10075",
-      "name" : "esomeprazole",
-      "version" : 15
-    }, {
-      "@id" : "https://pharmgkb.org/chemical/PA451216",
-      "@context" : "https://api.pharmgkb.org/jsonld/chemical.jsonld",
-      "objCls" : "Chemical",
-      "id" : "PA451216",
-      "name" : "rabeprazole",
-      "version" : 13
-    } ],
-    "relatedGenes" : [ {
-      "@id" : "https://pharmgkb.org/gene/PA124",
-      "@context" : "https://api.pharmgkb.org/jsonld/gene.jsonld",
-      "objCls" : "Gene",
-      "id" : "PA124",
-      "symbol" : "CYP2C19",
-      "name" : "cytochrome P450 family 2 subfamily C member 19",
-      "version" : 7209
-    } ],
-    "source" : "CPIC",
-    "summaryMarkdown" : {
-      "id" : 1451231900,
-      "html" : "<p>The CPIC Dosing Guideline for <em>CYP2C19</em> and Proton Pump Inhibitor Dosing states that inconsistent findings regarding the effect of <em>CYP2C19</em> genotype on the pharmacokinetics and therapeutic response to esomeprazole and rabeprazole preclude making recommendations for these proton pump inhibitors.</p>\n",
-      "version" : 0
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166220321",
+    "name": "Annotation of CPIC Guideline for esomeprazole, rabeprazole and CYP2C19",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1451254360,
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/",
+        "_url": "https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/",
+        "version": 0
+      }
+    ],
+    "descriptiveVideoId": "KgRrti8dIRs",
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451243920,
+        "date": "2020-08-11T13:55:36.349-07:00",
+        "description": "posted",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451612282,
+        "date": "2021-12-09T14:02:57.535-08:00",
+        "description": "Added video",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15113542,"title":"Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2C19 and Proton Pump Inhibitor Dosing.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7868475","crossReferences":[{"id":1451837569,"resource":"PubMed Central","resourceId":"PMC7868475","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7868475"},{"id":1451242280,"resource":"PubMed","resourceId":"32770672","_url":"https://www.ncbi.nlm.nih.gov/pubmed/32770672"},{"id":1451242281,"resource":"DOI","resourceId":"10.1002/cpt.2015","_url":"http://dx.doi.org/10.1002%2Fcpt.2015"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": false,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA10075",
+        "name": "esomeprazole",
+        "version": 15
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA451216",
+        "name": "rabeprazole",
+        "version": 13
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA124",
+        "symbol": "CYP2C19",
+        "name": "cytochrome P450 family 2 subfamily C member 19",
+        "version": 7209
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1451231900,
+      "html": "<p>The CPIC Dosing Guideline for <em>CYP2C19</em> and Proton Pump Inhibitor Dosing states that inconsistent findings regarding the effect of <em>CYP2C19</em> genotype on the pharmacokinetics and therapeutic response to esomeprazole and rabeprazole preclude making recommendations for these proton pump inhibitors.</p>\n",
+      "version": 0
     },
-    "terms" : [ ],
-    "textMarkdown" : {
-      "id" : 1451433681,
-      "html" : "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/\" target=\"_blank\">CPIC&reg; Guideline for CYP2C19 and Proton Pump Inhibitor Dosing</a>.</p>\n<h3 id=\"august-2020\">August 2020</h3>\n<p><em>Advance online publication August 2020.</em></p>\n<ul>\n<li>\n<p>The <a rel=\"noopener noreferrer\" href=\"https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/cpt.2015\" target=\"_blank\">CPIC Guideline for CYP2C19 and Proton Pump Inhibitor Dosing</a> is published in <em>Clinical Pharmacology and Therapeutics</em>.</p>\n</li>\n<li>\n<p>These guidelines are applicable to:</p>\n<ul>\n<li>pediatric patients</li>\n<li>adult patients</li>\n</ul>\n</li>\n<li>\n<p>Excerpts from the 2020 Proton Pump Inhibitor Dosing dosing guideline:</p>\n<ul>\n<li>&quot;There is less evidence linking <em>CYP2C19</em> genotype with variability in plasma concentrations and effectiveness of second-generation PPIs (esomeprazole, rabeprazole, and dexlansoprazole).&quot;</li>\n<li>&quot;The evidence associating <em>CYP2C19</em> genotype with esomeprazole, rabeprazole, and dexlansoprazole plasma concentrations, efficacy, and toxicity was graded as moderate or weak.&quot; (see guideline supplement)</li>\n<li>&quot;Inconsistent findings regarding the effect of <em>CYP2C19</em> genotype on the pharmacokinetics and therapeutic response to esomeprazole and rabeprazole preclude making recommendations for these second-generation PPIs (i.e., CPIC level C; no recommendation).&quot;</li>\n</ul>\n</li>\n<li>\n<p>Download and read:</p>\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/PPI/2020/32770672.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium guideline for <em>CYP2C19</em> and Proton Pump Inhibitors</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/PPI/2020/32770672-supplement.pdf\" target=\"_blank\">2020 supplement</a></li>\n</ul>\n</li>\n</ul>\n",
-      "version" : 0
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433681,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/\" target=\"_blank\">CPIC&reg; Guideline for CYP2C19 and Proton Pump Inhibitor Dosing</a>.</p>\n<h3 id=\"august-2020\">August 2020</h3>\n<p><em>Advance online publication August 2020.</em></p>\n<ul>\n<li>\n<p>The <a rel=\"noopener noreferrer\" href=\"https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/cpt.2015\" target=\"_blank\">CPIC Guideline for CYP2C19 and Proton Pump Inhibitor Dosing</a> is published in <em>Clinical Pharmacology and Therapeutics</em>.</p>\n</li>\n<li>\n<p>These guidelines are applicable to:</p>\n<ul>\n<li>pediatric patients</li>\n<li>adult patients</li>\n</ul>\n</li>\n<li>\n<p>Excerpts from the 2020 Proton Pump Inhibitor Dosing dosing guideline:</p>\n<ul>\n<li>&quot;There is less evidence linking <em>CYP2C19</em> genotype with variability in plasma concentrations and effectiveness of second-generation PPIs (esomeprazole, rabeprazole, and dexlansoprazole).&quot;</li>\n<li>&quot;The evidence associating <em>CYP2C19</em> genotype with esomeprazole, rabeprazole, and dexlansoprazole plasma concentrations, efficacy, and toxicity was graded as moderate or weak.&quot; (see guideline supplement)</li>\n<li>&quot;Inconsistent findings regarding the effect of <em>CYP2C19</em> genotype on the pharmacokinetics and therapeutic response to esomeprazole and rabeprazole preclude making recommendations for these second-generation PPIs (i.e., CPIC level C; no recommendation).&quot;</li>\n</ul>\n</li>\n<li>\n<p>Download and read:</p>\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/PPI/2020/32770672.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium guideline for <em>CYP2C19</em> and Proton Pump Inhibitors</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/PPI/2020/32770672-supplement.pdf\" target=\"_blank\">2020 supplement</a></li>\n</ul>\n</li>\n</ul>\n",
+      "version": 0
     },
-    "userId" : "katrin",
-    "version" : 3
+    "userId": "katrin",
+    "version": 3
   }
 }
