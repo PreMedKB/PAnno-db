@@ -708,6 +708,8 @@ row_count = pymysql_cursor("LOAD DATA LOCAL INFILE '%s' INTO TABLE GuidelineMerg
 
 #-------------PharmGKB.GuidelineRule-------------#
 GuidelineMerge = pd.read_csv(TSV["GuidelineMerge"], sep="\t")
+GuidelineMerge = GuidelineMerge[GuidelineMerge.ID >= 632]
+
 # GuidelineMerge = GuidelineMerge.drop(columns=['ID']).drop_duplicates().reset_index(drop = True)
 # GuidelineMerge.insert(0, 'ID', (pd.DataFrame(GuidelineMerge.index)+1)[0].to_list())
 # GuidelineMerge = GuidelineMerge[['ID', 'Source', 'PAID', 'Summary', 'Phenotype', 'Genotype', 'Recommendation', 'Avoid', 'Alternate', 'Dosing', 'Gene', 'Drug', 'GeneID', 'DrugID']]
@@ -715,6 +717,8 @@ GuidelineMerge = pd.read_csv(TSV["GuidelineMerge"], sep="\t")
 
 GuidelineMerge = GuidelineMerge.drop(['Genotype'], axis=1).join(GuidelineMerge['Genotype'].str.split('; ', expand=True).stack().reset_index(level=1, drop=True).rename('Genotype')).drop_duplicates().reset_index(drop = True)
 GuidelineMerge = GuidelineMerge.drop(['Phenotype'], axis=1).join(GuidelineMerge['Phenotype'].str.split('; | \+ ', expand=True).stack().reset_index(level=1, drop=True).rename('Phenotype')).drop_duplicates().reset_index(drop = True)
+
+
 
 guideline_rule = []
 for index, row in GuidelineMerge.iterrows():
@@ -800,6 +804,12 @@ for index, row in GuidelineMerge.iterrows():
       phe = phe.replace('CYP2C9 ', '')
       res = cursor.execute('SELECT Allele1, Allele2 FROM DiplotypePhenotype WHERE Gene = "%s" AND Phenotype = "%s";' % (row.Gene, phe))
       res = cursor.fetchall()
+      if phe == 'Intermediate Metabolizer - *10':
+        res = cursor.execute('SELECT Allele1, Allele2 FROM DiplotypePhenotype WHERE Gene = "%s" AND Phenotype = "%s" AND Allele1 != "*10" AND Allele2 != "*10" AND Allele1 != "*10x2" AND Allele2 != "*10x2" AND ActivityScore = 1;' % (row.Gene, phe))
+        res = cursor.fetchall()
+      if phe == 'Intermediate Metabolizer' and row.PAID == 'PA166181885':
+        res = cursor.execute('SELECT Allele1, Allele2 FROM DiplotypePhenotype WHERE Gene = "%s" AND Phenotype = "%s" AND ID NOT IN (SELECT ID FROM DiplotypePhenotype WHERE Gene = "%s" AND Phenotype = "%s" AND Allele1 != "*10" AND Allele2 != "*10" AND Allele1 != "*10x2" AND Allele2 != "*10x2" AND ActivityScore = 1);' % (row.Gene, phe, row.Gene, phe))
+        res = cursor.fetchall()
       for alleles in res:
         Allele1 = alleles[0]; Allele2 = alleles[1]
         ClinAnnID = pymysql_cursor('SELECT ID FROM ClinAnn WHERE Gene = "%s" AND Allele1 = "%s" AND Allele2 = "%s" AND Drug = "%s";' % (row.Gene, Allele1, Allele2, Drug))
@@ -832,3 +842,21 @@ row_count = pymysql_cursor("LOAD DATA LOCAL INFILE '%s' INTO TABLE GuidelineRule
 # update `PAnno`.`GuidelineRule` set Phenotype='Normal Metabolizer' WHERE Phenotype='CYP2C9 Normal Metabolizer';
 # update `PAnno`.`GuidelineRule` set Phenotype='Decreased Function' WHERE Gene='SLCO1B1' AND Allele1='*1' AND Allele2='*2';
 # update `PAnno`.`GuidelineRule` set Phenotype='Intermediate Metabolizer' WHERE Gene='CYP2B6' AND Phenotype='*5/*6 or *5/*18';
+
+
+
+# ### Dump the final version and check manually
+# guide = cursor.execute("SELECT * FROM GuidelineMerge")
+# guide = cursor.fetchall()
+# guide_df = pd.DataFrame(guide, columns=['ID', 'Source', 'PAID', 'Summary', 'Phenotype', 'Genotype', 'Recommendation', 'Avoid', 'Alternate', 'Dosing', 'Gene', 'Drug', 'GeneID', 'DrugID'])
+# guide_df.Summary = guide_df.Summary.apply(lambda x : x.replace('\n', '\\n'))
+# guide_df.Recommendation = guide_df.Recommendation.apply(lambda x: x.replace('\n \n', '\n')).apply(lambda x : x.replace('\n', '\\n'))
+# guide_df.to_csv(TSV["GuidelineMerge"], sep="\t", index=0)#, quoting=3)
+
+
+# ### Dump the final version and check manually
+# rule = cursor.execute("SELECT * FROM GuidelineRule")
+# rule = cursor.fetchall()
+# rule_df = pd.DataFrame(rule, columns=["ID", "Gene", "Variant", "Allele1", "Allele2", "Phenotype", "ClinAnnID", "GuidelineID"])
+# rule_df = rule_df.drop(columns = ["ID"])
+# rule_df.to_csv('./data/panno/tables/PharmGKB.GuidelineRule.txt', sep="\t", index=0)#, quoting=3)
