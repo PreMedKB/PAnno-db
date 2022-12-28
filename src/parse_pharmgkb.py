@@ -708,7 +708,7 @@ row_count = pymysql_cursor("LOAD DATA LOCAL INFILE '%s' INTO TABLE GuidelineMerg
 
 #-------------PharmGKB.GuidelineRule-------------#
 GuidelineMerge = pd.read_csv(TSV["GuidelineMerge"], sep="\t")
-GuidelineMerge = GuidelineMerge[GuidelineMerge.ID >= 632]
+GuidelineMerge = GuidelineMerge[GuidelineMerge.ID.isin([230, 231, 232, 233, 546, 547, 548, 549, 82, 580, 343, 467, 393, 607])]
 
 # GuidelineMerge = GuidelineMerge.drop(columns=['ID']).drop_duplicates().reset_index(drop = True)
 # GuidelineMerge.insert(0, 'ID', (pd.DataFrame(GuidelineMerge.index)+1)[0].to_list())
@@ -842,6 +842,7 @@ row_count = pymysql_cursor("LOAD DATA LOCAL INFILE '%s' INTO TABLE GuidelineRule
 # update `PAnno`.`GuidelineRule` set Phenotype='Normal Metabolizer' WHERE Phenotype='CYP2C9 Normal Metabolizer';
 # update `PAnno`.`GuidelineRule` set Phenotype='Decreased Function' WHERE Gene='SLCO1B1' AND Allele1='*1' AND Allele2='*2';
 # update `PAnno`.`GuidelineRule` set Phenotype='Intermediate Metabolizer' WHERE Gene='CYP2B6' AND Phenotype='*5/*6 or *5/*18';
+# DELETE FROM GuidelineRule WHERE GuidelineID IN (SELECT ID FROM GuidelineMerge WHERE PAID IN ("PA166104984") AND Phenotype IN ("Intermediate Metabolizer", "Poor Metabolizer")) AND Allele1 IN ('*1', '*2', '*3') AND Allele2 IN ('*1', '*2', '*3');
 
 
 
